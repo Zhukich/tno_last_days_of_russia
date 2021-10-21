@@ -1,9 +1,9 @@
 ﻿l_russian:
 
 ## Leader Descriptions
-POLITICS_HE_YINGQIN_DESC:0 "It is unfortunate that every day, He Yingqin's control of Guizhou seems to be coming closer to it's end. The military is already practically controlled by Yunnan and the economy is hanging on by a thread.\n\nMost had expected He Yingqin, as one of Chiang Kai-Shek's right hand mans, to take an important role in the governance of China, and his shrewdness only supported this. Of course, few expected the Sino-Japanese War, in all of its furious terror, to render the old KMT dead and Wang Jingwei ascendant, least of all Yingqin. After defecting in the last few days of the war, He Yingqins political reputation survived by the slimmest margin, and he lies on a razor's edge. \n\nNow the Chinese appointed governor of Guizhou, balancing minority and Han relations and attempting to steadily liberalize the country, He Yingqin has one worry that keep him up at night. Yunnan. "
+POLITICS_HE_YINGQIN_DESC:0 "Печально осознавать сей факт, но кажется, что правление Хэ Инциня правинцией Гуйчжоу подходит к своему логическому завершению. Военные уже практически захватили контроль над всем Юньнанем, а экономика во всю приказывает долго жить.\n\nДа, многие ждали, что Хи Инцинь придёт к власти в Китае после Чана Кайши, как его правая рука, но даже не смотря на прекрасное ораторское мастерство всё пошло по известному месту. Мало кто ожидал, что даже после всех ужасов Японо-Китайской войны почти всю верхушку старого Гоминьдана, а также последователей Вана Цзинвея казнят. Меньше всех сего ожидал Инцинь. Даже не смотря на его предательство и дезертирство из рядов Гоминьдана, у Инциня осталась какая-то малейшая политическая поддержка, но она была просто мизерной. \n\nТеперь, когда китайцы выбрали губернатора Гуйчжоу, права ханьцев и меньшинств, населяющих Юньнань более-менее уравновесились. Началась либерализация. Но тем не менее, Хэ Инциня всё ещё беспокоит проблема, которая не даёт ему спать по ночам. Юньнань. "
 
-GUZ_THENEWORDER_DESC:0 "As with so many other provinces in the new China, Guizhou had been overrun by the Japanese forces and handed over to Chinese administration. He Yingqin soon found that his only 'army' was little more than an extension of Yunnan's clique of officers. During the 1950's He chose to focus on domestic development and building up the people's confidence in government once again. At every turn however he confronted with monopolists, Yunnan officers and the peoples own memory of the KMT's many failures. By 1960 it seemed He had turned reclusive, seemingly overcome by the many failures both of himself and the KMT he had loved. However, in meetings behind closed doors and in He Yingqin's personal audience a bold reform plan has been developed. Perhaps there is still hope for democracy in China after all..."
+GUZ_THENEWORDER_DESC:0 "Как и любая другая провинция нового Китая, Гуйчжоу был также временно оккупирован японскими войками, а позже, передан под юрисдикцию китайской администрации. Хэ Инцинь уже начал осознавать, что его "войско" немногим больше, чем просто юньнаньская клика офицеров. В 1950е Хэ взял курс на поддержку местной промышленности, чем начал завоёвывать доверие народа. С каждым подобным шагом, он переходил дорогу местным монополистам, юньнаньским офицерам и тем, кто ещё помнит многочисленные провалы Гоминьдана во внутренней политике. К 1960 Хэ всё меньше появлялся на публике и кажется, что причиной сему многочисленные провалы его реформ, так и провальных реформ Гоминьдана, членом которого он является. Но тем не менее, на встречах за закрытыми дверями, Хэ Инцинем был разработан достаточно радикальный план по перестройке экономики. Возможно, когда-нибудь в Китай придёт демократия..."
 
 ### Country Names ###
 GUZ_fascism:0 "Гуйчжоу"
@@ -45,18 +45,18 @@ GUZ_army_of_the_southwest:0 "Под защитой Юньаня"
 GUZ_army_of_the_southwest_desc:0 "Хотя наша гражданская администрация достаточно автономна, контроль над нашими вооруженными силами полностью находится в руках Лу Ханя, губернатора провинции Юньнань. Таким образом, у нас нет средств для поддержания наших собственных вооруженных сил."
 
 #Events
-guz.1.t:0 "Election Results"
-guz.1.d:0 "The winner is nobody because you are cheating"
-guz.1.a:0 "Stop cheating"
+guz.1.t:0 "Результаты выборов"
+guz.1.d:0 "Результаты выборов отменены в связи со многочисленными нарушениями"
+guz.1.a:0 "Харе вбрасывать!"
 
-guz.100.t:0 "The Announcement"
+guz.100.t:0 "Внимание!"
 guz.100.desc:0 ""
-guz.100.a:0 "The Southwest is United."
+guz.100.a:0 "Юго-Запад объединён!"
 
-guz.101.t:0 "He Yingqin Arrested!"
-guz.101.desc:0 "Oh god, Oh fuck"
-guz.101.a:0 "This is so sad"
+guz.101.t:0 "Хэ Инцинь арестован!"
+guz.101.desc:0 "бля-бля-бля!"
+guz.101.a:0 "Это? Это печально!"
 
-guz.102.t:0 "Final Touches"
+guz.102.t:0 "Последние штрихи"
 guz.102.desc:0 ""
-guz.102.a:0 "The Southwest is United."
+guz.102.a:0 "Иииии... Юго-Запад един!"
