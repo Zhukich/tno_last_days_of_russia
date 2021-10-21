@@ -1,15 +1,15 @@
 ﻿l_russian:
 
- GAL_communist_party:0 "PCG"
- GAL_communist_party_long:0 "Partido Comunista de Galicia"
- GAL_socialist_party:0 "ANPG"
- GAL_socialist_party_long:0 "Asemblea Nacional-Popular Galega"
- GAL_social_democrat_party:0 "PSdeG"
- GAL_social_democrat_party_long:0 "Partido dos Socialistas de Galicia"
- GAL_social_liberal_party:0 "PG"
- GAL_social_liberal_party_long:0 "Partido Galeguista" 
- GAL_social_conservative_party:0 "DG"
- GAL_social_conservative_party_long:0 "Dereita Galeguista" 
+ GAL_communist_party:0 "КПГ"
+ GAL_communist_party_long:0 "Коммунистическая партия Галисии"
+ GAL_socialist_party:0 "ГННС"
+ GAL_socialist_party_long:0 "Галисийское национально-народное Собрание"
+ GAL_social_democrat_party:0 "ПдвГ"
+ GAL_social_democrat_party_long:0 "Партия двух социалистов Галисии"
+ GAL_social_liberal_party:0 "ГП"
+ GAL_social_liberal_party_long:0 "Галисийская Партия" 
+ GAL_social_conservative_party:0 "СГ"
+ GAL_social_conservative_party_long:0 "Свободная Галисия" 
  
  #Country names 
 
@@ -31,8 +31,8 @@
 
 
 #Ministers 
-POLITICS_ALVARO_CUNQUEIRO_DESC:0 "Álvaro Cunqueiro, a hero for the cause of Galician independence for some and a treasonous traitor to many others, had come from humble beginnings as the son of a pharmacist. He gave up his education in philosophy and literature at the University of Santiago de Compostela in 1927, deciding instead to pursue a career in journalism. Noticing his skill, a variety of newspapers and magazines such as El Pueblo Gallego employed the young writer. Living in a divided republic he however began to be influenced by politics, culminating in him being a founding member of the Partido Galeguista or the Galicianist Nationalist Party. During the civil war he encountered further nationalist politics, this time in the form of Spanish nationalism, as he began to write propaganda for the Falange. He however never lost his values and continued to pursue secretive contacts with other independence advocates and the new civil war provided the perfect opportunity to give action to his cause.\n\nFollowing the realisation of local elites in Galicia that none of their own personal clout would be enough to rally the new nation against it foes, they began to look for someone else. Final crisis deliberations ultimately led to Cunqueiro being nominated, his charisma and popularity amongst the people were factors which could not be ignored. Now leading the movement to secede he stands on top of the Galician Republic. However, his acknowledgement of not being a politician but just a simple writer seems to confirm he will not pursue leadership once the conflict is over. For now, however he is the perfect figurehead, a man beloved for his writings and experienced in the art of propaganda."
-GAL_Manuel_Lesteiro_hog:0 "Manuel Lesteiro López" 
-GAL_Ramon_Pineiro_for:0 "Ramón Piñeiro López" 
-GAL_Eulogio_Gomez_eco:0 "Eulogio Gómez Franqueira"
-GAL_Bibiano_Fernandez_mil:0 "Bibiano Fernández Osorio-Tafall" 
+POLITICS_ALVARO_CUNQUEIRO_DESC:0 "Альваро Кункейро, герой борьбы за независимость Галсии дома, и вероломный предатель для многих иных, начинал как обычный сын фармацевта. Он отказался от своего образования в области философии и литературы в Университете Сантьяго-де-Компостела в 1927 году, решив вместо этого строить карьеру журналиста. Заметив мастерство Альваро, множество газет и изданий, таких как El Pueblo Gallego, подписали контракт с молодым писателем. Живя в разделённой республике, он претерпел влияния политики, кульминацией которой стало основание Галисийской Националистической партии. Во время гражданской войны он столкнулся с веяниями национальных настроений, на этот раз в виде испанского национализма, когда принялся сочинять памфлеты для фалангистов. Однако он никогда не расставался со своими истинными ценностями, продолжая поддерживать тайные контакты с другими сторонниками независимости Галисии, и раздирающая страну гражданская война стала прекрасной возможностью для воплощения его идей.\n\nПосле осознания местными галисийскими элитами того факта, что их возможностей недостаточно для того, чтобы сплотить новую нацию против её врагов, они начали искать иные возможности. Выбор пал на выдвижение кандидатуры Кункейро, что обуславливалось его харизмой и популярностью среди народа, кои факторы никак нельзя игнорировать. Возглавляя движение за свободу, он сидит на вершине Галисийской Республики. Он признался себе, что политика - не его ремесло - и потому он не будет стремиться к лидерству после окончания конфликта. На данный момент он является идеальной личиной, за которой последуют многие."
+GAL_Manuel_Lesteiro_hog:0 "Мануэль Лестейро Лопез" 
+GAL_Ramon_Pineiro_for:0 "Рамон Пиньейро Лопез" 
+GAL_Eulogio_Gomez_eco:0 "Эулохио Гомез Франкуэйро"
+GAL_Bibiano_Fernandez_mil:0 "Бибьяно Фернандез Озорио" 
