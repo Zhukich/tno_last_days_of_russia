@@ -1,0 +1,121 @@
+﻿l_russian:
+ 
+ # Second West Russian War
+ 
+ OST_RUS:0 "Балтийская Федерация"
+ OST_RUS_DEF:0 "Балтийская Федерация"
+ OST_RUS_ADJ:0 "Балтийск"
+ 
+ UKR_RUS:0 "Республика Украина"
+ UKR_RUS_DEF:0 "Республика Украина"
+ UKR_RUS_ADJ:0 "Украинск"
+ 
+ ERS_FED:0 "Томская Федерация"
+ ERS_FED_DEF:0 "Томская Федерация"
+ ERS_FED_ADJ:0 "Российск"
+ 
+ SAH_NEU:0 "Красноярская Нейтральная Зона"
+ SAH_NEU_DEF:0 "Красноярская Нейтральная Зона"
+ SAH_NEW_ADJ:0 "Российск"
+ 
+ TOB_uralrepublic:0 "Западно-Сибирская Республика"
+ TOB_uralrepublic_DEF:0 "Западно-Сибирская Республика"
+ TOB_uralrepublic_ADF:0 "Российск"
+ 
+ ARC_FED:0 "Всероссийское Временное Военное Правительство"
+ ARC_FED_DEF:0 "Всероссийское Временное Военное Правительство"
+ ARC_FED_ADJ:0 "Российск"
+ 
+ VTY_REP:0 "Западно-Российская Республика"
+ VTY_REP_DEF:0 "Западно-Российская Республика"
+ VTY_REP_ADJ:0 "Российск"
+ 
+ IRK_SAB:0 "Восточно-Сибирская Советская Республика"
+ IRK_SAB_DEF:0 "Восточно-Сибирская Советская Республика"
+ IRK_SAB_ADJ:0 "Советск"
+ 
+ # Peace Deals - Novosibirsk
+ 
+ MOS_Novosibirsk:0 "Западно-Российская Зона Восстановления"
+ MOS_Novosibirsk_DEF:0 "Западно-Российская Зона Восстановления"
+ MOS_Novosibirsk_ADJ:0 "Западо-российск"
+ 
+ VLG_Novosibirsk:0 "Администрация Восстановления Поволжья"
+ VLG_Novosibirsk_DEF:0 "Администрация Восстановления Поволжья"
+ VLG_Novosibirsk_ADJ:0 "Поволжск немецк"
+ 
+ PET_Novosibirsk:0 "Администрация Восстановления Петрограда"
+ PET_Novosibirsk_DEF:0 "Администрация Восстановления Петрограда"
+ PET_Novosibirsk_ADJ:0 "Балтийск Немецк"
+ 
+ CAU_Novosibirsk:0 "Кавказская Зона Восстановления"
+ CAU_Novosibirsk_DEF:0 "Кавказская Зона Восстановления"
+ CAU_Novosibirsk_ADJ:0 "Кавказск"
+ 
+ CRI_Novosibirsk:0 "Черноморская Зона Восстановления"
+ CRI_Novosibirsk_DEF:0 "Черноморская Зона Восстановления"
+ CRI_Novosibirsk_ADJ:0 "Крымск"
+ 
+ UKR_Novosibirsk:0 "Украинская Зона Восстановления"
+ UKR_Novosibirsk_DEF:0 "Украинская Зона Восстановления"
+ UKR_Novosibirsk_ADJ:0 "Украинск"
+ 
+ OST_Novosibirsk:0 "Балтийская Зона Восстановления"
+ OST_Novosibirsk_DEF:0 "Балтийская Зона Восстановления"
+ OST_Novosibirsk_ADJ:0 "Балтийск"
+ 
+ BLR_Novosibirsk:0 "Белорусская Зона Восстановления"
+ BLR_Novosibirsk_DEF:0 "Белорусская Зона Восстановления"
+ BLR_Novosibirsk_ADJ:0 "Беларуск"
+ 
+ POL_Novosibirsk:0 "Польская Зона Восстановления"
+ POL_Novosibirsk_DEF:0 "Польская Зона Восстановления"
+ POL_Novosibirsk_ADJ:0 "Польск"
+ 
+ CZE_Novosibirsk:0 "Чешская Зона Восстановления"
+ CZE_Novosibirsk_DEF:0 "Чешская Зона Восстановления"
+ CZE_Novosibirsk_ADJ:0 "Чешск"
+ 
+ SLO_Novosibirsk:0 "Словацкая Оккупационная Зона"
+ SLO_Novosibirsk_DEF:0 "Российский Военный Округ Словакии"
+ SLO_Novosibirsk_ADJ:0 "Словакск"
+ 
+ HOL_Novosibirsk:0 "Голландская Оккупационная Зона"
+ HOL_Novosibirsk_DEF:0 "Российский Военный Округ Нидерландов"
+ HOL_Novosibirsk_ADJ:0 "Голландск"
+ 
+ DEN_Novosibirsk:0 "Датская Оккупационная Зона"
+ DEN_Novosibirsk_DEF:0 "Российский Военный Округ Дании"
+ DEN_Novosibirsk_ADJ:0 "Датск"
+ 
+ GER_Novosibirsk:0 "Всероссийская Военная Администрация Германии"
+ GER_Novosibirsk_DEF:0 "Всероссийская Военная Администрация Германии"
+ GER_Novosibirsk_ADJ:0 "Германск"
+ 
+ AUS_Novosibirsk:0 "Австрийская Оккупационная Зона"
+ AUS_Novosibirsk_DEF:0 "Российский Военный Округ Австрии"
+ AUS_Novosibirsk_ADJ:0 "Австрийск"
+ 
+ BLR_free:0 "Республика Беларусь"
+ BLR_free_DEF:0 "Республика Беларусь"
+ BLR_free_ADJ:0 "Беларуск"
+ 
+ PET_PAVcollab:0 "Свободный Город Санкт-Петербург"
+ PET_PAVcollab_DEF:0 "Свободный Немецкий Город Санкт-Петербург"
+ PET_PAVcollab_ADJ:0 "Санкт-Петербургск"
+ 
+ VLG_PAVcollab:0 "Республика Поволжье"
+ VLG_PAVcollab_DEF:0 "Федеративная Республика Поволжье"
+ VLG_PAVcollab_ADJ:0 "Немецк"
+ 
+ GOT_PAVcollab:0 "Конфедерация Готенланд"
+ GOT_PAVcollab_DEF:0 "Конфедерация Готенланд"
+ GOT_PAVcollab_ADJ:0 "Готск"
+ 
+ KOL_VLD:0 "Зона Реинтеграции Дальнего Востока"
+ KOL_VLD_DEF:0 "Зона Реинтеграции Дальнего Востока"
+ KOL_VLD_ADJ:0 "Дальне-восточн"
+ 
+ XSM_CHI:0 "Республика Западного Китая"
+ XSM_CHI_DEF:0 "Республика Западного Китая"
+ XSM_CHI_ADJ:0 "Китайск"
