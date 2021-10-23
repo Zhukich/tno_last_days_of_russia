@@ -36,7 +36,7 @@
  
   ### decisions ### - (Pineapples Decision area)
   
-  RUS_War_Overview_Deccat: "[Get2WRWTitle]"
+  RUS_War_Overview_Deccat:0 "[Get2WRWTitle]"
   the_great_trial:0 "§ВЕЛИКИЙ СУД§!"
   the_great_war_of_liberation:0 "Великая освободительная война"
   the_second_great_patriotic_war:0 "Вторая Великая Отечественная война"
