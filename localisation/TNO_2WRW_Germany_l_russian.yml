@@ -1,0 +1,21 @@
+﻿l_russian:
+
+# Second West Russian War
+
+reich.2000.t:0 "The Russians Demand our Surrender"
+reich.2000.desc:0 ""
+reich.2000.a:0 "Tell the Russians we're prepared to Negotiate"
+
+reich.2001.t:0 "The Russians Surrender!"
+reich.2001.desc:0 "As expected, the Slavic hordes of the east have been routed. Their pathetic armies, crushed beneath the marching boot of the Aryan soldier. Unfortunately, those barbarians are preparing their nuclear weaponary and are preparing to attack. For the safety of Germany, we should approach their government and gain favourable terms of surrender before they plunge the world into darkness."
+reich.2001.a:0 "Tell them we want the A-A Line restored. Nothing more"
+
+# Novosibirsk
+
+reich.2002.t:0 "The Federation demands our Surrender"
+reich.2002.desc:0 "The Russian Federation's All-Russian Army have punched through the frontlines of the Einheitspakt, inching ever closer to the borders of Germany proper. With Riga and Kiev now fallen, perhaps it is time to approach President Shukshin to discuss their terms and bring an end to the conflict. If all else fails, we still have our nuclear arsenal on stand-by."
+reich.2002.a:0 "Get Shukshin on the line!"
+
+reich.2003.t:0 "The Federation demands our Surrender"
+reich.2003.desc:0 "The Russian Federation's All-Russian Army have punched through the frontlines of the Einheitspakt, inching ever closer to the borders of Germany proper. With Riga and Kiev now fallen, perhaps it is time to approach the elusive President Pokryshkin to discuss their terms and bring an end to the conflict. If all else fails, we still have our nuclear arsenal on stand-by."
+reich.2003.a:0 "Get Pokryshkin on the line!"

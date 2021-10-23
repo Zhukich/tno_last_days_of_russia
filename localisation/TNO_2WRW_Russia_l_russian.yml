@@ -1,0 +1,165 @@
+﻿l_russian:
+ 
+ # Second West Russian War #
+ 
+ #Coring
+ RUS_integration_cost_days_decrease_tt:0 "This will §Gslightly decrease coring time§!.\n"
+ RUS_coring_integrate_moscow:0 "Integrate §YMoscow§!"
+ RUS_coring_integrate_petrograd:0 "Integrate §YPetrograd§!"
+ RUS_coring_integrate_tver:0 "Integrate §YTver§!"
+ RUS_coring_integrate_novgorod:0 "Integrate §YNovgorod§!"
+ RUS_coring_integrate_rzhev:0 "Integrate §YRzhev§!"
+ RUS_coring_integrate_yaroslavl:0 "Integrate §YYaroslavl§!"
+ RUS_coring_integrate_smolensk:0 "Integrate §YSmolensk§!"
+ RUS_coring_integrate_tula:0 "Integrate §YTula§!"
+ RUS_coring_integrate_kursk:0 "Integrate §YKursk§!"
+ RUS_coring_integrate_ryazan:0 "Integrate §YRyazan§!"
+ RUS_coring_integrate_saratov:0 "Integrate §YSaratov§!"
+ RUS_coring_integrate_voronezh:0 "Integrate §YVoronezh§!"
+ RUS_coring_integrate_millerovo:0 "Integrate §YMillerovo§!"
+ RUS_coring_integrate_volgograd:0 "Integrate §YVolgograd§!"
+ RUS_coring_integrate_stolbovo:0 "Integrate §YStolbovo§!"
+ 
+ #Central Asia#
+ RUS_coring_integrate_kyrgyzstan:0 "Integrate §YKyrgyzstan§!"
+ RUS_coring_integrate_tajikistan:0 "Integrate §YTajikistan§!"
+ RUS_coring_integrate_uzbekistan:0 "Integrate §YUzbekistan§!"
+ RUS_coring_integrate_turkmenistan:0 "Integrate §YTurkmenistan§!"
+ 
+ #Outer Manchuria#
+ RUS_coring_integrate_birobidzhan:0 "Integrate §YBirobidzhan§!"
+ RUS_coring_integrate_khabarovsk:0 "Integrate §YKhabarovsk§!"
+ RUS_coring_integrate_vladivostok:0 "Integrate §YVladivostok§!"
+ 
+ #Ostland#
+ RUS_coring_integrate_estonia:0 "Integrate §YEstonia§!"
+ RUS_coring_integrate_latvia:0 "Integrate §YLatvia§!"
+ RUS_coring_integrate_lithuania:0 "Integrate §YLithuania§!"
+ RUS_coring_integrate_minsk:0 "Integrate §YMinsk§!"
+ RUS_coring_integrate_brest:0 "Integrate §YBrest§!"
+ 
+ #Caucusus#
+ RUS_coring_integrate_circassia:0 "Integrate §YCircassia§!"
+ RUS_coring_integrate_chechnya:0 "Integrate §YChechnya§!"
+ RUS_coring_integrate_azerbaijan:0 "Integrate §YAzerbaijan§!"
+ RUS_coring_integrate_georgia:0 "Integrate §YGeorgia§!"
+ RUS_coring_integrate_armenia:0 "Integrate §YArmenia§!"
+ 
+ #Misc#
+ RUS_coring_integrate_crimea:0 "Integrate §YCrimea§!"
+ RUS_coring_integrate_west_mongolia:0 "Integrate §YWestern Mongolia§!"
+ 
+ #Ukraine#
+ RUS_coring_integrate_cossacks:0 "Integrate §YRostov§!"
+ RUS_coring_integrate_kharkiv:0 "Integrate §YKharkiv§!"
+ RUS_coring_integrate_donetsk:0 "Integrate §YDonetsk§!"
+ RUS_coring_integrate_mykolaiv:0 "Integrate §YMykolaiv§!"
+ RUS_coring_integrate_kyiv:0 "Integrate §YKyiv§!"
+ RUS_coring_integrate_volyn:0 "Integrate §YVolyn§!"
+ RUS_coring_integrate_odesa:0 "Integrate §YOdesa§!"
+
+ RUS_2WRW_category:0 "Second West Russian War"
+ RUS_intervention_category:0 "Russian Global Intervention"
+ 
+ RUS_invade_reich:0 "Invade the §RReich§!"
+ RUS_invade_finland:0 "Invade §RFinland§!"
+ RUS_shukshin_invade_reich:0 "The Federation Invades the §REinheitspakt§!"
+ RUS_pokryshkin_invade_reich:0 "The Federation Invades the §REinheitspakt§!"
+ RUS_commence_great_trial:0 "Commence the §RGreat Trial§!"
+ RUS_werbell_invade_reich:0 "The USR Invades the §REinheitspakt§!"
+ RUS_intervention_in_central_asia:0 "Intervention in §YCentral Asia§!"
+ RUS_superregional_stage:0 "Super Regional Stage of Russia"
+ RUS_national_unification:0 "Has Reunited §WRu§!§Bss§!§Ria§!"
+ RUS_negotiate_for_vladivostok:0 "Negotiate for §YVladivostok§!"
+ 
+ PAV_novosibirsk_war_preparation_shukshin:0 "Shukshin's War Preparation"
+ PAV_load_unification_shukshin_tree:0 "Load Shukshins's Unification Tree"
+ 
+ # National Reformation
+
+ PAV_the_national_reformation:0 "The National Reformation"
+ 
+ # Custom Tooltips
+ 
+ russian_culture_conversion_tt:0 "This land will become §RRussian§! once more"
+ 
+ # Russian Category
+ 
+ # Partisans
+ RUS_partisans_decisions_category:0 "Support Partisans Cells"
+ RUS_partisan_moskowien_decision:0 "Support §RMoskowien Partisans§!"
+ RUS_partisan_kaukasia_decision:0 "Support §RCaucasian Partisans§!"
+ RUS_partisan_ukraine_decision:0 "Support §RUkrainian Partisans§!"
+ RUS_partisan_ostland_decision:0 "Support §ROstland Partisans§!"
+ 
+ RUS_recruit_stolbovo_decision:0 "Recruit the §YStolbovo Partisans§!"
+ RUS_recruit_volkhov_decision:0 "Recruit the §YVolkhov Partisans§!"
+ RUS_recruit_petrograd_decision:0 "Recruit the §YPetrograd Partisans§!"
+ RUS_recruit_luga_decision:0 "Recruit the §YLuga Partisans§!"
+ RUS_recruit_novgorod_decision:0 "Recruit the §YNovgorod Partisans§!"
+ RUS_recruit_pskov_decision:0 "Recruit the §YPskov Partisans§!"
+ RUS_recruit_ostrov_decision:0 "Recruit the §YOstrov Partisans§!"
+ RUS_recruit_yaroslavl_decision:0 "Recruit the §YYaroslavl Partisans§!"
+ RUS_recruit_tver_decision:0 "Recruit the §YTver Partisans§!"
+ RUS_recruit_rzhev_decision:0 "Recruit the §YRzhev Partisans§!"
+ RUS_recruit_ivanovo_decision:0 "Recruit the §YIvanovo Partisans§!"
+ RUS_recruit_north_moscow_decision:0 "Recruit the §YNorth Moscow Partisans§!"
+ RUS_recruit_moscow_decision:0 "Recruit the §YMoscow Partisans§!"
+ RUS_recruit_smolensk_decision:0 "Recruit the §YSmolensk Partisans§!"
+ RUS_recruit_penza_decision:0 "Recruit the §YPenza Partisans§!"
+ RUS_recruit_ryazan_decision:0 "Recruit the §YRyazan Partisans§!"
+ RUS_recruit_tula_decision:0 "Recruit the §YTula Partisans§!"
+ RUS_recruit_kaluga_decision:0 "Recruit the §YKaluga Partisans§!"
+ RUS_recruit_roslavl_decision:0 "Recruit the §YRoslavl Partisans§!"
+ RUS_recruit_homiel_decision:0 "Recruit the §YHomiel Partisans§!"
+ RUS_recruit_bryansk_decision:0 "Recruit the §YBryansk Partisans§!"
+ RUS_recruit_oryol_decision:0 "Recruit the §YOryol Partisans§!"
+ RUS_recruit_kursk_decision:0 "Recruit the §YKursk Partisans§!"
+ RUS_recruit_lipetsk_decision:0 "Recruit the §YLipetsk Partisans§!"
+ RUS_recruit_tambov_decision:0 "Recruit the §YTambov Partisans§!"
+ RUS_recruit_saratov_decision:0 "Recruit the §YSaratov Partisans§!"
+ RUS_recruit_pokrovsk_decision:0 "Recruit the §YPokrovsk Partisans§!"
+ RUS_recruit_belgorod_decision:0 "Recruit the §YBelgorod Partisans§!"
+ RUS_recruit_voronezh_decision:0 "Recruit the §YVoronezh Partisans§!"
+ RUS_recruit_mikhaylovka_decision:0 "Recruit the §YMikhaylovka Partisans§!"
+ RUS_recruit_millerovo_decision:0 "Recruit the §YMillerovo Partisans§!"
+ RUS_recruit_volgograd_decision:0 "Recruit the §YVolgograd Partisans§!"
+ RUS_recruit_volgodonsk_decision:0 "Recruit the §YVolgodonsk Partisans§!"
+ RUS_recruit_elista_decision:0 "Recruit the §YElista Partisans§!"
+ RUS_recruit_astrakhan_decision:0 "Recruit the §YAstrakhan Partisans§!"
+ 
+ RUS_partisans_decisions_category_desc:0 "\n\n\n\n"
+ 
+ RUS_intervention_in_iranian_civil_war:0 "Intervention in the §YIranian Civil War§!"
+ 
+ # Iran Ideas
+ 
+ PER_russian_military_advisers:0 "Russian Military Adivisors"
+ 
+ # The Mountain War
+ 
+ RUS_fourthpower.1.t:0 "Turkey offers Cacasian territory"
+ RUS_fourthpower.1.desc:0 "Caucasian Stuff"
+ RUS_fourthpower.1.a:0 "Okay"
+ RUS_fourthpower.1.b:0 "Keep Going"
+
+# Ideas
+
+ RUS_reconstruction_era:0 "The Reconstruction Era"
+
+# Events
+
+ RUS.6000.t:0 "The Treaty of Riga"
+ RUS.6000.desc:0 "Our staggering advance into the lands of the Reich have stunned the globe, the Germans especially. The Germans have approached our government with an offer. To avoid nuclear war, the Germans are prepared to accept our Eastern European claims on the condition that Germany proper would be left untouched by the treaty."
+ RUS.6000.a:0 "Tell Germania we accept"
+ RUS.6000.b:0 "Temporary Bypasss incase this Treaty Appears"
+ 
+ # Novosibirsk
+ RUS.6002.t:0 "The Treaty of Riga"
+ RUS.6002.desc:0 "The German foreign minister entered the manor that was refered by the local Latvians as the House of the Black Heads. He navigated around the building, watched closely by Russian soldiers who guarded every hallway. The minister found himself in what looked to be a study. Waiting patiently in the room was the Federation's most famous Field Marshall.\n\nAlexander Novikov.\n\n"Ahh, you finally made it" the Russian greeted, clasping his hands togehter as he approached the foreign minister. "Let's make this quick, shall we? President Shukshin wants me back in Novosibirsk as soon as possible. Please, come." The Foreign Minister nodded, following the General toward the desk near the window. On it, the German saw the Treaty of Riga.\n\nThe document that would lose Germany the east. The decision to give up Eastern Europe would forever baffle the minister. Millions of lives had been spent taking over the east over the decades. Why just give it up? "Here it is. As you can see, I have already signed on behalf of President Shukshin. I'll leave you in the capable hands of General Kozin, he'll see to it that you are safely returned to Germany. Oh, and one more thing!"
+ RUS.6002.a:0 "Just sign right there, German"
+ 
+ RUS.6003.t:0 "The Treaty of Riga"
+ RUS.6003.desc:0 "The Foreign Minister for Germany awaited outside the doors of the office of a Russian officer. He adjusted his tie and took a glance at his watch, wondering what was taking so long? After a few more minutes of waiting, the door opened up, revealing a young man.\n\n”Right this way” the young man spoke calmly before stepping aside to allow the German through. The foreign minister spoke his thanks before entering the room. Inside, the minister could see the Federations most famed Field Marshal leaning on a desk.\n\nAlexander Novikov.\n\n "Sorry to keep you waiting, I was just on the phone with the President" the General said as he turned to face the German. "Why don’t we make this quick, shall we? President Pokryshkin wants me back in Novosibirsk and it’s best not to keep him waiting for long”. The Foreign Minister nodded, walking over to the desk where the document of the Treaty of Riga was.\n\nThe decision to give up Eastern Europe would haunt Germany for decades to come. So much sacrifice over the years only for all of Germany’s hard work to be given away. "The Federation has already signed the document as you can see. The only thing left is Germany’s signature” the General stated. The minister nodded as he searched for a pen.\n\n “Now, I best be leaving but I’ll be leaving you in my protégé’s capable hands”. The German looked back at the soldier for a moment. “What’s his name” the German asked. The soldier stepped forward, his gaze cold as he stared down the German minister.\n\n”Vladimir Putin”"
+ RUS.6003.a:0 ""A Meek German Minister""
+ 

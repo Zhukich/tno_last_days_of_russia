@@ -1,0 +1,112 @@
+﻿l_russian:
+
+##Second West Russian War Events##
+
+BE_SECOND_WEST_RUSSIAN_WAR_T:0 "THE SECOND WEST RUSSIAN WAR"
+BE_SECOND_WEST_RUSSIAN_WAR_D:0 "At war, a Russian man puts on a white shirt. He may live in sin, but he dies like a saint.\n- Vasily Grossman"
+BE_SECOND_WEST_RUSSIAN_WAR_A:0 "Russia's Final War"
+
+BE_TOTAL_RUSSIAN_VICTORY_T:0 "RUSSIAN VICTORY"
+BE_TOTAL_RUSSIAN_VICTORY_D:0 "To be the greatest, let no enemy nor ally surpass you, always strive for victory and greatness.\n- Dmitry Lovrinenko"
+BE_TOTAL_RUSSIAN_VICTORY_A:0 "Russia Reborn"
+
+BE_TOTAL_GERMAN_VICTORY_T:0 "GERMAN VICTORY"
+BE_TOTAL_GERMAN_VICTORY_D:0 "We have only to kick in the door, and the whole rotten structure will come crashing down.\n- Adolf Hitler"
+BE_TOTAL_GERMAN_VICTORY_A:0 "History Repeats Itself"
+
+BE_THE_GREAT_TRIAL_T:0 "THE GREAT TRIAL"
+BE_THE_GREAT_TRIAL_D:0 "Now I am become Death, the destroyer of worlds.\n- J. Robert Oppenheimer"
+BE_THE_GREAT_TRIAL_A:0 "The Final War"
+
+BE_NOVOSIBIRSK_WAR_SHUKSHIN_T:0 "THE SECOND WEST RUSSIAN WAR"
+BE_NOVOSIBIRSK_WAR_SHUKSHIN_D:0 "The strong in this world will know everything: shame, and torment, and self-judgement, and the joy of enemies.\n- Vasily Shukshin"
+BE_NOVOSIBIRSK_WAR_SHUKSHIN_A:0 "Forward, Russia!"
+
+BE_NOVOSIBIRSK_WAR_POKRYSHKIN_T:0 "THE SECOND WEST RUSSIAN WAR"
+BE_NOVOSIBIRSK_WAR_POKRYSHKIN_D:0 "Everything will probably never be okay. But we have to try for it.\n- Vladimir Putin"
+BE_NOVOSIBIRSK_WAR_POKRYSHKIN_A:0 "The Strongmen Attack"
+
+BE_NOVOSIBIRSK_VICTORY_SHUKSHIN_T:0 "THE RUSSIAN FEDERATION VICTORIOUS"
+BE_NOVOSIBIRSK_VICTORY_SHUKSHIN_D:0 "They fought for the Motherland. They saved their homeland. They won.\n- Vasily Shukshin"
+BE_NOVOSIBIRSK_VICTORY_SHUKSHIN_A:0 "Better Days Ahead"
+
+BE_NOVOSIBIRSK_VICTORY_POKRYSHKIN_T:0 "THE RUSSIAN FEDERATION VICTORIOUS"
+BE_NOVOSIBIRSK_VICTORY_POKRYSHKIN_D:0 "At last, Russia has returned to the world arena as a strong state - a country that others heed and that can stand up for itself.\n- Vladimir Putin"
+BE_NOVOSIBIRSK_VICTORY_POKRYSHKIN_A:0 "Strongmen Triumphs"
+
+BE_TWILIGHT_OF_THE_GODS_T: "TWILIGHT OF THE GODS"
+BE_TWILIGHT_OF_THE_GODS_D: "you must be ready to burn yourself in your own flame;\nhow could you rise anew if you have not first become ashes?\n- Friedrich Nietzsche"
+BE_TWILIGHT_OF_THE_GODS_A: "Svarog Awakens"
+
+BE_WRRF_ZHUKOV_T: "THE SECOND GREAT PATRIOTIC WAR"
+BE_WRRF_ZHUKOV_D: "For me, the main thing was to serve the Motherland, my people. And with a clear conscience, I can say: I did everything to fulfil this duty.\n- Georgy Zhukov"
+BE_WRRF_ZHUKOV_A: "Their Land, their People, their Blood"
+
+BE_SBA_WAR_T: "MARCH OF THE ANARCHISTS"
+BE_SBA_WAR_D: "When we have but the will to do it, that very moment will justice be done: that very instant the tyrants of the Earth shall bite the dust.\n- Pytor Kropotkin"
+BE_SBA_WAR_A: "For Mother Anarchy"
+
+BE_SEROV_WAR_T: "THE SECOND WEST RUSSIAN WAR"
+BE_SEROV_WAR_D: "We must take from the right nationalism without capitalism and from the left socialism without internationalism.\n-Gregor Strasser"
+BE_SEROV_WAR_A: "Clash of the Titans"
+
+BE_KAGANOVICH_WAR_T: "THE SECOND GREAT PATRIOTIC WAR"
+BE_KAGANOVICH_WAR_D: "Every German soldier must be made to feel that he is living under the muzzle of a Russian gun.\n-Vasily Chuikov"
+BE_KAGANOVICH_WAR_A: "Not One Step Back!"
+
+BE_WERBELL_WAR_T:0 "THE SECOND WEST RUSSIAN WAR"
+BE_WERBELL_WAR_D:0 "I don’t give a damn about being remembered. But if I’ve got to be remembered for something, I’d like to be remembered for being a good military officer and a patriot.\n- Mitchell Werbell III"
+BE_WERBELL_WAR_A:0 "Fortune and Glory!"
+
+BE_WERBELL_VICTORY_T:0 "THE UNITED STATES OF RUSSIA VICTORIOUS"
+BE_WERBELL_VICTORY_D:0 "There's a helluva lot I ain't gonna say yet. I've been in so many places, so many countries, so many revolutions, it's beginning to get all mixed up in my mind.\n- Mitchell Werbell III"
+BE_WERBELL_VICTORY_A:0 "Fortune and Glory!"
+
+BE_WERBELL_VICTORY_DESPOT_T:0 "THE UNITED STATES OF RUSSIA VICTORIOUS"
+BE_WERBELL_VICTORY_DESPOT_D:0 "You've only got two options: heaven or hell.\n-Unknown"
+
+BE_WRRF_VICTORY_ZHUKOV_T:0 "THE SOVIET UNION VICTORIOUS"
+BE_WRRF_VICTORY_ZHUKOV_D:0 "No one is forgotten. Nothing is forgotten. Let no one forget. Let nothing be forgotten.\n- Olga Berggolts"
+BE_WRRF_VICTORY_ZHUKOV_A:0 "Red Army the Strongest"
+
+BE_RUS_NUKE_T:0 "RUSSIA ACQUIRES NUCLEAR WEAPONS"
+BE_RUS_NUKE_D:0 "A thermonuclear war cannot be considered a continuation of politics by other means. It would be a means of universal suicide\n-Andrei Sakharov"
+BE_RUS_NUKE_A:0 "The Fourth Power"
+
+BE_BATOV_WAR_T:0 "THE GREAT WAR OF RUSSIAN LIBERATION"
+BE_BATOV_WAR_D:0 "Beat the enemy, without sparing either him or yourself, the one who feels less sorry for himself wins.\n-Alexander Suvorov"
+BE_BATOV_WAR_A:0 "To Save Russia"
+
+BE_VYATKA_WAR_T:0 "THE WAR OF IMPERIAL RECLAIMATION"
+BE_VYATKA_WAR_D:0 "Better to abolish serfdom from above than to wait till it begins to abolish itself from below.\n- Alexander II"
+BE_VYATKA_WAR_A:0 "God Save Russia"
+
+BE_ARYAN_SLAVE_REVOLT_T:0 "THE RUSSIAN SLAVE REVOLT"
+BE_ARYAN_SLAVE_REVOLT_D:0 "Those who deny freedom to others deserve it not for themselves.\n-Abraham Lincoln"
+
+BE_YUGOSLAV_REUNIFICATION_T:0 "REUNIFICATION OF YUGOSLAVIA"
+BE_YUGOSLAV_REUNIFICATION_D:0 "We have split an ocean of blood for the brotherhood and unity of our peoples and we shall not allow anyone to touch or destroy it from within.\n-Josip Broz Tito"
+
+BE_MANDATE_WAR_T:0 "ORTHODOX RECLAIMATION WAR"
+BE_MANDATE_WAR_D:0 "A thousand may fall at your side, ten thousand at your right hand, but it will not come near you.\n-Psalm 91:7"
+
+BE_BUHKARINA_WAR_T:0 "THE SECOND WEST RUSSIAN WAR"
+BE_BUHKARINA_WAR_D:0 "The victory of socialism will not descend like date from heaven.\n-Rosa Luxemburg"
+
+BE_AMUR_WAR_T:0 "THE GREAT SLAVIC RECLAIMATION WAR"
+BE_AMUR_WAR_D:0 "We are witnessing the majestic spectable of Europe’s liberation from the descendants of Cain and Lucifer, the true sons of the Devil.\n-Konstantin Rodzaevsky"
+
+BE_CORNMAN_WAR_T:0 "THE SECOND GREAT PATRIOTIC WAR"
+BE_CORNMAN_WAR_D:0 "There can be no winner or loser in a nuclear war. This is a guaranteed mutual destruction of both belligerents.\n-Nikita Khrushchev"
+
+BE_FALL_GERMANIA_T:0 "SOLSTRON RETURNS"
+BE_FALL_GERMANIA_D:0 "The Dreams of Thousands will be acheived.\n-Solstron"
+
+BE_MODERNIST_WAR_T:0 "THE SECOND WEST RUSSIAN WAR"
+BE_MODERNIST_WAR_D:0 "We should not minimize our sacred endeavors in this world, where, like faint glimmers in the dark, we have emerged\n-Andrei Sakharov"
+
+BE_CHITA_WAR_T:0 "THE WAR OF IMPERIAL RECLAIMATION"
+BE_CHITA_WAR_D:0 "Brave and victorious troops! Finally, you are on the borders of the empire. Each of you is the saviour of the fatherland. Russia welcomes you with this name!\n-Mihail Kutuzov"
+
+BE_CHITA_VICTORY_T:0 "THE RUSSIAN EMPIRE VICTORIOUS"
+BE_CHITA_VICTORY_D:0 "Where the Russian flag was raised once, it should never be taken down.\n-Nicholas I"
