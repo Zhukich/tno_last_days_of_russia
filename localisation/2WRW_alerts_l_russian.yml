@@ -1,8 +1,8 @@
 ﻿l_russian:
- 2WRW_alert_tooltip: "§Y[Get_2WRW_alert_name]§!"
+ 2WRW_alert_tooltip:0 "§Y[Get_2WRW_alert_name]§!"
 
- 2WRW_alert_name_missing: "Name missing"
- 2WRW_alert_desc_missing: ""
+ 2WRW_alert_name_missing:0 "Имя отсутствует"
+ 2WRW_alert_desc_missing:0 ""
 
- PAV_alert_name_assembly: "Federal Assembly Action Available"
- PAV_alert_desc_assembly: "We can now choose another interaction in the Federal Assembly."
+ PAV_alert_name_assembly:0 "Доступно действие в Федеральном собрании"
+ PAV_alert_desc_assembly:0 "Теперь мы можем выбрать другое действие в Федеральном собрании."
