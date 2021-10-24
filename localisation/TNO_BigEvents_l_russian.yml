@@ -292,7 +292,7 @@ BE_BRITISH_REUNIFICATION_MAC_D:0 "У меня нет особой блестящ
 BE_BRITISH_REUNIFICATION_MAC_A:0 "Свет из тьмы"
 
 BE_BRITISH_REUNIFICATION_MAUDLING_T:0 "ВОССОЕДИНЕНИЕ БРИТАНИИ"
-BE_BRITISH_REUNIFICATION_MAUDLING_D:0 "Демократия - это правление народа, избранное народом для народа.\n- Авраам Линкольн"
+BE_BRITISH_REUNIFICATION_MAUDLING_D:0 "Демократия - это правление народа, избранное народом и для народа.\n- Авраам Линкольн"
 BE_BRITISH_REUNIFICATION_MAUDLING_A:0 "Демократия манит"
 
 BE_BRITISH_REUNIFICATION_CHES_T:0 "ВОССОЕДИНЕНИЕ БРИТАНИИ"
@@ -315,12 +315,12 @@ BE_BRITISH_REUNIFICATION_STIRLING_T:0 "ВОССОЕДИНЕНИЕ БРИТАНИ
 BE_BRITISH_REUNIFICATION_STIRLING_D:0 "Железная рука сокрушила голову тирана и стала тираном вместо него.\n- Уильям Блейк"
 BE_BRITISH_REUNIFICATION_STIRLING_A:0 "Кто рискует – тот побеждает"
 
-BE_HUTTIG_COLLAPSE_T:0 "КОНЕЦ РЕЙХСШТАДТА"
+BE_HUTTIG_COLLAPSE_T:0 "КОНЕЦ РЕЙХСШТААТА"
 BE_HUTTIG_COLLAPSE_D:0 "Ваша сила - это просто случайность, возникающая из слабости других.\n- Джозеф Конрад"
 BE_HUTTIG_COLLAPSE_A:0 "Африка дышит"
 
 BE_THE_AFRICAN_DEVASTATION_T:0 "АФРИКАНСКОЕ ОПУСТОШЕНИЕ"
-BE_THE_AFRICAN_DEVASTATION_D:0 "Моя вина в том, что я все еще здесь. Это моя вина.\n- Франц Штангль"
+BE_THE_AFRICAN_DEVASTATION_D:0 "Моя вина в том, что я всё ещё здесь. Это моя вина.\n- Франц Штангль"
 BE_THE_AFRICAN_DEVASTATION_A:0 "Ужас! У-"
 
 BE_THE_AFRICAN_CRISIS_T:0 "АФРИКАНСКИЙ КРИЗИС"
