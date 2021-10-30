@@ -1077,7 +1077,7 @@ guiTypes = {
 					name = "SGR_RND_Decisions_GUI_Selected_Region"
 					position = { x = -15 y = 230 }
 					font = "aldrich_30_outline"
-					text = "Highlighted Region: [GetSGRRNDRegionScriptedLoc]"
+					text = "Выбранный регион: [GetSGRRNDRegionScriptedLoc]"
 					maxWidth = 525
 					maxHeight = 20
 					format = center
@@ -2580,7 +2580,7 @@ guiTypes = {
 			name = "Notification_text"
 			position = { x = 770 y = 112 }
 			font = "aldrich_30_outline"
-			text = "Нажмите на регионы для дальнейшего взаимодействия"
+			text = "Click on the states for further interactions"
 			format = center
 		}
 		buttonType = {
