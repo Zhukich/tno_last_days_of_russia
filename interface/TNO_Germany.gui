@@ -450,8 +450,8 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "TNO_SGR_Decisions_GUI" #The Speerdometer
-		size = { width = 525 height = 750 }
-		position = { x = 0 y = -2 }
+		size = { width = 525 height = 800 }
+		position = { x = 0 y = 0 }
 
 		instantTextboxType = {
 			name = "TNO_SGR_Decisions_GUI_regime_lean_text"
@@ -566,7 +566,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_status_text"
-				position = { x = 113 y = 340 }
+				position = { x = 113 y = 300 }
 				font = "aldrich_22_outline"
 				text = SGR_campaign_status
 				maxWidth = 300
@@ -576,7 +576,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_pp_var_text"
-				position = { x = 75 y = 370 }
+				position = { x = 75 y = 380 }
 				font = "aldrich_20_outline"
 				text = SGR_ppinvest_text
 				maxWidth = 300
@@ -586,7 +586,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_usd_var_text"
-				position = { x = 300 y = 370 }
+				position = { x = 300 y = 380 }
 				font = "aldrich_20_outline"
 				text = SGR_moneyinvest_text
 				maxWidth = 200
@@ -757,7 +757,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "TNO_SGR_Decisions_RND_GUI_movement_container"
 			size = { width = 0 height = 0 }
-			position = { x = 0 y = 250 }
+			position = { x = 0 y = 150 }
 
 			iconType = {
 				name = "SGR_Orpo_GUI_Logo"
