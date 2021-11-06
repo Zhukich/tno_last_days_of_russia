@@ -1,0 +1,481 @@
+# D R E A M S   O F   F E D E R A T I O N
+
+guiTypes = {
+	containerWindowType = {
+		name = "PAV_Federation_Duma_GUI_Opener"
+		size = { width = 220 height = 128 }
+		position = { x = 0 y = 289 }
+		buttonType = {
+			name = "PAV_Federation_Duma_GUI_Open_Button"
+			spriteType = "GFX_Tomsk_Duma_GUI"
+			position = { x = 131 y = 31 }
+			scale = 0.65
+		}
+		iconType = {
+			name = "gui_alert"
+			spriteType = "GFX_gui_alert"
+			position = { x = 185 y = -16 }
+		}
+	}
+	
+	containerWindowType = {
+		name = "TNO_Federation_Presidential_Support_Interact_Menu"
+		size = { width = 425 height = 590 }
+		position = { x = 15 y = 250 }
+		moveable = yes
+		background = {
+			name = "Background"
+			quadTextureSprite = "GFX_tiled_window_thin_border2"
+		}
+		instantTextBoxType = {
+			name = "PAV_Pres_Int_Textbox"
+			position = { x = -85 y = 20 }
+			font = "aldrich_30_outline"
+			text = "Взаимодействия Президента"
+			format = center
+			maxWidth = 600
+		}
+		iconType = {
+			name = "PAV_Presidential_Emblem"
+			spriteType = "GFX_PAV_Presidential_Eagle"
+			position = { x = -100 y = -220 }
+			scale = 0.4
+			Orientation = "CENTER"
+		}
+		buttonType = {
+			name = "close_presidential_menu_button"
+			position = { x = -29 y = 10 }
+			quadTextureSprite ="GFX_crt_closebutton"
+			buttonFont = "Main_14_black"
+			shortcut = "ESCAPE"
+			Orientation = "UPPER_RIGHT"
+			clicksound = click_close
+			pdx_tooltip = "CLOSE"
+		}
+		iconType = {
+			name = "TNO_Presitional_Interactions_Info"
+			quadTextureSprite = "GFX_SGR_RND_GUI_info_button"
+			position = { x = 10 y = 10 }
+			Orientation = "UPPER_LEFT"
+			scale = 0.47
+			pdx_tooltip = "TNO_Presitional_Interactions_Info_tt"
+		}
+		buttonType = {
+			name = "PAV_lobbying_effort_in_the_duma"
+			position = { x = 10 y = 325 }
+			multiline = yes
+			spriteType = "GFX_PAV_Presidential_Interaction_Button"
+			font = "aldrich_20_outline"
+			text = "PAV_minor_lobbying_effort_in_the_duma_tt"
+			scale = 1
+			format = center
+			pdx_tooltip = "PAV_lobbying_effort_in_the_duma_effects_tt"
+		}
+		buttonType = {
+			name = "PAV_lobbying_effort_in_the_federal_council"
+			position = { x = 10 y = 400 }
+			multiline = yes
+			spriteType = "GFX_PAV_Presidential_Interaction_Button"
+			font = "aldrich_20_outline"
+			text = "PAV_lobbying_effort_in_the_federal_council_tt"
+			scale = 1
+			format = center
+			pdx_tooltip = "PAV_lobbying_effort_in_the_federal_council_effect_tt"
+		}
+		buttonType = {
+			name = "PAV_President_Speech_interaction"
+			position = { x = 10 y = 475 }
+			multiline = yes
+			spriteType = "GFX_PAV_Presidential_Interaction_Button"
+			font = "aldrich_20_outline"
+			text = "PAV_President_Speech_tt"
+			scale = 1
+			format = center
+			pdx_tooltip = "PAV_President_Speech_effect_tt"
+		}
+		buttonType = {
+			name = "PAV_major_lobbying_effort_in_the_duma_effort"
+			position = { x = 215 y = 325 }
+			multiline = yes
+			spriteType = "GFX_PAV_Presidential_Interaction_Button"
+			font = "aldrich_20_outline"
+			text = "PAV_research_grants_tt"
+			scale = 1
+			format = center
+			pdx_tooltip = "PAV_research_grants_effect_tt"
+		}
+		buttonType = {
+			name = "PAV_major_lobbying_effor_in_the_federal_council"
+			position = { x = 215 y = 400 }
+			multiline = yes
+			spriteType = "GFX_PAV_Presidential_Interaction_Button"
+			font = "aldrich_20_outline"
+			text = "PAV_amend_budget_tt"
+			scale = 1
+			format = center
+			pdx_tooltip = "PAV_amend_budget_effect_tt"
+		}
+		buttonType = {
+			name = "PAV_political_concessions"
+			position = { x = 215 y = 475 }
+			multiline = yes
+			spriteType = "GFX_PAV_Presidential_Interaction_Button"
+			font = "aldrich_20_outline"
+			text = "PAV_political_concessions_tt"
+			scale = 1
+			format = center
+			pdx_tooltip = "PAV_political_concessions_effect_tt"
+		}
+		instantTextBoxType = {
+			name = "PAV_interaction_availability"
+			position = { x = -85 y = 553 }
+			font = "aldrich_24_outline"
+			text = "[Root.PAV_Interaction_Available_Key]"
+			format = center
+			maxWidth = 600
+		}
+	}
+	
+	containerWindowType = {
+		name = "PAV_Federation_Duma_GUI"
+		size = { width = 1100 height = 750 }
+		position = { x = 450 y = 150 }
+		moveable = yes
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_tiled_window_thin_border2"
+		}
+		buttonType = {
+			name = "close_duma_button"
+			position = { x = -29 y = 10 }
+			quadTextureSprite ="GFX_crt_closebutton"
+			buttonFont = "Main_14_black"
+			shortcut = "ESCAPE"
+			Orientation = "UPPER_RIGHT"
+			clicksound = click_close
+			pdx_tooltip = "CLOSE"
+		}
+		iconType = {
+			name = "TNO_Federal_Assembly_Info_Button"
+			quadTextureSprite = "GFX_SGR_RND_GUI_info_button"
+			position = { x = 15 y = 15 }
+			Orientation = "UPPER_LEFT"
+			scale = 0.6
+			pdx_tooltip = "PAV_Federal_Assembly_Info_tt"
+		}
+		instantTextBoxType = {
+			name = "Federation_Duma_Title"
+			position = { x = -200 y = 20 }
+			font = "aldrich_48_outline"
+			text = "[GetDumaNameFederation]"
+			format = center
+			maxWidth = 1050
+		}
+		instantTextBoxType = {
+			name = "Federation_Duma_Desc"
+			position = { x = 50 y = 80 }
+			font = "aldrich_18_outline"
+			text = "[GetDumaNameFederationDesc]"
+			format = center
+			maxWidth = 550
+		}
+		containerWindowType = {
+			name = "PAV_RAPP_Salon_Popularity"
+			size = { width = 530 height = 275 }
+			position = { x = 37 y = 345 }
+			
+			iconType = {
+				name = "Salon_Table_Frame"
+				scale = 0.50
+				spriteType = "GFX_Duma_Table"
+				orientation = upper_left
+				position = { x = 8 y = 32 }
+			}
+			iconType = {
+				name = "PAV_Salon_RAPP_Button"
+				scale = 0.70
+				position = { x = -20 y =36 }
+				spriteType = "GFX_PAV_Reformist_faction"
+			}
+			instantTextBoxType = {
+				name = "Salon_RAPP_Title"
+				position = { x = 55 y = 56 }
+				font = "aldrich_30_outline"
+				text = "RAPP_TITLE"
+				maxWidth = 200
+				format = center
+			}
+			instantTextBoxType = {
+				name = "Salon_RAPP_UH_Seats_Text"
+				position = { x = 13 y = 115 }
+				maxWidth = 110
+				font = "aldrich_16_outline"
+				text = "Места в Совете Федерации"
+				format = center
+			}
+			instantTextBoxType = {
+				name = "Salon_RAPP_LH_Seats_Text"
+				position = { x = 135 y = 115 }
+				maxWidth = 110
+				font = "aldrich_16_outline"
+				text = "Места в Госдуме"
+				format = center
+			}
+			
+			instantTextBoxType = {
+				name = "Salon_RAPP_UH_Seats"
+				position = { x = 14 y = 150 }
+				maxWidth = 110
+				font = "aldrich_30_outline"
+				text = "[Root.PAV_RAPP_Get_Upper_House_seats]"
+				format = center
+			}
+			instantTextBoxType = {
+				name = "Salon_RAPP_LH_Seats"
+				position = { x = 135 y = 150 }
+				maxWidth = 110
+				font = "aldrich_30_outline"
+				text = "[Root.PAV_RAPP_Get_Lower_House_Seats]"
+				format = center
+			}
+		}
+		
+		containerWindowType = {
+			name = "PAV_SIL_Salon_Popularity"
+			size = { width = 530 height = 275 }
+			position = { x = 316 y = 345 }
+			
+			iconType = {
+				name = "Salon_Table_Frame"
+				scale = 0.50
+				spriteType = "GFX_Duma_Table"
+				orientation = upper_left
+				position = { x = 8 y = 32 }
+			}
+			iconType = {
+				name = "PAV_Salon_SIL_Button"
+				scale = 0.70
+				position = { x = -20 y = 36 }
+				spriteType = "GFX_PAV_Silovik_faction"
+			}
+			instantTextBoxType = {
+				name = "Salon_Siloviks_Title"
+				position = { x = 65 y = 56 }
+				font = "aldrich_30_outline"
+				text = "SILOVIKS_TITLE"
+				maxWidth = 180
+				format = center
+			}
+			instantTextBoxType = {
+				name = "Salon_SIL_UH_Seats_Text"
+				position = { x = 13 y = 115 }
+				maxWidth = 110
+				font = "aldrich_16_outline"
+				text = "Места в Совете Федерации"
+				format = center
+			}
+			instantTextBoxType = {
+				name = "Salon_SIL_LH_Seats_Text"
+				position = { x = 135 y = 115 }
+				maxWidth = 110
+				font = "aldrich_16_outline"
+				text = "Места в Госдуме"
+				format = center
+			}
+			instantTextBoxType = {
+				name = "Salon_SIL_UH_Seats"
+				position = { x = 14 y = 150 }
+				maxWidth = 110
+				font = "aldrich_30_outline"
+				text = "[Root.PAV_SIL_Get_Upper_House_Seats]"
+				format = center
+			}
+			instantTextBoxType = {
+				name = "Salon_SIL_LH_Seats"
+				position = { x = 135 y = 150 }
+				maxWidth = 110
+				font = "aldrich_30_outline"
+				text = "[Root.PAV_SIL_Get_Lower_House_Seats]"
+				format = center
+			}
+		}
+		
+		containerWindowType = {
+			name = "PAV_Duma_Leaders"
+			size = { width = 530 height = 275 }
+			position = { x = 155 y = 250 }
+			
+			iconType = {
+				name = "PAV_Election_GUI_Portrait_2"
+				spriteType = "GFX_PAV_elections_Vasily_Shukshin"
+				position = { x = -40 y = -55 }
+				scale = 0.7
+			}
+			instantTextBoxType = {
+				name = "PAV_Current_President_Text"
+				position = { x = -35 y = 95 }
+				alwaystransparent = yes
+				font = "aldrich_24_outline"
+				text = "PAV_Current_President_tt"
+				maxWidth = 270
+				format = left
+			}
+			iconType = {
+				name = "PAV_Election_GUI_Portrait_1"
+				spriteType = "GFX_PAV_elections_Alexander_Pokryshkin"
+				position = { x = 230 y = -55 }
+				scale = 0.7
+			}
+			instantTextBoxType = {
+				name = "PAV_Head_of_State_Text"
+				position = { x = 180 y = 95 }
+				alwaystransparent = yes
+				font = "aldrich_24_outline"
+				text = "PAV_Current_Head_of_State_tt"
+				maxWidth = 270
+				format = left
+			}
+		}
+		
+		containerWindowType = {
+			name = "TNO_Federation_Presidential_Support"
+			size = { width = 525 height = 340 }
+			position = { x = 125 y = 570 }
+			
+			instantTextBoxType = {
+				name = "TNO_Federation_Presidential_Support_Text"
+				position = { x = 0 y = 0 }
+				font = "aldrich_36_outline"
+				text = "Президентская поддержка"
+				maxWidth = 350
+				format = right
+				alwaystransparent = yes
+			}
+			instantTextBoxType = {
+				name = "TNO_Federation_Presidential_Government_Support_Text"
+				position = { x = -110 y = 90 }
+				font = "aldrich_22_outline"
+				text = "[Root.TNO_Federation_Presidential_Government_Support]"
+				maxWidth = 600
+				format = centre
+				alwaystransparent = yes
+			}
+			iconType = {
+				name = "TNO_Presidential_Support_GUI_ProgressBar"
+				spriteType = "GFX_PAV_Election_GUI_Bar"
+				position = { x = -33  y = 51 }
+				pdx_tooltip = "PAV_election_bar_support_tt"
+			}
+			iconType = {
+				name = "TNO_Presidential_Support_GUI_ProgressBar_Frame"
+				spriteType = "GFX_PAV_Election_GUI_Bar_Frame"
+				position = { x = -35 y = 50 }
+			}
+			iconType = {
+				name = "TNO_Presidential_Support_GUI_Bar_Tick"
+				spriteType = "GFX_PAV_Election_GUI_Bar_Tick"
+			}
+			containerWindowType = {
+				name = "TNO_Presidential_Interaction_Menu_Button"
+				size = { width = 530 height = 275 }
+				position = { x = 60 y = 135 }
+				buttonType = {
+					name = "TNO_Presidential_Support_Interactions"
+					scale = 0.65
+					position = { x = 8 y = -10 }
+					spriteType = "GFX_Tomsk_control_bar_bg"
+					font = "aldrich_22_outline"
+					format = center
+				}
+				instantTextBoxType = {
+					name = "TNO_Presidential_Support_Interactions_Text"
+					position = { x = 14 y = -6 }
+					alwaystransparent = yes
+					font = "aldrich_20_outline"
+					text = "ERS_Dec_Interaction_tt"
+					maxWidth = 270
+					format = left
+				}
+			}
+		}
+		
+		containerWindowType = {
+			name = "TNO_Federation_GUI_LH"
+			size = { width = 482 height = 860 }
+			position = { x = 575 y = -250 }
+			
+			containerWindowType = {
+				name = "Button_Block_1"
+				size = { width = 482 height = 208 }
+				position = { x = -100 y = 320 }
+				
+				instantTextBoxType = {
+					name = "RAPP_Reps_Title"
+					position = { x = 90 y = -40 }
+					font = "aldrich_36_outline"
+					text = "[Root.PAVGetLowerHouseName]"
+					format = center
+					maxWidth = 538
+					maxHeight = 20
+				}
+				gridBoxType = {
+					name = "TNO_Federation_Gridbox_Lower_House"
+					slotsize = { width = 38 height = 38 }
+					add_horizontal = yes
+					max_slots_horizontal = 10
+					max_slots_vertical = 11
+				}
+			}
+		}
+		
+		containerWindowType = {
+			name = "TNO_Federation_GUI_UP"
+			size = { width = 482 height = 1080 }
+			position = { x = 575 y = -250 }
+			
+			containerWindowType = {
+				name = "Button_Block_2"
+				size = { width = 482 height = 208 }
+				position = { x = -100 y = 770 }
+				
+				instantTextBoxType = {
+					name = "SIL_Reps_Title"
+					position = { x = 90 y = -40 }
+					font = "aldrich_36_outline"
+					text = "PAV_upper_house_name"
+					format = center
+					maxWidth = 538
+				}
+				gridBoxType = {
+					name = "TNO_Federation_Gridbox_Upper_House"
+					slotsize = { width = 38 height = 38 }
+					add_horizontal = yes
+					max_slots_horizontal = 10
+					max_slots_vertical = 10
+				}
+			}
+		}
+	}
+	
+	containerWindowType = {
+		name = "TNO_Federation_Dots_Lower_House"
+		position = { x = 105 y = 10 }
+		size = { width = 482 height = 208 }
+		iconType = {
+			name = "PAV_Lower_House_GUI_Seats_Entry_Box"
+			position = { x = 90 y = 5 }
+			spriteType = "GFX_Federation_Dots"
+		}
+	}
+	
+	containerWindowType = {
+		name = "TNO_Federation_Dots_Upper_House"
+		position = { x = 105 y = 10 }
+		size = { width = 482 height = 208 }
+		iconType = {
+			name = "PAV_Upper_House_GUI_Seats_Entry_Box"
+			position = { x = 90 y = 5 }
+			spriteType = "GFX_Federation_Dots"
+		}
+	}
+}
