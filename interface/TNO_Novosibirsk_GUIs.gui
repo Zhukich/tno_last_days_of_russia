@@ -38,7 +38,7 @@ guiTypes = {
 			name = "PAV_Election_GUI_ProgressBar_Text_Left"
 			position = { x = 34 y = 300 }
 			font = "aldrich_24_outline"
-			text = "Alexander Pokryshkin"
+			text = "Александр Покрышкин"
 			maxWidth = 300
 			format = left
 			alwaystransparent = yes
@@ -48,7 +48,7 @@ guiTypes = {
 			name = "PAV_Election_GUI_ProgressBar_Text_Right"
 			position = { x = 188 y = 300 }
 			font = "aldrich_24_outline"
-			text = "Vasily Shukshin"
+			text = "Василий Шукшин"
 			maxWidth = 300
 			format = right
 			alwaystransparent = yes
