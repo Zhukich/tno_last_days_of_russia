@@ -4,192 +4,192 @@
     # HUN #
     #######
 
-  ### DSR ###
+  ### DSR - Ставь лайк если любишь дрочить на ульрику ###
 
-  DSR_Andreas_Baader_hog_com_des:0 "General Andreas Baader"
-  Andreas_Baader_dead:0 " is incapable of holding any posts."
-  Andreas_Baader_fired:0 " is incapable of holding this post."
+  DSR_Andreas_Baader_hog_com_des:0 "Генерал Андреас Бадер"
+  Andreas_Baader_dead:0 " Не способен занимать какие-либо должности."
+  Andreas_Baader_fired:0 " Не способен занимать какие-либо должности."
 
   ################################################################################################################################################################################################
-  ### CAU
+  ### CAU - Мой гора любимый, родина кавказ
   ################################################################################################################################################################################################
 
- CAU_Wittekind_Waldeck_hog:0 "Wittekind zu Waldeck und Pyrmont"
- CAU_Herbert_Backe_hog:0 "Herbert Backe"
- CAU_Hans_Kehrl_eco:0 "Hans Kehrl"
- CAU_KarlHeinz_Burger_sec:0 "Karl-Heinz Bürger"
- CAU_Karl_Blessing_hog:0 "Karl Blessing"
- CAU_Paul_Pleiger_for:0 "Paul Pleiger"
- CAU_Otto_Abetz_for:0 "Otto Abetz"
- CAU_Eugen_Ott_for:0 "Eugen Ott"
- CAU_Georg_Lorner_eco:0 "Goerg Lörner"
- CAU_Konstantin_Kammerhofer_sec:0 "Konstantin Kammerhofer"
- CAU_Otto_Stapf_sec:0 "Otto Stapf"
+ CAU_Wittekind_Waldeck_hog:0 "Уиттекинд цу Вальдек фон Пирмонт"
+ CAU_Herbert_Backe_hog:0 "Герберт Бакке" 
+ CAU_Hans_Kehrl_eco:0 "Ганс Керль"
+ CAU_KarlHeinz_Burger_sec:0 "Карл-Хайнз Бюргер"
+ CAU_Karl_Blessing_hog:0 "Карл Блессинг"
+ CAU_Paul_Pleiger_for:0 "Пауль Плейгер"
+ CAU_Otto_Abetz_for:0 "Отто Абетц"
+ CAU_Eugen_Ott_for:0 "Ойген Отт"
+ CAU_Georg_Lorner_eco:0 "Гёрг Лёрнер"
+ CAU_Konstantin_Kammerhofer_sec:0 "Константин Камерхофер"
+ CAU_Otto_Stapf_sec:0 "Отто Штапф"
 
   ################################################################################################################################################################################################
   ### HOL
   ################################################################################################################################################################################################
   #Deputy Leader
-  HOL_Friedrich_Wimmer_hog:0 "Friedrich Wimmer"
-  HOL_Hans_Linthorst_Homan_hog:0 "Hans Linthorst Homan"
+  HOL_Friedrich_Wimmer_hog:0 "Фридрих Уиммер"
+  HOL_Hans_Linthorst_Homan_hog:0 "Ганс Линтхорст Хоман"
   #Foreign Minister
-  HOL_Fritz_Schmidt_for:0 "Fritz Shmidt"
-  HOL_Louis_Einthoven_for:0 "Louis Einthoven"
+  HOL_Fritz_Schmidt_for:0 "Фриц Шмидт"
+  HOL_Louis_Einthoven_for:0 "Луис Эйнтховен"
   #Economy Minister
-  HOL_Hans_Fischbock_eco:0 "Hans Fischböck"
-  HOL_Jelle_Zijlstra_eco:0 "Jelle Zijlstra"
+  HOL_Hans_Fischbock_eco:0 "Ганс Фишбок"
+  HOL_Jelle_Zijlstra_eco:0 "Йелле Зейлстра"
   #Security Minister
-  HOL_Friedrich_Christiansen_sec:0 "Friedrich Christiansen"
-  HOL_Jan_De_Quay_sec:0 "Jan de Quay"
+  HOL_Friedrich_Christiansen_sec:0 "Фридрих Христиансен"
+  HOL_Jan_De_Quay_sec:0 "Ян де Куэй"
 
-	################################################################################################################################################################################################
-  ### INS - BlizzardOfOzy
+  ################################################################################################################################################################################################
+  ### INS - Какой нахуй близард?
   ################################################################################################################################################################################################
 
 	### Head of Government ###
-	 INS_Seizaburo_Okazaki_hog_des:0 "Seizaburo Okazaki"
-	 Seizaburo_Okazaki_dead:0 " is incapable of holding any posts."
-	 Seizaburo_Okazaki_hog_fired:0 " is incapable of holding this post."
+	 INS_Seizaburo_Okazaki_hog_des:0 "Сэйдзабуро Окадзаки"
+	 Seizaburo_Okazaki_dead:0 " Не способен занимать какие-либо должности."
+	 Seizaburo_Okazaki_hog_fired:0 " Не способен занимать какие-либо должности."
 
 	### Foreign Minister ###
-	 INS_Hitoshi_Imamura_for_ade:0 "Hitoshi Imamura"
-	 Hitoshi_Imamura_dead:0 " is incapable of holding any posts."
-	 Hitoshi_Imamura_for_fired:0 " is incapable of holding this post."
+	 INS_Hitoshi_Imamura_for_ade:0 "Хитоши Имамура"
+	 Hitoshi_Imamura_dead:0 " Не способен занимать какие-либо должности."
+	 Hitoshi_Imamura_for_fired:0 " Не способен занимать какие-либо должности."
 
 	### Economy Minister ###
-	 INS_Hayashi_Kyujiro_eco_des:0 "Hayashi Kyujiro"
- 	 Hayashi_Kyujiro_dead:0 " is incapable of holding any posts."
-	 Hayashi_Kyujiro_eco_fired:0 " is incapable of holding this post."
+	 INS_Hayashi_Kyujiro_eco_des:0 "Хаяси Кюдзиро"
+ 	 Hayashi_Kyujiro_dead:0 " Не способен занимать какие-либо должности."
+	 Hayashi_Kyujiro_eco_fired:0 " Не способен занимать какие-либо должности."
 
 	### Security Minister ###
- 	 INS_Shinshichiro_Kokubu_sec_ns:0 "Shinshichiro Kokubu"
- 	 Shinshichiro_Kokubu_dead:0 " is incapable of holding any posts."
- 	 Shinshichiro_Kokubu_sec_fired:0 " is incapable of holding this post."
+ 	 INS_Shinshichiro_Kokubu_sec_ns:0 "Шиншичиро Кокубу"
+ 	 Shinshichiro_Kokubu_dead:0 " Не способен занимать какие-либо должности."
+ 	 Shinshichiro_Kokubu_sec_fired:0 " Не способен занимать какие-либо должности."
 
   ################################################################################################################################################################################################
-  ### FFR
+  ### FFR - Лягушатники
   ################################################################################################################################################################################################
 
   ### Head of Government ###
-   FFR_Jacques_Chaban_Delmas_dep:0 "Jacques Chaban-Delmas"
+   FFR_Jacques_Chaban_Delmas_dep:0 "Жак Шабан-Дельмас"
 
   ### Foreign Minister ###
-   FFR_Georges_Pompidou_for:0 "Georges Pompidou"
+   FFR_Georges_Pompidou_for:0 "Джордж Помпиду"
 
   ### Economy Minister ###
-   FFR_Maurice_Schumann_eco:0 "Maurice Schumann"
+   FFR_Maurice_Schumann_eco:0 "Морис Шуман"
 
   ### Security Minister ###
-   FFR_Paul_Legentilhomme_mil:0 "Paul Legentilhomme"
+   FFR_Paul_Legentilhomme_mil:0 "Поль Легентильгомм"
 
   ##################################################################################################################################################################################################
-  ### ENG
+  ### ENG - Англот*втонцы
   ##################################################################################################################################################################################################
 
   ### HoG ###
-   ENG_Powell_Enoch_dep:0 "Enoch Powell"
+   ENG_Powell_Enoch_dep:0 "Энок Пауэлл"
 
   ### Foreign Minister ###
 
   ### Economy Minister ###
-   ENG_Sandys_Duncan_eco:0 "Duncan Sandys"
+   ENG_Sandys_Duncan_eco:0 "Дункан Сэндис"
 
   ### Security Minister ###
 
 
 ##################################################################################################################################################################################################
-### USA
+### USA - Пиндостан
 ##################################################################################################################################################################################################
 
-USA_J_William_Fulbright_pol:0 "J. William Fulbright"
-USA_Robert_Byrd_mil:0 "Robert Byrd"
-USA_Mendel_Rivers_mil:0 "L. Mendel Rivers"
-USA_Wilbur_Mills_eco:0 "Wilbur Mills"
-USA_Russell_Long_eco:0 "Russell B. Long"
-USA_Maxwell_Taylor_dep:0 "Maxwell Taylor"
-USA_Spiro_Agnew_dep:0 "Spiro Agnew"
-USA_Caspar_Weinberger_eco:0 "Caspar Weinberger"
-USA_Jeane_Kirkpatrick_pol:0 "Jeane Kirkpatrick"
-USA_John_Stennis_mil:0 "John Stennis"
-USA_Spiro_Agnew_pol:0 "Spiro Agnew"
+USA_J_William_Fulbright_pol:0 "Дж. Уильям Фулбрайт"
+USA_Robert_Byrd_mil:0 "Роберт Бёрд"
+USA_Mendel_Rivers_mil:0 "Л. Мендель Риверс"
+USA_Wilbur_Mills_eco:0 "Уилбур Миллс"
+USA_Russell_Long_eco:0 "Рассел Б. Лонг"
+USA_Maxwell_Taylor_dep:0 "Максвелл Тейлор"
+USA_Spiro_Agnew_dep:0 "Спиро Агню"
+USA_Caspar_Weinberger_eco:0 "Каспар Уайнбергер"
+USA_Jeane_Kirkpatrick_pol:0 "Джин Киркпатрик"
+USA_John_Stennis_mil:0 "Джон Стеннис"
+USA_Spiro_Agnew_pol:0 "Спиро Агню"
 ####################################################################################################################################################################################################
 ### Italian Gulf
 ####################################################################################################################################################################################################
 
 ### Mattei
-GUL_Zayed_bin_Sultan_Al_Nahyan_hog:0 "Zayed bin Sultan Al Nahyan"
-GUL_Giorgio_Fua_eco:0 "Giorgio Fua"
-GUL_Irnerio_Bertuzzi_sec:0 "Irnerio Bertuzzi"
-GUL_Giorgio_Ruffolo_for:0 "Giorgio Ruffolo"
+GUL_Zayed_bin_Sultan_Al_Nahyan_hog:0 "Заид бен Султан Аль Нахайян"
+GUL_Giorgio_Fua_eco:0 "Джорджио Фуа"
+GUL_Irnerio_Bertuzzi_sec:0 "Ирнерио Бертуцци"
+GUL_Giorgio_Ruffolo_for:0 "Джорджио Руффоло"
 
 ### Oriana
-GUL_Gino_De_Giorgi_hog:0 "Gino De Giorgi"
-GUL_Giuseppe_Azzaro_eco:0 "Giuseppe Azzaro"
-GUL_Aldo_Baldini_sec:0 "Aldo Baldini"
-GUL_Giorgio_Santuz_for:0 "Giorgio Santuz"
+GUL_Gino_De_Giorgi_hog:0 "Джино Де Джорджи"
+GUL_Giuseppe_Azzaro_eco:0 "Джузеппе Аззаро"
+GUL_Aldo_Baldini_sec:0 "Альдо Балдини"
+GUL_Giorgio_Santuz_for:0 "Джорджио Сантуз"
 
 ### UAE Zayed
-GUL_Rashid_bin_Saeed_Al_Maktoum_hog:0 "Rashid bin Saeed Al Maktoum"
-GUL_Khalifa_bin_Salman_Al_Khalifa_eco:0 "Khalifa bin Salman Al Khalifa"
-GUL_Sabah_Al_Salim_Al_Sabah_sec:0 "Sabah Al-Salim Al-Sabah"
-GUL_Saif_Ghobash_for:0 "Saif Ghobash"
+GUL_Rashid_bin_Saeed_Al_Maktoum_hog:0 "Рашид бин Саид Аль Мактум"
+GUL_Khalifa_bin_Salman_Al_Khalifa_eco:0 "Халифа бин Салман Аль Халифа"
+GUL_Sabah_Al_Salim_Al_Sabah_sec:0 "Сабах Аль-Салим Аль-Сабах"
+GUL_Saif_Ghobash_for:0 "Саиф Гобаш"
 
 ### UAE Shakhbut
-GUL_Rashid_bin_Humaid_Al_Nuaimi_iii_hog:0 "Rashid bin Humaid Al Nuaimi III"
-GUL_Ahmad_bin_Rashid_Al_Mualla_eco:0 "Ahmad bin Rashid Al Mualla"
-GUL_Khalid_bin_Mohammed_Al_Qasimi_sec:0 "Khalid bin Mohammed Al Qasimi"
-GUL_Khalifa_bin_Hamad_Al_Thani_for:0 "Khalifa bin Hamad Al Thani"
+GUL_Rashid_bin_Humaid_Al_Nuaimi_iii_hog:0 "Рашид бин Хумаид Аль Нуайми III"
+GUL_Ahmad_bin_Rashid_Al_Mualla_eco:0 "Ахмад бин Рашид Аль Муалла"
+GUL_Khalid_bin_Mohammed_Al_Qasimi_sec:0 "Халид бин Мухаммед Аль Касими"
+GUL_Khalifa_bin_Hamad_Al_Thani_for:0 "Халифа бин Хамад Аль Тани"
 
 #####################################################################################################################################################################################################
 ### Croatia
 #####################################################################################################################################################################################################
 
 #despotism
-CRO_Emilio_Grazioli_hog:0 "Emilio Grazioli"
-CRO_Giuseppe_Lombrassa_eco:0 "Giuseppe Lombrassa"
-CRO_Vincenzo_Serrentino_sec:0 "Vincenzo Serrentino"
-CRO_Giuseppe_Bastianini_for:0 "Giuseppe Bastianini"
+CRO_Emilio_Grazioli_hog:0 "Эмилио Грациоли"
+CRO_Giuseppe_Lombrassa_eco:0 "Джузеппе Ломбрасса"
+CRO_Vincenzo_Serrentino_sec:0 "Винченцо Серрентино"
+CRO_Giuseppe_Bastianini_for:0 "Джузеппе Бастианини"
 
 #NatSoc
-CRO_Andrija_Artukovic_hog:0 "Andrija Artuković"
-CRO_Vladimir_Kosak_eco:0 "Vladimir Košak"
-CRO_Ante_Vokic_sec:0 "Ante Vokić"
-CRO_Mladen_Lorkovic_for:0 "Mladen Lorković"
+CRO_Andrija_Artukovic_hog:0 "Андрей Артукович"
+CRO_Vladimir_Kosak_eco:0 "Владимир Кошак"
+CRO_Ante_Vokic_sec:0 "Анте Вокич"
+CRO_Mladen_Lorkovic_for:0 "Младен Лоркович"
 
 #AuthDem
-CRO_Andrija_Hebrang_hog:0 "Andrija Hebrang"
-CRO_Leon_Gerskovic_eco:0 "Leon Geršković"
-CRO_Ivan_Gosnjak_sec:0 "Ivan Gošnjak"
-#CRO_Leon_Gerskovic_eco:0 "Leon Gerskovic" #duplicate loc key
-#CRO_Ivan_Gosnjak_sec:0 "Ivan Gosnjak" #duplicate loc key
-CRO_Edvard_Kardelj_for:0 "Edvard Kardelj"
+CRO_Andrija_Hebrang_hog:0 "Андрей Хебранг"
+CRO_Leon_Gerskovic_eco:0 "Леон Гершкович"
+CRO_Ivan_Gosnjak_sec:0 "Иван Гошняк"
+#CRO_Leon_Gerskovic_eco:0 "Леон Гершкович" #какой-то там дубликат ключа
+#CRO_Ivan_Gosnjak_sec:0 "Иван Гошняк" #какой-то там дубликат ключа
+CRO_Edvard_Kardelj_for:0 "Эдвард Кардель"
 
 #AuthSoc
-CRO_Vladimir_Bakaric_hog:0 "Vladimir Bakarić"
+CRO_Vladimir_Bakaric_hog:0 "Владимир Бакарич"
 
 ######################################################################################################################################################################################################
 ### Italian East Africa
 ######################################################################################################################################################################################################
 
-IEA_Vincenzo_Di_Meglio_hog:0 "Vincenzo Di Meglio"
-IEA_Giovanni_Demaria_eco:0 "Giovanni Demaria"
-IEA_Gaetano_Catalano_Gonzaga_sec:0 "Gaetano Catalano Gonzaga"
-IEA_Enrico_Martino_for:0 "Enrico Martino"
+IEA_Vincenzo_Di_Meglio_hog:0 "Винченцо Ди Меглио"
+IEA_Giovanni_Demaria_eco:0 "Джованни Демария"
+IEA_Gaetano_Catalano_Gonzaga_sec:0 "Гаэтано Каталано Гонзага"
+IEA_Enrico_Martino_for:0 "Энрико Мартино"
 
 #######################################################################################################################################################################################################
 ### Egypt
 #######################################################################################################################################################################################################
 ### Farouk
-EGY_Italo_Balbo_hog:0 "Italo Balbo"
-EGY_Makram_Ebeid_Pasha_eco:0 "Makram Ebeid Pasha"
-EGY_Ismail_Chirine_sec:0 "Ismail Chirine"
-EGY_Hussein_Serry_Pasha_for:0 "Hussein Serry Pasha"
+EGY_Italo_Balbo_hog:0 "Итало Бальбо"
+EGY_Makram_Ebeid_Pasha_eco:0 "Макрам Эбейд Паша"
+EGY_Ismail_Chirine_sec:0 "Исмаил Чирин"
+EGY_Hussein_Serry_Pasha_for:0 "Хусейн Серри Паша"
 
 ### Qutb
-EGQ_Hassan_al_Hudaybi_hog:0 "Hassan al-Hudaybi"
-EGQ_Youssef_Nada_eco:0 "Youssef Nada"
-EGQ_Rashad_Mehanna_sec:0 "Rashad Mehanna"
-EGQ_Said_Ramadan_for:0 "Said Ramadan"
+EGQ_Hassan_al_Hudaybi_hog:0 "Хасан аль-Худайби"
+EGQ_Youssef_Nada_eco:0 "Юссеф Нада"
+EGQ_Rashad_Mehanna_sec:0 "Рашад Механна"
+EGQ_Said_Ramadan_for:0 "Саид Рамадан"
 
 ### Ba'athist Egypt
 EGB_Zakaria_Mohieddin_hog:0 "Zakaria Mohieddin"
@@ -206,168 +206,167 @@ EGY_Abdul_Khalek_Hassouna_for:0 "Abdul Khalek Hassouna"
 ### Yemen
 ########################################################################################################################################################################################################
 
-YEM_Qahtan_Muhammad_al_Shaabi_hog:0 "Qahtan Muhammad al-Shaabi"
-YEM_Abdul_Aziz_Abdul_Ghani_eco:0 "Abdul Aziz Abdul Ghani"
-YEM_Abdul_Rahman_al_Eryani_sec:0 "Abdul Rahman al-Eryani"
-YEM_Ahmad_Muhammad_Numan_for:0 "Ahmad Muhammad Numan"
+YEM_Qahtan_Muhammad_al_Shaabi_hog:0 "Кахтан Мухаммад аль-Шааби"
+YEM_Abdul_Aziz_Abdul_Ghani_eco:0 "Абдул Азиз Абдул Гани"
+YEM_Abdul_Rahman_al_Eryani_sec:0 "Абдул Рахман аль-Эрьяни"
+YEM_Ahmad_Muhammad_Numan_for:0 "Ахмад Мухаммад Нуман"
 
 ### Republic of Yemen
-NYM_Al_Hassain_bin_Yahya_hog:0 "Al-Hassain bin Yahya"
-NYM_Faisal_Bin_Shamlan_eco:0 "Faisal Bin Shamlan"
-NYM_Muhammad_bin_al_Hussein_sec:0 "Muhhamad bin al-Hussein"
-NYM_Badreddin_al_Houthi_for:0 "Badreddin al-Houthi"
+NYM_Al_Hassain_bin_Yahya_hog:0 "Аль-Хассейн бин Яхья"
+NYM_Faisal_Bin_Shamlan_eco:0 "Фейсал бин Шамлан"
+NYM_Muhammad_bin_al_Hussein_sec:0 "Мухамад бин аль-Хусейн"
+NYM_Badreddin_al_Houthi_for:0 "Бадреддин аль-Хути"
 
 #########################################################################################################################################################################################################
 ### Greece
 #########################################################################################################################################################################################################
 
-GRE_Luigi_Mascherpa_hog:0 "Luigi Mascherpa"
-GRE_Nikolaos_Bourantas_eco:0 "Nikolaos Bourantas"
-GRE_Xenophon_Giosmas_sec:0 "Xenophon Giosmas"
-GRE_Georgios_Themelis_for:0 "Georgios Themelis"
+GRE_Luigi_Mascherpa_hog:0 "Луиджи Машерпа"
+GRE_Nikolaos_Bourantas_eco:0 "Николаос Боурантас"
+GRE_Xenophon_Giosmas_sec:0 "Ксенофонт Гиосмас"
+GRE_Georgios_Themelis_for:0 "Георгиос Темелис"
 
 ##########################################################################################################################################################################################################
 ### Bosnia
 ##########################################################################################################################################################################################################
 
-BOS_Mehmed_Handzic_hog:0 "Mehmed Handzic"
-BOS_Salih_Behmen_eco:0 "Salih Behmen"
-BOS_Omer_Behmen_sec:0 "Omer Behmen"
-BOS_Esad_Karadozovic_for:0 "Esad Karadozovic"
+BOS_Mehmed_Handzic_hog:0 "Мехмед Ханджич"
+BOS_Salih_Behmen_eco:0 "Салих Бехмен"
+BOS_Omer_Behmen_sec:0 "Омер Бехмен"
+BOS_Esad_Karadozovic_for:0 "Эсад Карадозович"
 
 ###########################################################
 ### Correntia
 ############################################################
 
-COR_Guido_Cortese_hog:0 "Guido Cortese"
-COR_Michele_Sindona_eco:0 "Michele Sindona"
-COR_Gianadelio_Maletti_sec:0 "Giandelio Maletti"
-COR_Ferruccio_Stefenelli_for:0 "Ferruccio Stefenelli"
+COR_Guido_Cortese_hog:0 "Гвидо Кортезе"
+COR_Michele_Sindona_eco:0 "Мишель Синдона"
+COR_Gianadelio_Maletti_sec:0 "Джанделио Малетти"
+COR_Ferruccio_Stefenelli_for:0 "Ферруччо Стефенелли"
 
 #############################################################################################################################################################################################################
 ### Italian Algeria
 #############################################################################################################################################################################################################
 
-ILG_Pierre_Guillaume_dep:0 "Pierre Guillaume"
-ILG_Enrico_Braggiotti_eco:0 "Enrico Braggiotti"
-ILG_Fernando_Tanucci_Nannini_sec:0 "Fernando Tannucci Nannini"
-ILG_Luciano_Mascia_for:0 "Luciano Mascia"
+ILG_Pierre_Guillaume_dep:0 "Пьер Гильом"
+ILG_Enrico_Braggiotti_eco:0 "Энрико Браджиотти"
+ILG_Fernando_Tanucci_Nannini_sec:0 "Фернандо Таннуччи Наннини"
+ILG_Luciano_Mascia_for:0 "Лучано Машиа"
 
 ##############################################################################################################################################################################################################
-### IME
+### IME - Приказ Израиля
 ##############################################################################################################################################################################################################
 ### Colombo
-IME_Vincenzo_Cujuli_hog:0 "Vincenzo Cujuli"
-IME_Adelchi_Serena_eco:0 "Adelchi Serena"
-IME_Pietro_Koch_sec:0 "Pietro Koch"
-IME_Guido_Alberto_Alfieri_for:0 "Guido Alberto Alfieri"
+IME_Vincenzo_Cujuli_hog:0 "Винченцо Куджули"
+IME_Adelchi_Serena_eco:0 "Адельчи Серена"
+IME_Pietro_Koch_sec:0 "Пьетро Кох"
+IME_Guido_Alberto_Alfieri_for:0 "Гвидо Альберто Альфьери"
 
 ### Confederation
-PAL_Victor_Shem_Tov_hog:0 "Victor Shem-Tov"
-PAL_Labib_Hussein_Abu_Rokan_eco:0 "Labib Hussein Abu Rokan"
-PAL_Rashid_Karami_sec:0 "Rashid Karami"
-PAL_Charles_Malik_for:0 "Charles Malik"
+PAL_Victor_Shem_Tov_hog:0 "Виктор Шем-Тов"
+PAL_Labib_Hussein_Abu_Rokan_eco:0 "Лабиб Хусейн Абу Рокан"
+PAL_Rashid_Karami_sec:0 "Рашид Карами"
+PAL_Charles_Malik_for:0 "Чарльз Мэлик"
 
 ### Two-State Palestine
-PAL_Ahmad_Shukeiri_hog:0 "Ahmad Shukeiri"
-PAL_Salem_Hanna_Khamis_eco:0 "Salem Hanna Khamis"
-PAL_Khalil_al_Wazir_sec:0 "Khalil al-Wazir"
-PAL_Salah_Khalaf_for:0 "Salah Khalaf"
+PAL_Ahmad_Shukeiri_hog:0 "Ахмад Шукейри"
+PAL_Salem_Hanna_Khamis_eco:0 "Салем Ханна Хамис"
+PAL_Khalil_al_Wazir_sec:0 "Халил аль-Вазир"
+PAL_Salah_Khalaf_for:0 "Салах Халаф"
 
 ### Two-State Israel
-ISR_Yosef_Sapir_hog:0 "Yosef Sapir"
-ISR_Pinchas_Sapir_eco:0 "Pinchas Sapir"
-ISR_Yigal_Allon_sec:0 "Yigal Allon"
-ISR_Abba_Eban_for:0 "Abba Eban"
+ISR_Yosef_Sapir_hog:0 "Йосеф Сапир"
+ISR_Pinchas_Sapir_eco:0 "Пинхас Сапир"
+ISR_Yigal_Allon_sec:0 "Игаль Аллон"
+ISR_Abba_Eban_for:0 "Абба Эбан"
 
 ### Kingdom
-PAL_Abd_al_Qadir_al_Husayni_hog:0 "Abd al-Qadir al-Husayni"
-PAL_Said_Al_Mufti_eco:0 "Sa'id Al-Mufti"
-PAL_Hasan_Salama_sec:0 "Hasan Salama"
-PAL_Hazem_Nuseibeh_for:0 "Hazem Nuseibeh"
+PAL_Abd_al_Qadir_al_Husayni_hog:0 "Абд аль-Кадир аль-Хусайни"
+PAL_Said_Al_Mufti_eco:0 "Са'ид аль-Муфти"
+PAL_Hasan_Salama_sec:0 "Хасан Салама"
+PAL_Hazem_Nuseibeh_for:0 "Хазем Нусейбех"
 
 ### Lehi Israel
-ISR_Hanoch_Kalai_hog:0 "Hanoch Kalai"
-ISR_David_Stern_eco:0 "David Stern"
-ISR_Yaakov_Banai_sec:0 "Yaakov 'Mazal' Banai"
-ISR_Israel_Eldad_for:0 "Israel Eldad"
+ISR_Hanoch_Kalai_hog:0 "Ханох Калай"
+ISR_David_Stern_eco:0 "Дэвид Штерн"
+ISR_Yaakov_Banai_sec:0 "Яков "Мазаль" Банай"
+ISR_Israel_Eldad_for:0 "Исраэль Эльдад"
 
 ### Syria
-DAM_Khalid_al_Azm_hog:0 "Khalid al-Azm"
-DAM_Izzat_Traboulsi_eco:0 "Izzat Traboulsi"
-DAM_Fawzi_Selu_sec:0 "Fawzi Selu"
-DAM_Khalil_Mardam_Bey_for:0 "Khalil Mardam Bey"
+DAM_Khalid_al_Azm_hog:0 "Халид аль-Азм"
+DAM_Izzat_Traboulsi_eco:0 "Иззат Трабулси"
+DAM_Fawzi_Selu_sec:0 "Фавзи Селу"
+DAM_Khalil_Mardam_Bey_for:0 "Халил Мардам Бей"
 
 ### UltNat Palestine
-PAL_Said_al_Muragha_hog:0 "Said al-Muragha"
-PAL_Sabri_Khalil_al_Banna_eco:0 "Sabri Khalil al-Banna"
-PAL_Wadie_Haddad_sec:0 "Wadie Haddad"
-PAL_Zuheir_Moshen_for:0 "Zuheir Moshen"
+PAL_Said_al_Muragha_hog:0 "Саид аль-Мурага"
+PAL_Sabri_Khalil_al_Banna_eco:0 "Сабри Халил аль-Банна"
+PAL_Wadie_Haddad_sec:0 "Вейди Хаддад"
+PAL_Zuheir_Moshen_for:0 "Зухейр Мошен"
 
 ### AuthSoc Palestine
-PAL_Nayef_Hawatmeh_hog:0 "Nayef Hawatmeh"
-PAL_Bashir_Barghouti_eco:0 "Bashir Barghouti"
-PAL_Bassam_Abu_Sharif_sec:0 "Bassam Abu Sharif"
-PAL_Muhammad_Najati_Sidqi_for:0 "Muhammad Najati Sidqi"
+PAL_Nayef_Hawatmeh_hog:0 "Наеф Хаватмех"
+PAL_Bashir_Barghouti_eco:0 "Башир Баргути"
+PAL_Bassam_Abu_Sharif_sec:0 "Бассам Абу Шариф"
+PAL_Muhammad_Najati_Sidqi_for:0 "Мухаммед Наджати Сидки"
 
 ### Irgun Israel
-ISR_David_Raziel_hog:0 "David Raziel"
-ISR_Yaakov_Meridor_eco:0 "Ya'akov Meridor"
-ISR_Shmuel_Katz_sec:0 "Shmuel Katz"
-ISR_Aryeh_Ben_Eliezer_for:0 "Aryeh Ben-Eliezer"
+ISR_David_Raziel_hog:0 "Давид Разиэль"
+ISR_Yaakov_Meridor_eco:0 "Я'аков Меридор"
+ISR_Shmuel_Katz_sec:0 "Шумель Кац"
+ISR_Aryeh_Ben_Eliezer_for:0 "Арье Бен-Элиэзер"
 
 ##########
 #CLN GCW2#
 ##########
 
-CLN_vincenzo_moscatelli_hog:0 "Vincenzo 'Cino' Moscatelli"
-CLN_enrico_martini_sec:0 "Enrico 'Mauri' Martini"
-CLN_felice_cascione_eco:0 "Felice 'U megu' Cascione"
-CLN_benvenuto_revelli_for:0 "Benvenuto 'Nuto' Revelli"
+CLN_vincenzo_moscatelli_hog:0 "Винчензо 'Чино' Москателли"
+CLN_enrico_martini_sec:0 "Энрико 'Маури' Мартини"
+CLN_felice_cascione_eco:0 "Феличе 'У мегу' Кассионе"
+CLN_benvenuto_revelli_for:0 "Бенвенуто 'Нуто' Ревелли"
 
 ##########
 #ARC GCW2#
 ##########
 
-ARC_konstantin_chernenko_hog:0 "Konstantin Chernenko"
-ARC_yuriy_drozdov_sec:0 "Yuriy Drozhdov"
-ARC_lev_voznesensky_eco:0 "Lev Voznesensky"
-ARC_boris_pryanishnikov_for:0 "Boris Pryanishkov"
+ARC_konstantin_chernenko_hog:0 "Константин Черненко"
+ARC_yuriy_drozdov_sec:0 "Юрий Дроздов"
+ARC_lev_voznesensky_eco:0 "Лев Вознесенский"
+ARC_boris_pryanishnikov_for:0 "Борис Прянищников"
 
 ##########
 #KYR GCW2#
 ##########
 
-KYR_Duishonaly_Babakhanov_hog:0 "Duishonaly Babakhnov"
-KYR_Aman_Supatayev_sec:0 "Aman Supatayev"
-KYR_Bayaly_Isakeev_eco:0 "Bayaly Isakeev"
-KYR_Murat_Salikhov_for:0 "Murat Salikhov"
-
+KYR_Duishonaly_Babakhanov_hog:0 "Дуйшоналы Бабахнов"
+KYR_Aman_Supatayev_sec:0 "Аман Супатаев"
+KYR_Bayaly_Isakeev_eco:0 "Баяли Исакеев"
+KYR_Murat_Salikhov_for:0 "Мурат Салихов"
 ##########
 #TRK GCW2#
 ##########
 
-TRK_Yulian_Zverev_hog:0 "Yulian Zverev"
-TRK_Sergey_Lugansky_sec:0 "Sergey Lugansky"
-TRK_Balysh_Ovezov_eco:0 "Balysh Ovezov"
-TRK_Sukhan_Babaev_for:0 "Sukhan Babaev"
+TRK_Yulian_Zverev_hog:0 "Юлиан Зверёв"
+TRK_Sergey_Lugansky_sec:0 "Сергей Луганский"
+TRK_Balysh_Ovezov_eco:0 "Балыш Овезов"
+TRK_Sukhan_Babaev_for:0 "Сухан Бабаев"
 
 
 ##########
 #UZB GCW2#
 ##########
 
-UZB_Abdulla_Qahor_hog:0 "Abdulla Qahor"
-UZB_Azad_Beg_Kerimi_sec:0 "Azad Beg Kerimi"
-UZB_Abdul_Rashid_Dostum_eco:0 "Abdul Rashid Dostum"
-UZB_Domullo_Hindustani_for:0 "Domullo Hindustani"
+UZB_Abdulla_Qahor_hog:0 "Абдулла Кахор"
+UZB_Azad_Beg_Kerimi_sec:0 "Азад Бег Керими"
+UZB_Abdul_Rashid_Dostum_eco:0 "Абдул Рашид Достум"
+UZB_Domullo_Hindustani_for:0 "Домулло Хиндустани"
 
 ##########
 #AKT GCW2#
 ##########
 
-AKT_Nikolai_Zabelkin_hog:0 "Nikolai Zabelkin"
-AKT_alexei_kunitsa_sec:0 "Alexei Kunitsa"
-AKT_Sadwaqas_Ghylmani_eco:0 "Sadwaqas Ghylmani"
-AKT_Absattar_Derbisali_for:0 "Absattar Derbisali"
+AKT_Nikolai_Zabelkin_hog:0 "Николай Забелкин"
+AKT_alexei_kunitsa_sec:0 "Алексей Куница"
+AKT_Sadwaqas_Ghylmani_eco:0 "Садвакас Гилманi"
+AKT_Absattar_Derbisali_for:0 "Абсатар Дербисали"
 
