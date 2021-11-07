@@ -32,13 +32,13 @@
 
 
  ### Ministers ###
- MOS_Konstantin_Voskoboinik_hog:0 "Konstantin Voskoboinik"
- MOS_Stepan_Mosin_for:0 "Stepan Mosin"
- MOS_Mikhail_Vasyukov_eco:0 "Mikhail Vasyukov"
- MOS_Georgy_Khomutov_sec:0 "Georgy Khomutov"
+ MOS_Konstantin_Voskoboinik_hog:0 "Константин Воскобойник"
+ MOS_Stepan_Mosin_for:0 "Степан Мосин"
+ MOS_Mikhail_Vasyukov_eco:0 "Михаил Васюков"
+ MOS_Georgy_Khomutov_sec:0 "Георгий Хомутов"
 
  ### Ideas ###
- MOS_language_problem:0 "Language Problem"
- MOS_language_problem_desc:0 "While our state might be technically Russian, the official language is and will stay German. However many German speakers are no longer in our jurisdiction, which makes filling administrative posts in all matters difficult."
- MOS_rural_state:0 "Rural State"
- MOS_rural_state_desc:0 "With most of the large cities and industrial centers settled by the Germans and thus outside our reach, our administration lacks in industrial capability. At least our agriculture and especially our wheat harvest are producing an excess of food."
+ MOS_language_problem:0 "Языковая проблема"
+ MOS_language_problem_desc:0 "Хотя технически наше государство может быть русским, официальным языком является и останется немецкий. Однако многие носители немецкого языка больше не находятся в нашей юрисдикции, что затрудняет заполнение административных должностей по всем юридическим вопросам."
+ MOS_rural_state:0 "Сельское государство"
+ MOS_rural_state_desc:0 "Поскольку большинство крупных городов и промышленных центров заселены немцами и, следовательно, находятся вне нашей досягаемости, нашей администрации не хватает промышленных мощностей. По крайней мере, наше сельское хозяйство и особенно урожай пшеницы производят избыток продовольствия."
