@@ -1,117 +1,354 @@
 ﻿l_russian:
 
-#just all the events lol#
-itatur.1.t:0 "Operation Black Bull"
-itatur.1.d:0 ""Now is our time, we have been preparing for this invasion since the treasonous Italians tried to kill our glorious leader at Malta, and their so-called 'alliance' in the Triumvirate collapsed into itself. Our soldiers are restless with trigger fingers twitching, our planes are looming over the desert like eagles, and our tanks are roaring and ready to crush their pitiful Governorate beneath their treads. Our rightful lands are just beyond the hinterland of Damascus, we will break open the border and pour into the desert before these cowardly Italians even realize what is going on! Go now, my Mehmetçik, let loose the wolves of war!""
-itatur.1.a:0 "We will be victorious!"
-itatur.2.t:0 "Turkey Victorious"
-itatur.2.d:0 "We have achieved victory! Through daring maneuvers and stunning victories we have totally beaten the Italians in the Middle East, and now hold dominance over the region.\n\nTürkeş has made his intention clear for the peace deal, in exchange for Italy keeping a hold on the Levant they shall hand over rightful Turkic lands, those being the Dodecanese, Cyprus, Lebanon and the Syrian region of Dar'a. No member of the military or government has shown any resistance to this, and we are ready to send these terms off to the Italians."
-itatur.2.a:0 "Send the deal!"
-itatur.3.t:0 "Italy Holds on"
-itatur.3.d:0 "Despite the Turks best efforts, our troops in the Middle East have been able to stem the tide of Turkish forces, and blunt their offensives. Reports from our intelligence networks are that the Turkish govenrment is panicking due to the war dragging out and their economy suffering for it, making this an ample time to send peace terms.\n\nIn the halls of the Grand council, two ways to deal with the Turks have come to prominence. The first is from our Duce Ciano, and is quite moderate. In it, he proposes that we demand reparations from the Turkish government and also a demilitarisation of the Damascus region, to ensure that they cannot threaten our presence in the Middle east again. The other deal, proposed by Ciano's rival in the party, Scorza, is demanding the handing over of some terriotries from the Turks, namely the Damascus region and the Mosul region for Iraq. He argues that the Turks know they are beat and will accept these terms, and that these regions will give us access to new welath and improve relations with our Iraqi allies. All remains is for the council to vote on a deal."
-itatur.3.a:0 "Ciano's deal is ratified and sent."
-itatur.3.b:0 "Scorza's deal is more appealing, we shall push further to have more leverage."
-itatur.30.t:0 "The Empire Remains Strong"
-itatur.30.d:0 "As our brave Italian soldiers push further into Turkey, it is apparent that we are victorious. With Damascus held firmly under our control we have more leverage than we previously had.\n\nCarlo Scorza has made it clear to the Grand Council that for Italy's empire to remain strong we must gain new territories. These words of his previously held us off and let us keep the fight going on within the Levant. However now as we have Turkey on their knees, we are finally able to make our demands."
-itatur.30.a:0 "Scorza's deal shall be sent to the Turks."
-itatur.4.t:0 "Türkeş Sends His Demands!"
-itatur.4.d:0 "As we have decisively lost in the field of battle in the Middle East, the Turkish dictator, Alparslan Türkeş has sent us his demands. In it, he details that in exchange for us keeping the Levant, we will hand over our possesions of the Dodecanese, Cyprus, Lebanon and the region of Dar'a.\n\nIn our current position, we will have no choice but to accept the terms sent to us."
-itatur.4.a:0 "We have no choice but to accept."
-itatur.5.t:0 "Ciano Sends His Demands!"
-itatur.5.d:0 "As our war machine has lost its steam and we're now stuck in a slog of a conflict, the Italians have sent us terms for a peace deal. The peace deal details some rather light terms, namely that we give the Italian government reparations for the damage we caused in their lands, and that the border egion of Damascus be demilitarised.\n\nAs we're in no position to continue the fight, Türkeş has decided the ratify the agreement."
-itatur.5.a:0 "I suppose they'll do, send our reply accepting."
-itatur.6.t:0 "An offer on our desk"
-itatur.6.d:0 "While our initial offensive has stalled, our troops our still managing to hold fast and well in the face of Italian troops. Despite this, it appears the Italians think they have decisively won in the field, and have sent us a peace deal that not even the stupidest person would accept. In it, they demand we give up the city of Damascus and its hinterland, as well as hand over Mosul to the Iraqis."
-itatur.6.a:0 "We, of course, refuse."
-itatur.7.t:0 "Turks Refuse the Offer!"
-itatur.7.d:0 "Those damn Turks, they refused our offer! Citing that they still hold the field and that Iraq hasn't even participated in the war, they cannot accept these terms. Now the debate is either whether we try to call their bluff and send it again, or we go to Ciano's more moderate deal."
-itatur.7.a:0 "Try and call their bluff - send the same offer once more."
-itatur.7.b:0 "Clearly we need to send something more reasonable, offer Ciano's deal instead."
-itatur.8.t:0 "Scorza's deal- Take Two"
-itatur.8.d:0 "The Italians have sent their reply, in which they outline that this is the only deal they will consider and that the Turks should accept or else face the wrath of the Italian Empire. This is obvious to Türkeş and his staff as posturing, The Italians are barely in a better position than us!"
-itatur.8.a:0 "This must be a joke! We refuse, again."
-itatur.9.t:0 "The Offer Refused Once Again"
-itatur.9.d:0 "The Turks have once again refused Scorza's deal, citing the exact same reasons as last time. In the Grand Council, more and more people are arguing that we should instead use Ciano's, as it is clear that the Turks will under no circumstances accept the deal. Scorza and his most loyal allies in the Council are still doggedly fighting for his deal."
-itatur.9.a:0 "Third time's the charm, as the saying goes. Send it again."
-itatur.9.b:0 "This is futile, just send Ciano's deal"
-itatur.10.t:0 "Scorza's Deal - the Third"
-itatur.10.d:0 "Türkeş looks through the Italian peace offer once again. 'They can't be serious' he thinks. He then starts laughing. Laughing, and laughing. How can the Italians be so idiotic! This peace deal is absurd, comple-\n\n"My Başbuğ?"\n\nAn aide pops his head through the door, and places a report on Türkeş desk. In it, he reads that the economy is in no state to continue Turkey's current conflict, and that if they do the Turkish economy will face 'immediate and serious issues.' Türkeş stopped laughing. The joke wasn't funny anymore."
-itatur.10.a:0 "We have no choice..."
-itatur.11.t:0 "A Skirmish in the Sea"
-itatur.11.d:0 "Some worrying reports from the naval office in Rhodes. Yesterday, our patrol boats were intercepted by their Turkish counterparts. While their discussions were usually courteous, today they used a loudspeaker to say that the Italian boats were in Turkish waters and therefore violating Turkish sovereignty. An argument ensued, the Italians arguing correctly that they were still in Italian waters as they were only a couple of nautical miles from their base in Rhodes.\n\nSuddenly, the Turkish speakers went silent, and they opened fire on the Italian ships. They returned fire, and the situation escalated from there. The local cruisers were sent out and a tense standoff between the Turkish and Italian fleets occured. After a flurry of transmissions between the naval offices in Rhodes and Marmaris, the fleets stood down and retunred to port, with fortunately no casualties on either side.\n\nThis report seems to confirm our worst suspicions, which is that Turkey is planning on making a move on us and our regions that they hold a claim to. A reinforcement of the area is already in the works and Italian soldiers and naval offices all across the Eastern Mediterranean are on high alert."
-itatur.11.a:0 "We must be prepared for the worst."
-itatur.12.t:0 "Our troops attacked by the Italians!"
-itatur.12.d:0 "We have had reports from our offices in Damascus of an Italian incursion into our sovereign territory! Our brave troops, who normally defend our lands in Syria from Arab bandits have had to fight a different type of bandit today.\n\nThe patrol, scouring the Syrian deserts came across a Italian patrol that had deliberately violated our sovereign borders. When our troops were moving over to inform them of this, the Italians opened fire on us! Our troops bravely fought and laid down their lives for the Turkish people, and the Italians were forced to run away with their tails between their legs.\n\nThe Italian government still hasn't apologised for this very obvious violation of our sovereign rights as a nation, and is proof o the worsening relations between our two nations. For Türkeş however, he sees this as a perfect chance to finally decide who is the master of the Middle East..."
-itatur.12.a:0 "Step up patrols, and move troops to reinforce the border. War is looming."
-itatur.13.t:0 "Unrest in Cyprus"
-itatur.13.d:0 "More bad news is pouring in from our Eastern territories.\n\nThe Turkish population in Cyprus has always been unhappy being part of the Italian Empire, and with the recent rise in tensions between our two nations this tension has reached a boiling point.\n\nLocal carabinieri were sent to police an upcoming rally by the Taksimciler, when the rally's organisers turned their ire upon the officers. Soon the rally turned into a riot when the police were pelted with rocks and assaulted by the mob. Reinforcments were called in and despite the Turks best attempts the police held strong, and the rioters eventually dispersed.\n\nThe tensions between Turkey and Italy are very much about to explode, and the Cyprus governorate has declared martial law across the island."
-itatur.13.a:0 "At least the Greeks aren't kicking up a fuss..."
-itatur.14.t:0 "Mujahideen Volunteers"
-itatur.14.d:0 "Our propaganda effort to show the righteousness of our gaza in the Levant has borne fruit! Upon hearing of the slightly embellished Italian plans to colonize Palestine with Jews and Christians, the true believers of Islam from across the Middle East - Syria, Iraq, and even Egypt - have taken up arms to fight for our cause! These modern Mujahideen have organized themselves in Syria and are now awaiting our command, ready to fight the infidel Italians and their Jewish dogs."
-itatur.14.a:0 "Gazanız mübarek olsun aslanlarım!"
-itatur.15.t:0 "Jewish Zionist groups come to our aid"
-itatur.15.d:0 "In a weird turn of fates, several Zionist organizations have rallied behind our regime against the Turks, seeing us as a lesser evil to the Turkish regime who are well known for their anti-semitic nature. These groups are hardened from defending their homes from Palestinians as well as fighting us before, and would serve to bolster us against the fast encroaching Turks."
-itatur.15.a:0 "We'll take all the help we can get. Let them help us."
-itatur.16.t:0 "Triumph in Rhodes!"
-itatur.16.d:0 "As the last Italian soldiers scrambled from the Rhodian shore, a decisive victory has been achieved over the Italian forces in the Aegean.\n\nAlthough the Italian forces had been long prepared for inevitable scenario of an attack, stationed forces were able to breach the Italian fortifications that had been installed, enjoying overwhelming air superiority as well as the element of surprise. By first securing the adjacent Isle of Simi, naval forces stationed near the area successfully landed several regiments of infantry along the north-eastern coastline, easily securing the majority of the island. Although minor skirmishes throughout the treacherous terrain continued for another 13 days, organized resistance finally ceased when Italy withdrew all non-captured forces from the island, cementing our position in the newly-acquired city.\n\nWith the capture of the city, as well as the surrounding region, the Turkish navy has significantly greater control over the Aegean.\n\nAs Turkish soldiers march past scattered ancient ruins, many are certain that our triumph in the Aegean is a sign of things to come, as with this victory, the ability for Italy to project its power through the Aegean has been greatly diminished, at least until for the remainder of the war. Through our newly-gained control over the Aegean, we shall be in an excellent position for further incursions into the severely-weakened Italian Aegean. This victory's benefits are twofold, however; as a part of the greater campaign to reclaim disputed claimed territory, this battle has served as an extremely useful media tool. Reports of our victory have been widely publicized in Turkey and Italy alike, and the increased morale will certainly aide us in our campaign in the Middle East."
-itatur.16.a:0 "At last, Roda is ours!"
-itatur.20.t:0 "Rhodes Falls to the Turks!"
-itatur.20.d:0 "Marte's regiment had hardly a day's warning of the most recent Turkish offensive. They found themselves stumbling through the barracks at some ungodly hour at their commander's orders, drifting between consciousness and slumber. The only light above was that of the dim moon.\n\nThe Turkish defense forces were expected to beeline towards Italian military assets on Rhodes, but not with such ferocity or in such a short span of time. A well-practiced combined-arms effort saw the Turks shattering the expectations set by their previous maneuvers in the region. Bypassing the Rhodian Strait and its well-prepared Italian defenses, the Turkish navy was able to secure the Isle of Simi north of Rhodes and then leverage their advantage to launch a coordinated night attack that saw the north-east of Rhodes falling to small infantry contingents supported by overwhelming airpower. But Marte and his regiment would only find that out weeks later, in newspaper columns gleefully read aloud by the Turkish officers.\n\nAll they knew at the time was that a small Turkish force had managed to somehow land on the island, but without the means to supply itself or pose a serious threat to Italian possessions. The night skirmish by Kremasti and the harrowing defeat the Italians suffered was not a fluke, nor a single incident, but a sign of things to come. Similar maneuvers had been taking place north in the Italian dioceses, and Italy's grip on the Aegean was not expected to recover from the losses incurred during the Turkish Aegean campaign - not during the course of the war, at least. Marte and what remained of his regiment later found out that Rhodes as a whole had held on for roughly 13 days before Italian forces were forced to evacuate the island, leaving him and the rest of the men captured by the Turks to their fate, learning of the war's progress from newspaper columns and the mood of the prison camp's commanding officer during the morning rollcall."
-itatur.20.a:0 "This is a Disaster!"
-itatur.100.t:0 "War in the Desert"
-itatur.100.d:0 "Ever since the Second World War ended, Turkey has never been pleased with their share of the spoils; far too many Turks ended up outside of their borders. These long simmering tensions have exploded today, as Turkish president Alparslan Türkeş has announced that a state of war now exists between the Turkish Republic and the Italian Empire.\n\nDespite being former allies, the war has already proven extremely popular in Turkey. Young nationalists and party members march through the streets of Ankara, calling on Türkeş to "Lead Us to Victory". Comparatively, in Italy the public has shown little to no support for the war, with many questioning why Italy is even in Cyprus in the first place."
+#Все ивенты#
+	
 
-itatur.21.t:0 "Italian Victory in Rhodes"
-itatur.21.d:0 "Unsurprisingly, our forces have successfully repelled the Turkish advance into Rhodes. Though the short conflict was simply part of a larger effort by the Turks to conquer long claimed territories in the chaos following the collapse of the Triumvirate, the victory has been widely publicized by the press and celebrated in Rome.\n\n"The bravery of the Italian army can withstand any attack!" Ciano said in a speech from the capital. "The Turks could not defeat us in Rhodes and they will not defeat us in the Levant!"\n\nThis success hardly assures victory in the Middle East or the continued glory of the Empire, but in Rhodes, at least, the Italian banner still flies."
-itatur.21.a:0 "Viva L'Italia!"
+	itatur.1.t:0 "Операция Чёрный Бык"
+	
 
-##Italian Reaction Tree Focuses##
+	itatur.1.d:0 ""Настало наше время, мы готовимся к этому вторжению с тех пор, как эти предатели — итальянцы попытались убить нашего славного лидера на Мальте, и их так называемый «союз» — Триумвират рухнул сам по себе. Наши солдаты нервничают, дергая спусковые крючки, наши самолеты летят над пустыней, как орлы, а наши танки ревут и готовы сокрушить их жалкие провинции своими гусеницами. Наши законные земли находятся сразу за Дамаском, мы прорвем границу и хлынем в пустыню, прежде чем эти трусливые итальянцы даже поймут, что происходит! Ступай, мой Мехметчик, выпусти волков войны!""
+	
 
-ita_turkes_at_the_gates:0 "Turkes at the Gates"
-ita_turkes_at_the_gates_desc:0 ""
-ita_embargo_the_turkish_republic:0 "Embargo the Turkish Republic"
-ita_embargo_the_turkish_republic_desc:0 ""
-ita_maneuvers_in_macedonia:0 "Maneuvers in Macedonia"
-ita_maneuvers_in_macedonia_desc:0 ""
-ita_help_chiesa:0 "Help dalla Chiesa"
-ita_help_chiesa_desc:0 ""
-ita_send_the_good_stuff:0 "Send the good stuff"
-ita_send_the_good_stuff_desc:0 ""
-ita_old_stuff_goes_first:0 "Old stuff goes first"
-ita_old_stuff_goes_first_desc:0 ""
-ita_skirmishes_in_western_thrace:0 "Skirmishes in western Thrace"
-ita_skirmishes_in_western_thrace_desc:0 ""
-ita_mine_mine_mine:0 "Mine Mine Mine"
-ita_mine_mine_mine_desc:0 ""
-ita_send_in_the_advisors:0 "Send in the Advisors"
-ita_send_in_the_advisors_desc:0 ""
-ita_send_in_the_blackshirts:0 " Send in the Blackshirts"
-ita_send_in_the_blackshirts_desc:0 ""
-ita_bolster_the_greeks:0 "Bolster the Greeks"
-ita_bolster_the_greeks_desc:0 ""
-ita_alea_jacta_est:0 "Alea Jacta Est"
-ita_alea_jacta_est_desc:0 ""
-ita_a_stuck_situation:0 "A stuck situation"
-ita_a_stuck_situation_desc:0 ""
-ita_defeated_and_disgraced:0 "Defeated and Disgraced"
-ita_defeated_and_disgraced_desc:0 ""
-ita_the_turks_are_driven_before_us:0 "The Turks are driven before us!"
-ita_the_turks_are_driven_before_us_desc:0 ""
-ita_no_war_no_peace:0 "No War No Peace"
-ita_no_war_no_peace_desc:0 ""
-ita_someone_will_get_fired_over_this:0 "Someone will get fired over this!"
-ita_someone_will_get_fired_over_this_desc:0 ""
-ita_parade_in_rome:0 "Parade in Rome"
-ita_parade_in_rome_desc:0 ""
-ita_send_the_diplomats:0 "Send the Diplomats"
-ita_send_the_diplomats_desc:0 ""
-ita_drag_out_negotiations:0 "Drag out Negotiations"
-ita_drag_out_negotiations_desc:0 ""
-ita_parade_in_jerusalem:0 "Parade in Jerusalem"
-ita_parade_in_jerusalem_desc:0 ""
-ita_status_quo_ante:0 "Status quo ante"
-ita_status_quo_ante_desc:0 ""
-ita_a_humiliating_peace:0 "A humiliating peace"
-ita_a_humiliating_peace_desc:0 ""
-ita_dictate_the_peace:0 "Dictate the peace"
-ita_dictate_the_peace_desc:0 ""
+	itatur.1.a:0 "Мы одержим победу!"
+	
+
+	itatur.2.t:0 "Победоносная Турция"
+	
+
+	itatur.2.d:0 "Мы добились победы! Благодаря смелым маневрам и ошеломляющим победам мы полностью победили итальянцев на Ближнем Востоке и теперь удерживаем господство над регионом.\n\n Тюркеш ясно выразил свое намерение по мирному соглашению, в обмен на то, что Италия сохранит контроль над Левантом, они передадут законные тюркские земли, такие как Додеканес, Кипр, Ливан и сирийский регион Даръа. Ни один военнослужащий или член правительства не оказал этому никакого сопротивления, и мы готовы передать эти условия итальянцам."
+	
+
+	itatur.2.a:0 "По рукам!"
+	
+
+	itatur.3.t:0 "Италия превозмогает"
+	
+
+	itatur.3.d:0 "Несмотря на все усилия турок, нашим войскам на Ближнем Востоке удалось остановить поток турецких войск, тем самым остановив их наступление. Согласно сообщениям наших разведывательных сетей, турецкое правительство в панике из-за затянувшейся войны и страдающей из-за этого экономики, поэтому сейчас достаточно времени для обсуждения с ними условий мира.\n\n В залах Большого Совета на первый план вышли два способа борьбы с турками. Первый от нашего Дуче Чиано, довольно умеренный. В нем он предлагает потребовать репараций от турецкого правительства, а также демилитаризацию района Дамаска, чтобы они не могли снова угрожать нашему присутствию на Ближнем Востоке. Другой вариант, предложенный соперником Чиано по партии, Скорца, призывает к передаче от турок некоторых территорий, а именно района Дамаска и района Мосула Ираку. Скорца утверждает, что турки знают, что их дело худо, и примут эти условия, и в этом случае эти регионы откроют нам доступ к новому благополучию и улучшат отношения с нашими иракскими союзниками. Остается только проголосовать."
+	
+
+	itatur.3.a:0 "Сделка Чиано одобрена и отправлена на обсуждение."
+	
+
+	itatur.3.b:0 "Вариант Скорцы более привлекателен, мы будем действовать дальше, чтобы получить большую выгоду."
+	
+
+	itatur.30.t:0 "Империя прочно стоит на ногах"
+	
+
+	itatur.30.d:0 "По мере того как наши храбрые итальянские солдаты продвигаются дальше в Турцию, становится очевидным, что мы победили. Когда Дамаск находится под твердым контролем, у нас больше рычагов влияния, чем было раньше.\n\n Карло Скорца ясно дал понять Великому Совету, что для того, чтобы итальянская империя оставалась сильной, мы должны получить новые территории. Его слова ранее удерживали нас и позволяли нам продолжать борьбу в Леванте. Однако теперь, когда Турция стоит на коленях, мы, наконец, можем выдвигать наши требования."
+	
+
+	itatur.30.a:0 "Предложение Скорцы должно быть отправлено туркам."
+	
+
+	itatur.4.t:0 "Тюркеш отправляет свои требования!"
+	
+
+	itatur.4.d:0 "Поскольку мы окончательно проиграли на Ближнем Востоке, турецкий диктатор Альпарслан Тюркеш прислал нам свои требования. В нем он подробно описывает, что в обмен на то, что мы сохраним Левант, мы передадим наши владения Додеканес, Кипр, Ливан и регион Дар'а.\n\n В нашем текущем положении у нас не будет другого выбора, кроме как принять присланные нам условия."
+	
+
+	itatur.4.a:0 "Мы можем только смириться и принять это."
+	
+
+	itatur.5.t:0 "Чиано выслал свои требования!"
+	
+
+	itatur.5.d:0 "Поскольку наша военная машина не справилась, и мы теперь погрязли в изнурительном конфликте, итальянцы прислали нам условия мирного соглашения. В нём указаны довольно легкие условия, а именно: мы выплачиваем итальянскому правительству репарации за ущерб, который мы нанесли их землям,а также мы должны демилитаризовать приграничный район Дамаска. \n\n Поскольку мы не в состоянии продолжать борьбу, Тюркеш решил ратифицировать соглашение."
+	
+
+	itatur.5.a:0 "Я полагаю, этого будет достаточно, пришлите наш ответ о принятии."
+	
+
+	itatur.6.t:0 "Предложение на нашем столе"
+	
+
+	itatur.6.d:0 "Хотя наше начальное наступление застопорилось, нашим войскам все еще удается держаться крепко перед лицом итальянских войск. Несмотря на это, похоже, итальянцы думают, что они решительно победили на поле боя, и прислали нам мирное соглашение, которое не мог бы принять даже самый глупый человек. В нем они требуют, чтобы мы оставили город Дамаск и его внутренние районы, а также передали Мосул иракцам."
+	
+
+	itatur.6.a:0 "Мы конечно откажемся."
+	
+
+	itatur.7.t:0 "Турки отказались!"
+	
+
+	itatur.7.d:0 "Эти проклятые турки отказались от нашего предложения! Ссылаясь на то, что они все еще держат поле боя и что Ирак даже не участвовал в войне, они не могут принять эти условия. Теперь спор заключается либо в том, попытаемся ли мы усмирить их и отправить это предложение снова, или мы перейдем к более умеренному варианту Чиано."
+	
+
+	itatur.7.a:0 "Попробуйте заставить их прекратить блефовать и отправьте то же предложение еще раз."
+	
+
+	itatur.7.b:0 "Очевидно, нам нужно отправить что-то более разумное, предложите вариант Чиано."
+	
+
+	itatur.8.t:0 "Мир Скорцы - дубль два"
+	
+
+	itatur.8.d:0 "Итальянцы прислали свой ответ, в котором подчеркивают, что это единственный мир, на который они согласны, и что мы должны согласиться, иначе столкнёмся с гневом Итальянской империи. Это неочевидно для Тюркеша и его приближённых, ведь итальянцы едва ли находятся в лучшем положении, чем мы!"
+	
+
+	itatur.8.a:0 "Это должно быть шутка. Мы отказываемся. Снова."
+	
+
+	itatur.9.t:0 "Предложение о мире отклонено"
+	
+
+	itatur.9.d:0 "Турки в очередной раз отказались от предложения Скорцы, сославшись на те же причины, что и в прошлый раз. В Большом Совете всё больше и больше людей утверждают, что вместо этого мы должны пойти по варианту Чиано, поскольку ясно, что турки ни при каких обстоятельствах не примут мир на таких условиях. Скорца и его самые верные союзники в Совете все еще упорно борются за его сделку."
+	
+
+	itatur.9.a:0 "Как говорится, Бог любит Троицу. Отправьте еще раз."
+	
+
+	itatur.9.b:0 "Это бесполезно, просто отправьте условия Чиано"
+	
+
+	itatur.10.t:0 "Мир Скорцы - третья попытка"
+	
+
+	itatur.10.d:0 "Тюркеш еще раз просматривает итальянское мирное предложение. «Они не могут делать это всерьез ещё раз», - думает он. Затем он начинает смеяться. Хохотать и плакать от смеха. Как итальянцы могут быть такими идиотами!? Это мирное соглашение абсурдно, думает он и говорит вслух — \n\n "Башбуг?" \n\n Помощник просовывает голову в дверь и кладет отчет на стол Тюркеша. В нем он читает, что экономика не в состоянии продолжать текущий конфликт в Турции, и что если они продолжат воевать, турецкая экономика столкнется с «немедленными и серьезными проблемами». Тюркеш перестал смеяться. Шутка перестала быть смешной."
+	
+
+	itatur.10.a:0 "У нас нет выбора..."
+	
+
+	itatur.11.t:0 "Противостояние в море"
+	
+
+	itatur.11.d:0 "Поступили некоторые тревожные сообщения из военно-морского ведомства на Родосе. Вчера наши патрульные катера перехватили их турецкие коллеги. Хотя их обсуждения обычно были вежливыми, сегодня они использовали громкоговоритель, чтобы сказать, что итальянские лодки находятся в турецких водах и, следовательно, нарушают суверенитет Турции. Последовал спор, итальянцы правильно утверждали, что они все еще находятся в итальянских водах, поскольку они были всего в паре морских миль от своей базы на Родосе. \n\n Внезапно турки замолчали и открыли огонь по итальянским кораблям. Они открыли ответный огонь, и оттуда ситуация накалилась. Были отправлены местные крейсеры, и произошло напряженное противостояние между турецким и итальянским флотами. После шквала сообщений между военно-морскими офисами на Родосе и Мармарисе флот отступил и вернулся в порт, к счастью, без потерь с обеих сторон. \n\n Этот отчет, кажется, подтверждает наши худшие подозрения, а именно: Турция планирует нанести удар по нашим регионам, на которые они претендуют. Усиление этого района уже ведется, и итальянские солдаты и военно-морские службы по всему Восточному Средиземноморью находятся в состоянии повышенной готовности."
+	
+
+	itatur.11.a:0 "Мы должны готовиться к худшему."
+	
+
+	itatur.12.t:0 "Наши силы атакованы итальянцами!"
+	
+
+	itatur.12.d:0 "Мы получили сообщения из штаба военного округа в Дамаске о вторжении итальянцев на нашу суверенную территорию! Нашим храбрым войскам, которые обычно защищают наши земли в Сирии от арабских бандитов, сегодня пришлось сражаться с бандитами другого типа. \n\n Патруль, прочесывающий сирийские пустыни, наткнулся на итальянский отряд, который сознательно нарушил наши суверенные границы. Когда наши войска приближались, чтобы сообщить им об этом, итальянцы открыли по нам огонь! Наши войска храбро сражались и отдали свои жизни за турецкий народ, а итальянцы были вынуждены бежать с поджатыми хвостами. \n\n Итальянское правительство до сих пор не извинилось за это очевидное нарушение наших суверенных прав как нации, и это ли не является доказательством ухудшения отношений между нашими двумя странами? Однако для Тюркеша в этом прекрасный шанс окончательно решить, кто является хозяином Ближнего Востока..."
+	
+
+	itatur.12.a:0 "Усильте патрули и переместите войска ближе к границе. Надвигается война."
+	
+
+	itatur.13.t:0 "Беспорядки на Кипре"
+	
+
+	itatur.13.d:0 "С наших восточных территорий поступает всё больше плохих новостей. \n\n Турецкое население Кипра всегда было недовольно тем, что являлось частью Итальянской империи, и с недавним ростом напряженности между нашими двумя странами эта напряженность достигла точки кипения. \n\n Таксимцилер отправил местных карабинеров в полицию на предстоящем митинге, в то время как организаторы митинга обратили свой гнев на офицеров. Вскоре митинг перерос в беспорядки, когда в полицию бросали камнями и кидались на одного толпой. Было вызвано подкрепление, и, несмотря на все попытки турок, полиция сдержала натиск, и мятежники в конце концов рассеялись. \n\n Напряженность в отношениях между Турцией и Италией вот-вот взорвется, и на Кипре было объявилено военное положение."
+	
+
+	itatur.13.a:0 "По крайней мере, греки не шалят..."
+	
+
+	itatur.14.t:0 "Волонтёры моджахеды"
+	
+
+	itatur.14.d:0 "Наши пропагандистские усилия, направленные на то, чтобы показать праведность нашего дела в Леванте, принесли свои плоды! Услышав о слегка приукрашенных планах Италии по колонизации Палестины евреями и христианами, истинные приверженцы ислама со всего Ближнего Востока - Сирии, Ирака и даже Египта - взяли в руки оружие, чтобы бороться за наше дело! Эти воины джихада собрались в отряды на территории Сирии и теперь ждут нашего командования, готовые сражаться с неверными итальянцами и их еврейскими собаками."
+	
+
+	itatur.14.a:0 "Gazanız mübarek olsun aslanlarım!"
+	
+
+	itatur.15.t:0 "Еврейские сионисты спешат нам на помощь"
+	
+
+	itatur.15.d:0 "По странному повороту судьбы несколько сионистских организаций сплотились вокруг нашего режима против турок, считая нас меньшим злом по сравнению с ними, которые хорошо известны своим антисемитским характером. Это группы закаленных бойцов, защищавшие свои дома от палестинцев, воевавших с нами раньше, и они поддержат нас против быстро наступающих турецких орд."
+	
+
+	itatur.15.a:0 "Мы примем любую помощь, которую сможем получить. Пусть нам помогают."
+	
+
+	itatur.16.t:0 "Родосский триумф!"
+	
+
+	itatur.16.d:0 "Когда последние итальянские солдаты были выбиты с родосского берега, была достигнута решающая победа в Эгейском море. \n\n Хотя итальянские войска давно были готовы к неизбежному нападению, турки смогли прорвать итальянские укрепления, обладая подавляющим превосходством в воздухе, а также воспользовавшись элементом внезапности. Сначала захватив прилегающий остров Сими, военно-морские силы, дислоцированные рядом с этим районом, успешно высадили несколько полков пехоты вдоль северо-восточного побережья, легко захватив большую часть острова. Хотя незначительные стычки на этой коварной территории продолжались еще тринадцать дней, организованное сопротивление окончательно прекратилось, когда Италия вывела все не захваченные силы с острова, укрепив наши позиции в недавно приобретенном городе. \n\n С захватом города и окружающего региона турецкий флот получил значительно больший контроль над Эгейским морем. \n\n Когда турецкие солдаты маршируют мимо разбросанных древних руин, многие наши люди уверены, что триумф в Эгейском море - это знак грядущего, поскольку с этой победой способность Италии проецировать свою силу через этот регион значительно уменьшилась, по крайней мере, до конца войны. Благодаря полученному контролю мы будем в отличной позиции для дальнейших вторжений в сильно ослабленное итальянскую морскую зону на этой морской территории. Эта победа дает двоякие преимущества; как часть более масштабной кампании по возвращению оспариваемых территорий, эта битва также послужила чрезвычайно полезным инструментом пропаганды. Сообщения о нашей победе широко освещались как в Турции, так и в Италии, и возросший боевой дух, безусловно, поможет нам в нашей кампании на Ближнем Востоке."
+	
+
+	itatur.16.a:0 "Наконец-то Рода взят!"
+	
+
+	itatur.20.t:0 "Родос падает перед турками!"
+	
+
+	itatur.20.d:0 "Полк Марте едва ли получил предупреждение о последнем турецком наступлении. В какой-то злополучный час по приказу своего командира они спотыкались перед строениями, дрейфуя между сознанием и сном. Единственным светом наверху была тусклая луна. \n\n Ожидалось, что турецкие силы направятся к итальянским позициям на Родосе, но не с такой свирепостью и не за такой короткий промежуток времени. Благодаря хорошо отработанным общевойсковым усилиям турки превзошли ожидания, это нельзя было сравнить с их предыдущими маневрами в этом регионе. Обойдя Родосский пролив и его хорошо подготовленную итальянскую оборону, турецкий флот смог захватить остров Сими к северу от Родоса, а затем использовать свое преимущество, чтобы начать скоординированную ночную атаку, в результате которой северо-восток Родоса пал от небольших пехотных контингентов, и всё это при поддержке подавляющей авиации. Но Марте и его полк узнают об этом только через несколько недель в газетных колонках, радостно зачитанных вслух турецкими офицерами. \n\n Все, что они знали в то время, это то, что небольшому турецкому отряду удалось каким-то образом высадиться на острове, но без средств для снабжения и создания серьезной угрозы итальянцам. Ночная стычка у Кремасти и последовавшее ужасное поражение итальянцев были не случайностью и не единичным происшествием, а признаком грядущих событий. Подобные маневры проводились на севере, и не ожидалось, что власть Италии на Эгейском море оправится от потерь, понесенных во время турецкой кампании в Эгейском море - по крайней мере, во время войны. Позже Марте и те, кто остались от его полка, выяснили, что Родос в целом продержался примерно тринадцать дней, прежде чем итальянские войска были вынуждены эвакуироваться с острова, оставив его и остальных людей, захваченных турками на произвол судьбы, узнав о ходе войны по газетным колонкам и настроению коменданта тюремного лагеря во время утренней переклички."
+	
+
+	itatur.20.a:0 "Это катастрофа!"
+	
+
+	itatur.100.t:0 "Война в пустыне"
+	
+
+	itatur.100.d:0 "С тех пор как закончилась Вторая мировая война, Турция никогда не была довольна своей долей; слишком много турок оказались за пределами своей родины. Эта давно закипающая напряженность взорвалась сегодня, когда президент Турции Альпарслан Тюркеш объявил о состоянии войны между Турецкой Республикой и Итальянской империей. \n\n Несмотря на то, что они были бывшими союзниками, война оказалась чрезвычайно популярной в Турции. Молодые националисты и члены партии маршируют по улицам Анкары, призывая Тюркеша «привести их к победе». Для сравнения, в Италии общественность практически не поддерживает войну, и многие задаются вопросом, почему Италия вообще находится на Кипре."
+	
+
+	
+
+
+
+	
+
+	itatur.21.t:0 "Победа Италии на Родосе"
+	
+
+	itatur.21.d:0 "Неудивительно, что наши силы успешно отбили турецкое наступление на Родос. Хотя этот короткий конфликт был просто частью более масштабных усилий турок по завоеванию давно захваченных территорий в хаосе после краха Триумвирата, победа широко освещалась прессой и праздновалась в Риме. \n\n «Храбрость итальянской армии может выдержать любую атаку!» Об этом Чиано сказал в своем выступлении из столицы. «Турки не смогли победить нас на Родосе, и они не победят нас в Леванте!» \n\n Этот успех вряд ли гарантирует победу на Ближнем Востоке или сохранение славы Империи, но, по крайней мере, на Родосе итальянское знамя все еще развевается."
+	
+
+	itatur.21.a:0 "Viva L'Italia!"
+	
+
+	
+
+
+
+	
+
+	##Italian Reaction Tree Focuses##
+	
+
+	
+
+
+
+	
+
+	ita_turkes_at_the_gates:0 "Турки у ворот"
+	
+
+	ita_turkes_at_the_gates_desc:0 ""
+	
+
+	ita_embargo_the_turkish_republic:0 "Эмбарго Турецкой Республики"
+	
+
+	ita_embargo_the_turkish_republic_desc:0 ""
+	
+
+	ita_maneuvers_in_macedonia:0 "Манёвры в Македонии"
+	
+
+	ita_maneuvers_in_macedonia_desc:0 ""
+	
+
+	ita_help_chiesa:0 "Помочь Далле Кьезе"
+	
+
+	ita_help_chiesa_desc:0 ""
+	
+
+	ita_send_the_good_stuff:0 "Отправить хороший материал"
+	
+
+	ita_send_the_good_stuff_desc:0 ""
+	
+
+	ita_old_stuff_goes_first:0 "Старьё идёт первым"
+	
+
+	ita_old_stuff_goes_first_desc:0 ""
+	
+
+	ita_skirmishes_in_western_thrace:0 "Стычки в западной Фракии"
+	
+
+	ita_skirmishes_in_western_thrace_desc:0 ""
+	
+
+	ita_mine_mine_mine:0 "Моё Моё Моё"
+	
+
+	ita_mine_mine_mine_desc:0 ""
+	
+
+	ita_send_in_the_advisors:0 "Отправить советников"
+	
+
+	ita_send_in_the_advisors_desc:0 ""
+	
+
+	ita_send_in_the_blackshirts:0 " Отправить чернорубашечников"
+	
+
+	ita_send_in_the_blackshirts_desc:0 ""
+	
+
+	ita_bolster_the_greeks:0 "Поддержать греков"
+	
+
+	ita_bolster_the_greeks_desc:0 ""
+	
+
+	ita_alea_jacta_est:0 "Alea Jacta Est"
+	
+
+	ita_alea_jacta_est_desc:0 ""
+	
+
+	ita_a_stuck_situation:0 "Напряжённая ситуация"
+	
+
+	ita_a_stuck_situation_desc:0 ""
+	
+
+	ita_defeated_and_disgraced:0 "Побежденный и опозоренный"
+	
+
+	ita_defeated_and_disgraced_desc:0 ""
+	
+
+	ita_the_turks_are_driven_before_us:0 "Турки гонят вперед!"
+	
+
+	ita_the_turks_are_driven_before_us_desc:0 ""
+	
+
+	ita_no_war_no_peace:0 "Ни войны ни мира"
+	
+
+	ita_no_war_no_peace_desc:0 ""
+	
+
+	ita_someone_will_get_fired_over_this:0 "Кого-то за это уволят!"
+	
+
+	ita_someone_will_get_fired_over_this_desc:0 ""
+	
+
+	ita_parade_in_rome:0 "Парад в Риме"
+	
+
+	ita_parade_in_rome_desc:0 ""
+	
+
+	ita_send_the_diplomats:0 "Отправить дипломатов"
+	
+
+	ita_send_the_diplomats_desc:0 ""
+	
+
+	ita_drag_out_negotiations:0 "Затянуть переговоры"
+	
+
+	ita_drag_out_negotiations_desc:0 ""
+	
+
+	ita_parade_in_jerusalem:0 "Парад в Иерусалиме"
+	
+
+	ita_parade_in_jerusalem_desc:0 ""
+	
+
+	ita_status_quo_ante:0 "Status quo ante"
+	
+
+	ita_status_quo_ante_desc:0 ""
+	
+
+	ita_a_humiliating_peace:0 "Унизительный мир"
+	
+
+	ita_a_humiliating_peace_desc:0 ""
+	
+
+	ita_dictate_the_peace:0 "Диктуйте мир"
+	
+
+	ita_dictate_the_peace_desc:0 ""
