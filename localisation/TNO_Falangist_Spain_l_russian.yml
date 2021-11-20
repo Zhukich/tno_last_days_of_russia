@@ -1,13 +1,13 @@
 ﻿l_russian:
  #Parties
- SPS_communist_party:0 "GRAPO"
- SPS_communist_party_long:0 "Grupos de Resistencia Antifascista Primero de Octubre"
- SPS_socialist_party:0 "FRAP"
- SPS_socialist_party_long:0 "Frente Revolucionario Antifascista y Patriota"
- SPS_authoritarian_democrat_party:0 "UdPE"
- SPS_authoritarian_democrat_party_long:0 "Unión del Pueblo Español"
- SPS_despotism_party:0 "CT"
- SPS_despotism_party_long:0 "Comunión Tradicionalista"
+ SPS_communist_party:0 "ГАСПО"
+ SPS_communist_party_long:0 "Группы антифашистского Сопротивления Первого Октября"
+ SPS_socialist_party:0 "АПРФ"
+ SPS_socialist_party_long:0 "Антифашистский и патриотический революционный фронт"
+ SPS_authoritarian_democrat_party:0 "СИН"
+ SPS_authoritarian_democrat_party_long:0 "Союз испанского народа"
+ SPS_despotism_party:0 "ТО"
+ SPS_despotism_party_long:0 "Традиционалистское Общение"
  SPS_fascism_party:0 "FET y de las JONS"
  SPS_fascism_party_long:0 "FET y de las JONS"
  SPS_national_socialism_party:0 "FET y de las JONS"
@@ -45,17 +45,17 @@
  SPS_ultranational_socialism_DEF:0 "Испанское Государство"
  SPS_ultranational_socialism_ADJ:0 "Испанск."
 
- SPS_GNS_district_national_socialism:0 "Distrito Militar Castelhano"
- SPS_GNS_district_national_socialism_DEF:0 "El Distrito Militar Castelhano"
- SPS_GNS_district_national_socialism_ADJ:0 "Castilian"
+ SPS_GNS_district_national_socialism:0 "Военный Округ Кастельхано"
+ SPS_GNS_district_national_socialism_DEF:0 "Военный Округ Кастельхано"
+ SPS_GNS_district_national_socialism_ADJ:0 "Кастилийск."
  
  #Ministers
- POLITICS_JAIME_MILANS_BOSCH_DESC:0 "Born as the son of a military noble family, Jaime Milans Del Bosch was set on an early trajectory in his life. Joining the Toledo Infantry Academy in 1934 and fighting as a cadet in the Spanish Civil War he was influenced by militarist and fascist ideology. He would go on to gain an officer's commission in the Spanish Foreign Legion and serve fanatically in the Blue Division to fight against the Soviet Union under German command. After the war he did not understand the distancing Spain undertook from Germany by joining in a Union with Portugal and forming the Triumvirate with the other Mediterranean powers. He quickly began to despise the political situation in Iberia and berated anyone whom he could trust that the current regime should go in favour of a more German aligned fascist Spain. Yet his lowly officer position left his concerns unnoticed to a large extent. With the Iberian situation deteriorating and his qualms being ignored he began to radicalise further.\n\nThe Basque rising however provided opportunity. Seizing the initiative, he led a successful coup in Valladolid with fellow junior officers that quickly spread through northern Spain by means of false information and propaganda. His new movement seeks to restore all Spanish lands under a hardcore Falangist government."
- SPS_Raimundo_Fernandez_Cuesta_hog:0 "Raimundo Fernández-Cuesta"
- SPS_Agustin_Aznar_mil:0 "Agustín Aznar"
- SPS_Manuel_Valdes_Larranaga_eco:0 "Manuel Valdés Larrañaga"
- SPS_Ernesto_Gimenez_Caballero_for:0 "Ernesto Giménez Caballero"
- SPS_Fernando_Maria_Castiella_for:0 "Fernando María Castiella"
+ POLITICS_JAIME_MILANS_BOSCH_DESC:0 "Родившийся в семье военного дворянина, Хайме Миланс Дель Бош рано встал на путь своей жизни. Поступив в пехотную академию Толедо в 1934 году и сражаясь в качестве курсанта в Гражданской войне в Испании, он находился под влиянием милитаристской и фашистской идеологии. Он получил офицерское звание в Испанском иностранном легионе и фанатично служил в Голубой дивизии, сражаясь против Советского Союза под немецким командованием. После войны он не понимал, как Испания дистанцировалась от Германии, вступив в Союз с Португалией и образовав Триумвират с другими средиземноморскими державами. Он быстро начал презирать политическую ситуацию в Иберии и ругал всех, кому мог доверять, за то, что нынешний режим должен пойти в пользу более ориентированной на Германию фашистской Испании. Тем не менее, его скромное офицерское положение в значительной степени оставляло его опасения незамеченными. По мере ухудшения ситуации в Иберии и игнорирования его сомнений он начал еще больше радикализироваться.\n\nВосстание басков, однако, предоставило возможность. Захватив инициативу, он вместе с другими младшими офицерами возглавил успешный переворот в Вальядолиде, который быстро распространился по северной Испании с помощью ложной информации и пропаганды. Его новое движение стремится восстановить все испанские земли под жестким фалангистским правительством."
+ SPS_Raimundo_Fernandez_Cuesta_hog:0 "Раймундо Фернандес-Куэста"
+ SPS_Agustin_Aznar_mil:0 "Августин Аснар"
+ SPS_Manuel_Valdes_Larranaga_eco:0 "Мануэль Вальдес Ларраньяга"
+ SPS_Ernesto_Gimenez_Caballero_for:0 "Эрнесто Хименес Кабальеро"
+ SPS_Fernando_Maria_Castiella_for:0 "Фернандо Мария Кастиэлла"
  
  
  
