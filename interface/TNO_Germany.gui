@@ -2579,8 +2579,8 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "Notification_text"
 			position = { x = 770 y = 112 }
-			font = "aldrich_28_outline"
-			text = "Нажмите на регион для дальнейшего взаимодействия"
+			font = "aldrich_30_outline"
+			text = "За этой плашкой новая механика"
 			format = center
 		}
 		buttonType = {
