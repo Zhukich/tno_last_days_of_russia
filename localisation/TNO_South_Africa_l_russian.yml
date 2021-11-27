@@ -4,37 +4,33 @@
 
  ### Country Names ###
  ## Base
- SAF_communist:0 "Южно-Африканский Союз"
- SAF_communist_DEF:0 "Южно-Африканский Союз"
- SAF_communist_ADJ:0 "Южно-Африканск"
+ SAF_communist:0 "Южно-Африканский союз"
+ SAF_communist_DEF:0 "Южно-Африканский союз"
+ SAF_communist_ADJ:0 "Южно-африканск"
 
- SAF_socialist:0 "Южно-Африканский Союз"
- SAF_socialist_DEF:0 "Южно-Африканский Союз"
- SAF_socialist_ADJ:0 "Южно-Африканск"
+ SAF_socialist:0 "Южно-Африканский союз"
+ SAF_socialist_DEF:0 "Южно-Африканский союз"
+ SAF_socialist_ADJ:0 "Южно-африканск"
 
- SAF_social_liberal:0 "Южно-Африканский Союз"
- SAF_social_liberal_DEF:0 "Южно-Африканский Союз"
- SAF_social_liberal_ADJ:0 "Южно-Африканск"
+ SAF_liberal_democracy:0 "Южно-Африканский союз"
+ SAF_liberal_democracy_DEF:0 "Южно-Африканский союз"
+ SAF_liberal_democracy_ADJ:0 "Южно-африканск"
 
- SAF_market_liberal:0 "Южно-Африканский Союз"
- SAF_market_liberal_DEF:0 "Южно-Африканский Союз"
- SAF_market_liberal_ADJ:0 "Южно-Африканск"
+ SAF_conservative_democracy:0 "Южно-Африканский союз"
+ SAF_conservative_democracy_DEF:0 "Южно-Африканский союз"
+ SAF_conservative_democracy_ADJ:0 "Южно-африканск"
 
- SAF_social_conservative:0 "Южно-Африканский Союз"
- SAF_social_conservative_DEF:0 "Южно-Африканский Союз"
- SAF_social_conservative_ADJ:0 "Южно-Африканск"
+ SAF_authoritarian_democracy:0 "Южно-Африканский союз"
+ SAF_authoritarian_democracy_DEF:0 "Южно-Африканский союз"
+ SAF_authoritarian_democracy_ADJ:0 "Южно-африканск"
 
- SAF_authoritarian_democrat:0 "Южно-Африканский Союз"
- SAF_authoritarian_democrat_DEF:0 "Южно-Африканский Союз"
- SAF_authoritarian_democrat_ADJ:0 "Южно-Африканск"
+ SAF_despotism:0 "Южно-Африканский союз"
+ SAF_despotism_DEF:0 "Южно-Африканский союз"
+ SAF_despotism_ADJ:0 "Южно-африканск"
 
- SAF_despotism:0 "Южно-Африканский Союз"
- SAF_despotism_DEF:0 "Южно-Африканский Союз"
- SAF_despotism_ADJ:0 "Южно-Африканск"
-
- SAF_fascism:0 "Южно-Африканский Союз"
- SAF_fascism_DEF:0 "Южно-Африканский Союз"
- SAF_fascism_ADJ:0 "Южно-Африканск"
+ SAF_fascism:0 "Южно-Африканский союз"
+ SAF_fascism_DEF:0 "The Южно-Африканский союз"
+ SAF_fascism_ADJ:0 "Южно-африканск"
 
  ## Republic
  SAF_REP_communist:0 "Южно-Африканская Республика"
