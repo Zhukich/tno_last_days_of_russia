@@ -2,9 +2,13 @@
  IRI_COALITION_despotism:0 "Революционный Иранский Фронт Освобождения"
  IRI_COALITION_despotism_DEF:0 "Революционный Иранский Фронт Освобождения"
  
- APF_CZECH_burgundian_system:0 "Протекторат Богемии и Моравии"
- APF_CZECH_burgundian_system_DEF:0 "Протекторат Богемии и Моравии"
- APF_CZECH_burgundian_system_ADJ:0 "Богемск."
+ APF_CZECH_esoteric_nazism:0 "Протекторат Богемии и Моравии"
+ APF_CZECH_esoteric_nazism_DEF:0 "Протекторат Богемии и Моравии"
+ APF_CZECH_esoteric_nazism_ADJ:0 "Богемск."
+ 
+ GER_COG_int:0 "Коммиссия Пакта По Делам Конго"
+ GER_COG_int_DEF:0 "Коммиссия Пакта по делам Конго"
+ GER_COG_int_ADJ:0 "Конголезск"
  
  IRA_COALITION_communist:0 "Социалистическая Федерация Ирана"
  IRA_COALITION_communist_DEF:0 "Социалистическая Федерация Ирана"
@@ -20,8 +24,9 @@
 
  MZB_USA_authoritarian_democrat:0 "Временное правительство Восточноафриканского Единства"
  MZB_USA_authoritarian_democrat_DEF:0 "Временное правительство Восточноафриканского Единства"
- MZB_REICHSTAAT_burgundian_system:0 "Великоафриканский рейхсштаат"
- MZB_REICHSTAAT_burgundian_system_DEF:0 "Великоафриканский рейхсштаат"
+ 
+ MZB_REICHSTAAT_esoteric_nazism:0 "Великоафриканский рейхсштаат"
+ MZB_REICHSTAAT_esoteric_nazism_DEF:0 "Великоафриканский рейхсштаат"
  MZB_REICHSTAAT_fascism:0 "Великоафриканский рейхсштаат"
  MZB_REICHSTAAT_fascism_DEF:0 "Великоафриканский рейхсштаат"
  
@@ -2698,3 +2703,285 @@
  NIK_unified:0 "Священная Российская Искупленная Власть"
  SAH_unified:0 "Всероссийский Освободительный Авангард"
  
+ #German Post-Burgundy puppet
+ GLC_Kommission:0 "Коммиссия Пакта По Делам Франции"
+ GLC_Kommission_DEF:0 "Коммиссия Пакта По Делам Франции"
+ 
+ ANG_FREE:0 "Республика Ангола"
+ ANG_FREE_ADJ:0 "Fyujkmcr"
+ ANG_FREE_DEF:0 "Республика Ангола"
+
+ ANG_GER:0 "Рейхскомиссариат Зюдвестафрика"
+ ANG_GER_ADJ:0 "Зюдвестафрикнск"
+ ANG_GER_DEF:0 "Рейхскомиссариат Зюдвестафрика"
+
+ ARA_ARMY:0 "Освободительная армия Аракана"
+ ARA_ARMY_DEF:0 "Освободительная армия Аракана"
+ ARA_ARMY_ADJ:0 "Arakan"
+
+ CBR_ARMY:0 "Народная армия Бирмы"
+ CBR_ARMY_DEF:0 "Народная армия Бирмы"
+ CBR_ARMY_ADJ:0 "Burmese"
+
+ CHN_ARMY:0 "Освободительная армия Чин"
+ CHN_ARMY_DEF:0 "Освободительная армия Чин"
+ CHN_ARMY_ADJ:0 "Chin"
+
+ COG_GER:0 "Рейхскомиссариат Централафрика"
+ COG_GER_DEF:0 "Рейхскомиссариат Централафрика"
+ COG_GER_ADJ:0 "Центрафриканск"
+
+ CRI_SGR:0 "Административный Округ Готенланд"
+ CRI_SGR_DEF:0 "Административный Округ Готенланд"
+ CRI_SGR_ADJ:0 "Götische"
+
+ CZE_GER:0 "Протекторат Богемии и Моравии"
+ CZE_GER_DEF:0 "Протекторат Богемии и Моравии"
+ CZE_GER_ADJ:0 "Böhmen-Moravisch"
+
+ KAC_ARMY:0 "Kachin Independence Army"
+ KAC_ARMY_DEF:0 "the Kachin Independence Army"
+ KAC_ARMY_ADJ:0 "Kachin"
+
+ KAR_ARMY:0 "Karen National Liberation Army"
+ KAR_ARMY_DEF:0 "the Karen National Liberation Army"
+ KAR_ARMY_ADJ:0 "Karen"
+
+ RAM_ARMY:0 "Mon National Liberation Army"
+ RAM_ARMY_DEF:0 "the Mon National Liberation Army"
+ RAM_ARMY_ADJ:0 "Mon"
+
+ RK_UK:0 "Reichskommissariat Großbrittanien"
+ RK_UK_DEF:0 "Reichskommissariat Großbrittanien"
+ RK_UK_ADJ:0 "Brittanien"
+
+ SHA_ARMY:0 "Shan State Army"
+ SHA_ARMY_DEF:0 "the Shan State Army"
+ SHA_ARMY_ADJ:0 "Shan"
+ 
+ # West Indies Federation
+ WIN_unitary:0 "Карибский союз"
+ WIN_unitary_DEF:0 "Карибский союз"
+ WIN_unitary_liberal_democracy:0 "Карибский союз"
+ WIN_unitary_liberal_democracy_DEF:0 "Карибский союз"
+ WIN_unitary_social_democracy:0 "Карибский союз"
+ WIN_unitary_social_democracy_DEF:0 "Карибский союз"
+ WIN_unitary_ADJ:0 "Карибск"
+ WIN_unitary_conservative_democracy:0 "Карибский союз"
+ WIN_unitary_conservative_democracy_DEF:0 "Карибский союз"
+ 
+ WIN_federated:0 "Вест-Индское содружество"
+ WIN_federated_DEF:0 "Вест-Индское содружество"
+ WIN_federated_liberal_democracy:0 "Вест-Индское содружество"
+ WIN_federated_liberal_democracy_DEF:0 "Вест-Индское содружество"
+ WIN_federated_social_democracy:0 "Вест-Индское содружество"
+ WIN_federated_social_democracy_DEF:0 "Вест-Индское содружество"
+ WIN_federated_ADJ:0 "Вест-Индск"
+ WIN_federated_conservative_democracy:0 "Вест-Индское содружество"
+ WIN_federated_conservative_democracy_DEF:0 "Вест-Индское содружество"
+
+ TRI_grenada:0 "Тринидад, Тобаго и Гренада"
+ TRI_grenada_DEF:0 "Тринидад, Тобаго и Гренада"
+ 
+ ###PHILIPPINES
+ 
+ PHI_JAP_Administration:0 "Филиппинский Императорский Гарнизон"
+ PHI_JAP_Administration_DEF:0 "Филиппинский Императорский Гарнизон"
+ PHI_JAP_Administration_ADJ:0 "Филиппинск"
+ 
+ SPH_PRP:0 "Народная Республика Филиппины"
+ SPH_PRP_DEF:0 "Народная Республика Филиппины"
+ SPH_PRP_ADJ:0 "Филиппинск"
+ 
+ SPH_Marcos:0 "Свободная Филиппинская Республика"
+ SPH_Marcos_DEF:0 "Свободная Филиппинская Республика"
+ SPH_Marcos_ADJ:0 "Филиппинск"
+ 
+ PHI_UPH_Republic:0 "Республика Филиппины"
+ PHI_UPH_Republic_DEF:0 "Республика Филиппины"
+ PHI_UPH_Republic_ADJ:0 "Филиппинск"
+ 
+ UPH_OFN_Mandate:0 "Мандат ОСН Филиппинских островов"
+ UPH_OFN_Mandate_DEF:0 "Мандат ОСН Филиппинских островов"
+ UPH_OFN_Mandate_ADJ:0 "Филиппинск"
+ 
+ SPH_Coalition_Government:0 "Коалиционное правительство Филиппин"
+ SPH_Coalition_Government_DEF:0 "Коалиционное правительство Республики Филиппины"
+ SPH_Coalition_Government_ADJ:0 "Филиппинск"
+
+ SPH_Magsaysays_Republic:0 "Республика Филиппины"
+ SPH_Magsaysays_Republic_DEF:0 "Республика Филиппины"
+ SPH_Magsaysays_Republic_ADJ:0 "Филиппинск"
+ 
+ 
+ ## WAC ##
+CAO_win: "Западно-Африканский Союз"
+CAO_win_DEF: "Западно-Африканский Союз"
+CAO_win_ADJ: "Западно-африканск"
+
+GBE_CAOPuppet:0 "Бенин"
+GBE_CAOPuppet_DEF:0 "Социалистическая Республика Бенин"
+GBE_CAOPuppet_ADJ:0 "Бенинск"
+
+GBE_FFRPuppet:0 "Дагомея"
+GBE_FFRPuppet_DEF:0 "Республика Дагомея"
+GBE_FFRPuppet_ADJ:0 "Дагомейск"
+
+GBE_WOLPuppet:0 "Дагомея"
+GBE_WOLPuppet_DEF:0 "Республика Дагомея"
+GBE_WOLPuppet_ADJ:0 "Дагомейск"
+
+EWE_FFRPuppet:0 "Гана"
+EWE_FFRPuppet_DEF:0 "Республика Гана"
+EWE_FFRPuppet_ADJ:0 "Ганск"
+
+SUS_FFRPuppet:0 "Гвинея" # amogus
+SUS_FFRPuppet_DEF:0 "Гвинейская Республика"
+SUS_FFRPuppet_ADJ:0 "Гвинейск"
+
+NGR_FFRPuppet:0 "Нигер"
+NGR_FFRPuppet_DEF:0 "Республика Нигер"
+NGR_FFRPuppet_ADJ:0 "Нигерийск"
+
+MLI_FFRPuppet:0 "Мали"
+MLI_FFRPuppet_DEF:0 "Республика Мали"
+MLI_FFRPuppet_ADJ:0 "Малийск"
+
+WOL_FFRPuppet:0 "Сенегал"
+WOL_FFRPuppet_DEF:0 "Республика Сенегал"
+WOL_FFRPuppet_ADJ:0 "Сенеегалск"
+
+IVO_FFRPuppet:0 "Кот-д'Ивуар"
+IVO_FFRPuppet_DEF:0 "Республика Кот-д'Ивуар"
+IVO_FFRPuppet_ADJ:0 "Ивуарск"
+
+BKF_FFRPuppet:0 "Верхняя Вольта"
+BKF_FFRPuppet_DEF:0 "Республика Верхняя Вольта"
+BKF_FFRPuppet_ADJ:0 "Верхне вольтск"
+
+SWB_unified:0 "Нигер"
+SWB_unified_DEF:0 "Социалистическая Республика Нигер"
+SWB_unified_ADJ:0 "Нигерийск"
+
+CPP_unified:0 "Гана"
+CPP_unified_DEF:0 "Социалистическая Республика Гана"
+CPP_unified_ADJ:0 "Ганск"
+
+KAY_unified:0 "Мали"
+KAY_unified_DEF:0 "Республика Мали"
+KAY_unified_ADJ:0 "Малийск"
+
+CHF_unified:0 "Сараланд"
+CHF_unified_DEF:0 "Народная Республика Сараланд"
+CHF_unified_ADJ:0 "Сараландск"
+
+SUS_CAO:0 "Гвинея"
+SUS_CAO_DEF:0 "Социалистическая Республика Гвинея"
+SUS_CAO_ADJ:0 "Гвинейск"
+
+NNG_unified:0 "Нигерия"
+NNG_unified_DEF:0 "Республика Нигерия"
+NNG_unified_ADJ:0 "Нигерийск"
+
+YOR_unified:0 "Нигерия"
+YOR_unified_DEF:0 "Республика Нигерия"
+YOR_unified_ADJ:0 "Нигерийск"
+
+####
+SIC_large_despotism_DEF: "Мандат Сычуань"
+  
+##CENTRAL ASIA##
+
+KYR_Talas:0 "Исламское государство Талас"
+KYR_Talas_DEF:0 "Исламское государство Талас"
+KYR_Talas_ADJ:0 "Кыргызск"
+
+TAJ_Islam:0 "Исламское государство Таджикистан"
+TAJ_Islam_DEF:0 "Исламское государство Таджикистан"
+TAJ_Islam_ADJ:0 "Таджикск"
+
+TAJ_LibDem:0 "Республика Таджикистан"
+TAJ_LibDem_DEF:0 "Республика Таджикистан"
+TAJ_LibDem_ADJ:0 "Таджикск"
+
+TAJ_ConDem:0 "Республика Таджикистан"
+TAJ_ConDem_DEF:0 "Республика Таджикистан"
+TAJ_ConDem_ADJ:0 "Таджикск"
+
+TAJ_Hardliner:0 "Таджикское государство"
+TAJ_Hardliner_DEF:0 "Таджикское государство"
+TAJ_Hardliner_ADJ:0 "Таджикск"
+
+KRK_VictoriousDemocrat:0 "Федерация каракалпакско-узбекского народа"
+KRK_VictoriousDemocrat_DEF:0 "Федерация каракалпакско-узбекского народа"
+KRK_VictoriousDemocrat_ADJ:0 "Каракалпакско-узбекск"
+
+KRK_VictoriousCommie:0 "Народная Республика Бухара"
+KRK_VictoriousCommie_DEF:0 "Народная Республика Бухара"
+KRK_VictoriousCommie_ADJ:0 "Бухарск"
+
+UZB_VictoriousCommie:0 "Бухарская Народная Советская Республика"
+UZB_VictoriousCommie_DEF:0 "Бухарская Народная Советская Республика"
+UZB_VictoriousCommie_ADJ:0 "Бухарск"
+
+UZB_VictoriousDemocrat:0 "Коканд"
+UZB_VictoriousDemocrat_DEF:0 "Республика Коканд"
+UZB_VictoriousDemocrat_ADJ:0 "Узбекск"
+
+UZB_KYRGYZ_ANNEX_DEM:0 "Федерация Коканд"
+UZB_KYRGYZ_ANNEX_DEM_DEF:0 "Федерация Коканд"
+UZB_KYRGYZ_ANNEX_DEM_ADJ:0 "Кокандск"
+
+KYR_UZBEK_ANNEX_DEM:0 "Исламское государство Коканд"
+KYR_UZBEK_ANNEX_DEM_DEF:0 "Исламское государство Коканд"
+KYR_UZBEK_ANNEX_DEM_ADJ:0 "Кокандск"
+
+UZB_KYRGYZ_ANNEX_COM:0 "Бухара-Коканд"
+UZB_KYRGYZ_ANNEX_COM_DEF:0 "Бухарано-Кокандская Народная Советская Республика"
+UZB_KYRGYZ_ANNEX_COM_ADJ:0 "BБухара-Кокандск"
+
+KYR_UZBEK_ANNEX_COM:0 "Центральноазиатская Народная Республика"
+KYR_UZBEK_ANNEX_COM_DEF:0 "Центральноазиатская Народная Республика"
+KYR_UZBEK_ANNEX_COM_ADJ:0 "Центрально Азиатск"
+
+KRK_KYRGYZ_ANNEX_DEM:0 "Центральноазиатская федерация"
+KRK_KYRGYZ_ANNEX_DEM_DEF:0 "Центральноазиатская федерация"
+KRK_KYRGYZ_ANNEX_DEM_ADJ:0 "Центрально Азиатск"
+
+KYR_KARAKALPAK_ANNEX_DEM:0 "Федерация Центральной Азии"
+KYR_KARAKALPAK_ANNEX_DEM_DEF:0 "Исламское государство Кыргызстана и Федеративной Республики Узбекистан-Каракалпакистан"
+KYR_KARAKALPAK_ANNEX_DEM_ADJ:0 "Центрально Азиатск"
+
+KRK_KYRGYZ_ANNEX_COM:0 "Народная Республика Центральная Азия"
+KRK_KYRGYZ_ANNEX_COM_DEF:0 "Народная Республика Центральная Азия"
+KRK_KYRGYZ_ANNEX_COM_ADJ:0 "Центрально Азиатск"
+
+KYR_KARAKALPAK_ANNEX_COM:0 "Советская Социалистическая Республика Центральной Азии"
+KYR_KARAKALPAK_ANNEX_COM_DEF:0 "Советская Социалистическая Республика Центральной Азии"
+KYR_KARAKALPAK_ANNEX_COM_ADJ:0 "Центрально Азиатск"
+
+#Turkish puppets
+SNS_ITWD:0 "Сирийская Арабская Республика"
+SNS_ITWD_DEF:0 "Сирийская Арабская Республика"
+SNS_ITWD_ADJ:0 "Сирийск"
+
+# North Borneo
+NRB_NB:0 "Переходная администрация Северного Борнео"
+NRB_NB_DEF:0 "Переходная администрация Северного Борнео"
+NRB_NB_ADJ:0 "Северно Борнейск"
+
+# WAC
+IRQ_UAR_socialist:0 "Объединенная Арабская Республика"
+IRQ_UAR_socialist_DEF:0 "Объединенная Арабская Республика"
+
+PAR_SOLER:0 "Парагвай"
+PAR_SOLER_DEF:0 "Социалистическая Республика Парагвайy"
+PAR_SOLER_ADJ:0 "Парагвайск"
+
+SDS_postwar:0 "Социалистическая Республика Судан"
+SDS_postwar_DEF:0 "Социалистическая Республика Судан"
+SDS_postwar_ADJ:0 "Суданск"
+
+ARG_confederation:0 "Конфедерация хустисиалистсов Аргентины"
+ARG_confederation_DEF:0 "Конфедерация хустисиалистов Аргентины"
+ARG_confederation_ADJ:0 "Аргетинск"
