@@ -1,8 +1,8 @@
 ﻿l_russian:
 
- EWE_authoritarian_democrat:0 "Гана"
- EWE_authoritarian_democrat_DEF:0 "Республика Гана"
- EWE_authoritarian_democrat_ADJ:0 "Ганск."
+ EWE_authoritarian_democracy:0 "Гана"
+ EWE_authoritarian_democracy_DEF:0 "Республика Гана"
+ EWE_authoritarian_democracy_ADJ:0 "Ганск."
  
  EWE_communist_party:0 "-"
  EWE_communist_party_long:0 "-"

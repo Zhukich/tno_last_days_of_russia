@@ -1,57 +1,48 @@
 ﻿l_russian:
-# BKF_fascism:0 "Mossiland" #duplicate loc key
-# BKF_fascism_DEF:0 "Mossiland" #duplicate loc key
-# BKF_social_liberal:0 "Mossiland" #duplicate loc key
-# BKF_social_liberal_DEF:0 "Mossiland" #duplicate loc key
-# BKF_market_liberal:0 "Mossiland" #duplicate loc key
-# BKF_market_liberal_DEF:0 "Mossiland" #duplicate loc key
-# BKF_social_conservative:0 "Mossiland" #duplicate loc key
-# BKF_social_conservative_DEF:0 "Mossiland" #duplicate loc key
-# BKF_authoritarian_democrat:0 "Mossiland" #duplicate loc key
-# BKF_authoritarian_democrat_DEF:0 "Mossiland" #duplicate loc key
-# BKF_despotism:0 "Mossiland" #duplicate loc key
-# BKF_despotism_DEF:0 "Mossiland" #duplicate loc key
-# BKF_communist:0 "Mossiland" #duplicate loc key
-# BKF_communist_DEF:0 "Mossiland" #duplicate loc key
-# BKF_socialist:0 "Mossiland" #duplicate loc key
-# BKF_socialist_DEF:0 "Mossiland" #duplicate loc key
-# BKF_national_socialism:0 "Mossiland" #duplicate loc key
-# BKF_national_socialism_DEF:0 "Mossiland" #duplicate loc key
-# BKF_ultranational_socialism:0 "Mossiland" #duplicate loc key
-# BKF_ultranational_socialism_DEF:0 "Mossiland" #duplicate loc key
-# BKF_fascism_ADJ:0 "Mossi" #duplicate loc key
-# BKF_social_liberal_ADJ:0 "Mossi" #duplicate loc key
-# BKF_market_liberal_ADJ:0 "Mossi" #duplicate loc key
-# BKF_social_conservative_ADJ:0 "Mossi" #duplicate loc key
-# BKF_authoritarian_democrat_ADJ:0 "Mossi" #duplicate loc key
-# BKF_communist_ADJ:0 "Mossi" #duplicate loc key
-# BKF_despotism_ADJ:0 "Mossi" #duplicate loc key
-# BKF_socialist_ADJ:0 "Mossi" #duplicate loc key
-# BKF_ultranational_socialism_ADJ:0 "Mossi" #duplicate loc key
-# BKF_national_socialism_ADJ:0 "Mossi" #duplicate loc key
-
+ BKF_liberal_democracy:0 "Моссиленд"
+ BKF_liberal_democracy_DEF:0 "Моссиленд"
+ BKF_conservative_democracy:0 "Моссиленд"
+ BKF_conservative_democracy_DEF:0 "Моссиленд"
+ BKF_authoritarian_democracy:0 "Моссиленд"
+ BKF_authoritarian_democracy_DEF:0 "Моссиленд"
+ BKF_despotism:0 "Моссиленд"
+ BKF_despotism_DEF:0 "Моссиленд"
+ BKF_communist:0 "Моссиленд"
+ BKF_communist_DEF:0 "Моссиленд"
+ BKF_socialist:0 "Буркина-Фасо"
+ BKF_socialist_DEF:0 "Социалистическая Республика Буркина-Фасо"
+ BKF_fascism_ADJ:0 "Моссилендск"
+ BKF_liberal_democracy_ADJ:0 "Моссилендск"
+ BKF_conservative_democracy_ADJ:0 "Моссилендск"
+ BKF_authoritarian_democracy_ADJ:0 "Моссилендск"
+ BKF_communist_ADJ:0 "Моссилендск"
+ BKF_despotism_ADJ:0 "Моссилендск"
+ BKF_socialist_ADJ:0 "Буркинск"
+ 
  BKF_communist_party:0 "ROC"
  BKF_communist_party_long:0 "Regroupement des Officiers communistes"
  BKF_socialist_party:0 "PDP"
- BKF_socialist_party_long:0 "Party for Democracy and Progress"
- BKF_social_democrat_party:0 "ADR"
- BKF_social_democrat_party_long:0 "African Democratic Rally"
- BKF_social_liberal_party:0 "ADR"
- BKF_social_liberal_party_long:0 "African Democratic Rally"
- BKF_social_conservative_party:0 "RPL"
- BKF_social_conservative_party_long:0 "Republican Party for Liberty"
- BKF_authoritarian_democrat_party:0 "ADR"
- BKF_authoritarian_democrat_party_long:0 "African Democratic Rally"
+ BKF_socialist_party_long:0 "Parti pour la Démocratie et le Progrès"
+ BKF_social_democracy_party:0 "RDA"
+ BKF_social_democracy_party_long:0 "Rassemblement Démocratique Africain"
+ BKF_liberal_democracy_party:0 "RDA"
+ BKF_liberal_democracy_party_long:0 "Rassemblement Démocratique Africain"
+ BKF_conservative_democracy_party:0 "PRL"
+ BKF_conservative_democracy_party_long:0 "Parti Républicain pour la Liberté"
+ BKF_authoritarian_democracy_party:0 "RDA"
+ BKF_authoritarian_democracy_party_long:0 "Rassemblement Démocratique Africain"
  BKF_despotism_party:0 "MNP"
  BKF_despotism_party_long:0 "Moogo-Naaba's Party"
- BKF_fascism_party:0 "MAF"
- BKF_fascism_party_long:0 "Mossiland Armed Forces"
+ BKF_fascism_party:0 "FAM"
+ BKF_fascism_party_long:0 "Forces Armées du Mossiland"
  BKF_national_socialism_party:0 "-"
  BKF_national_socialism_party_long:0 "-"
- BKF_ultranational_socialism_party:0 "-"
- BKF_ultranational_socialism_party_long:0 "-"
+ BKF_ultranationalism_party:0 "-"
+ BKF_ultranationalism_party_long:0 "-"
 
  BKF_idea_remnant_francophilia:0 "Remnant Francophilia"
+ BKF_idea_remnant_francophilia_desc:0 "The nation of Mossiland, formerly known as Upper Volta, was one of the rare former French colonies to see cooperation as the only way forward diplomatically and economically, and as the only way to ensure stability.\n\nWhile the Francophiles are slowly getting replaced, one by one, the ghost of French colonialism remains present behind every decision Mossiland's government makes."
  BKF_idea_relative_democracy:0 "Relative Democracy"
+ BKF_idea_relative_democracy_desc:0 "The democratic system in Mossiland may not be perfect, but it is still somewhat functioning, and still at least somewhat democratic.\n\nWhile the nation struggles to organize this system due to logistical issues, the system seems satisfactory enough to the people of Mossiland for the time being. However, it remains to be seen if that satisfaction shall last."
  
  POLITICS_MAURICE_YAMEOGO_DESC:0 "To understand why Maurice Yaméogo is so devoted to the Francafrique idea, to the point that his nickname is "Monsieur Maurice", one has to know his past. Shunned and despised even by his own family simply for being interested in Christianity, Yaméogo left his old life to enter a seminary. But his relationships strayed far from the ecclesiastical standard. Yaméogo wanted to be a priest, but he was very keen on women and parties. In 1939, he left the seminary without graduating and was hired as a clerk by the French colonial administration. This extremely prestigious post meant success, security and prestige, and while the war raged in West Africa, Yaméogo was sent to Abidjan, a paradise for "evolved" Africans.\n\nThe rewards from Free France coupled with Yaméogo's ambition made him extremely loyal to the French cause in West Africa. When he returned to his homeland, he restored to popular acclaim the administration of Upper Volta, now called the republic of Mossiland, but refused to collaborate with other Africanist leaders like Senghor. Then Yaméogo eliminated all parliamentary opposition, purged all his enemies and imposed a one party system.\n\nYaméogo claims that Mossiland is a free, united and democratic republic, a shining example of African liberation, but this couldn't be further from the truth. Mossiland is a divided, weak and despotic statelet, completely dependent on French help to defend itself from more powerful warlords bordering the country. While the strategy works for now, if support from Free France comes to cease, Yaméogo will quickly find himself isolated, and while he often meets with De Gaulle to stay on good terms, at some point it will be one time too much."

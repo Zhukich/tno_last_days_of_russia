@@ -20,11 +20,18 @@
  SUS_ultranational_socialism_party:0 "-"
  SUS_ultranational_socialism_party_long:0 "-"
 
- SUS_social_democrat:0 "Гвинея"
- SUS_social_democrat_DEF:0 "Республика Гвинея"
- SUS_social_democrat_ADJ:0 "Гвинейск."
+ SUS_socialist:0 "Гвинея"
+ SUS_socialist_DEF:0 "Социалистическая Республика Гвинея"
+ SUS_social_democracy:0 "Гвинея"
+ SUS_social_democracy_DEF:0 "Гвинейская Республика"
+ SUS_social_democracy_ADJ:0 "Гвинея"
+ SUS_authoritarian_democracy:0 "Гвинея"
+ SUS_authoritarian_democracy_DEF:0 "Гвинейская Республика"
+ SUS_authoritarian_democracy_ADJ:0 "Гвинея"
 
  SUS_idea_guinean_democracy:0 "Гвинейская демократия"
+ SUS_idea_guinean_democracy_desc:0 "Guinea is a nation struggling to realize the potential of its government. When Barry Diawadou, the founder of the Republic, had to step down after being defeated by the coalition that formed the Parti Démocratique Guinéen, it was clear this new coalition would test the young democracy. Ahmed Sékou Touré, the coalition's chosen leader, has ruled over the country for a decade now, and he shows no intention of relinquishing power any time soon."
  SUS_idea_home_exiled_paigc:0 "Дом для изгнанной PAIGC"
+ SUS_idea_home_exiled_paigc_desc:0 "Guinea lies south of the Iberian colony of Guinée-Bissau, and has become a home to many exiles from it. When the uprising of the Partido Africano para a Independência da Guiné e Cabo Verde failed, the party was forced to go into exile. The leader of the party, Amílcar Cabral, was afraid of the lack of protection offered by the almost nonexistent Jolian military, and chose to flee to Guinea, where he has since reestablished the party and begun preparations for a return."
 
  POLITICS_AHMED_SEKOU_TOURE_DESC:0 "Среди хаоса и насилия, охвативших Африку, есть несколько пятен надежды, сияющих, как угли в темноте , и для многих Гвинея и ее президент Ахмед Секу Туре являются одним из них. Родившись в мусульманской семье Мандинской аристократии и происходя от древних правителей империи Вассулу, туре получил кораническое образование, прежде чем стать почтовым клерком и быстро включиться в профсоюзы в качестве организатора и лидера, проявляя явные симпатии к социализму. По мере того, как французское господство над Африкой медленно рушилось, слишком часто заменяясь местными военачальниками, заполняющими вакуум власти, туре все больше и больше вовлекался в Гвинейскую политику, становясь лидером Демократической партии Гвинеи и возглавляя борьбу за верховенство закона против нависшей тени военачальничества.\n\nВскоре туре, благодаря своей харизме и политическому таланту, сумел стать президентом новой Гвинейской Республики и одним из главных представителей африканской борьбы за демократию и свободу. По крайней мере, так говорит Гвинейская пропаганда - как всегда, правда немного сложнее. Чтобы закрепить свою власть над страной, туре пришлось пойти на компромисс со многими идеалами, которые он якобы лелеет, - предлагая смехотворные преимущества военным, чтобы предотвратить угрозу военачальничества, в то же время жестко подавляя оппозицию его правлению.\n\nСильно дирижистская экономическая политика Туре, вращающаяся вокруг экстенсивного экономического планирования и финансируемой государством промышленной экспансии, принесла неоднозначные результаты, и экономика Гвинеи все еще испытывает трудности. Несмотря на это и многие другие его недостатки, туре по - прежнему чрезвычайно популярен в Гвинее и за ее пределами, и многие по-прежнему считают Гвинею одной из немногих демократий Африки-но только время покажет, удастся ли отцу Гвинеи осуществить его планы сделать свою Родину истинным маяком свободы и процветания для африканских народов."
