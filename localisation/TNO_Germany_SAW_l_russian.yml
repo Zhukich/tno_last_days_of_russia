@@ -6,7 +6,7 @@
  GER_SGR_student_protests_desc:0 "§DПрирост политической власти: [?SGR_protests_severity_pp|0+%]\nЕженедельная стабильность: [?SGR_protests_severity_stab|1+%]\n--------------\n§!Прошли дни почти единодушной поддержки военных усилий в Рейхе. Общественность, в основном студенты – бывшие сторонники Шпеера в гражданской войне в Германии - с оружием в руках выступают против участия Рейха в войне, которую они считают бессмысленной и чудовищной. Чем дольше их фюрер будет бороться с протестами, тем больше они будут сопротивляться."
 
  GER_BOR_student_protests:0 "Civilian Protests"
- GER_BOR_student_protests_desc:0 "Political Power Gain Factor: [?GER_Bormann_protests_severity_pp|0+%]\nWeekly Stability: [?GER_Bormann_protests_severity_stab|1+%]\n--------------\nGone are the days of near-unanimous support for the war effort in the Reich. The public, predominately the students, are up in arms about Germany's involvement in a war they view as senseless and monstrous. The longer their Führer fights it, the more they will resist it."
+ GER_BOR_student_protests_desc:0 "Political Power Gain Factor: [?GER_Bormann_SAF_protests_severity_pp|0+%]\nWeekly Stability: [?GER_Bormann_SAF_protests_severity_stab|1+%]\n--------------\nGone are the days of near-unanimous support for the war effort in the Reich. The public, predominately the students, are up in arms about Germany's involvement in a war they view as senseless and monstrous. The longer their Führer fights it, the more they will resist it."
 
  GER_SGR_student_protests_dynamic_modifier:0 "Гражданские протесты"
  GER_BOR_student_protests_dynamic_modifier:0 "Civilian Protests"
@@ -113,7 +113,7 @@
 
  GER_Bormann_SAF_increase_volunteers:0 "§RReinforce the War Effort§!"
  GER_Bormann_SAF_increase_volunteers_desc:0 "We will send more volunteers into the South African War."
- GER_Bormann_SAF_increase_volunteers_tt:0 "§YWar Involvement§! must be at least [?SGR_SAW_involvement_check|Y]§Y%§! or higher."
+ GER_Bormann_SAF_increase_volunteers_tt:0 "§YWar Involvement§! must be at least [?GER_Bormann_SAW_involvement_check|Y]§Y%§! or higher."
 
  GER_Bormann_SAF_decrease_volunteers:0 "§MReduce the War Effort§!"
  GER_Bormann_SAF_decrease_volunteers_desc:0 "We will draw back volunteers from the South African War."
@@ -181,6 +181,36 @@
 
  GER_Bormann_SAF_festung_johannesburg:0 "§OFestung Johannesburg§!"
  GER_Bormann_SAF_festung_johannesburg_desc:0 "Johannesburg has been a bastion of Aryan settlement on the Dark Continent for nearly two hundred years. The discovery of gold brought a flood of Boer settlers that rapidly turned it into South Africa's largest cities - now it is the capital of the Boer Republic. Our Afrikaner allies must not be allowed to falter in the defense of their homeland. We must send our engineers to turn the city into a fortress, one that will not fall to the Americans like it did to the British."
+ 
+ ###Anti-Huttig Cabal
+
+ MZB_REICHSTAAT_african_cabal:0 "Заговор против Хюттига"
+ MZB_REICHSTAAT_african_cabal_desc:0 "Сумасшедший рейхскомиссар Ганс Хюттиг оккупировал другие африканские рейхскомиссариаты, объявив о создании Великоафриканского Рейхсштаата. С помощью своих фанатичных дивизий СС он превращает наши колонии в мерзость: если мы ничего не предпримем, мы потеряем все наши инвестиции на Темном континенте!\n\nОднако небольшая группа офицеров и администраторов, называющих себя "Африканской кликой", по-прежнему лояльна Германии. Хотя они слишком слабы - и слишком напуганы Хюттигом - чтобы действовать самостоятельно, с нашей помощью они смогут противостоять и, возможно, даже спасти наше присутствие в Африке. Мечта безумца неизбежно превратится в кошмар.\n\nТекущая сила заговора: [?MZB.MZB_REICHSTAAT_cabal_power|%]\nКаждые две недели сила заговора падает на: [?MZB.MZB_cabal_decay|%]"
+ GER_cabal_supply_weapons:0 "Вооружить повстанцев"
+ GER_cabal_supply_weapons_desc:0 "Есть ирония в том факте, что мы финансируем партизан, чтобы подорвать нашу собственную бывшую колонию. Тем не менее, мы не можем отрицать, что нам нужно прибегнуть к таким методам, чтобы ослабить хватку Хюттига в Африке: вооружив лояльных немцев, которые все еще сражаются за остатки Центральафрики и Зюдвестафрики, мы вынудим безумца увеличить свои и без того скудные силы, ослабив его контроль над мерзостью, которую он называет "государством", укрепив наших союзников."
+ GER_cabal_administrative_aid:0 "Укрепить группировки"
+ GER_cabal_administrative_aid_desc:0 "Сопротивление борется не только для того, чтобы подорвать власть Хюттига над континентом, но и для того, чтобы сохранить свои головы. Это гораздо больше, чем метафора, поскольку Хюттиг известен своей склонностью прибегать к массовым казням за малейший намек на измену: посылая наши секретные службы им на помощь, мы можем быть уверены, что Хюттиг будет слишком занят другими проблемами, чтобы беспокоиться о том, чтобы обнаружить наших друзей."
+ GER_cabal_cover_em:0 "Прикрыть заговорщиков"
+ GER_cabal_cover_em_desc:0 ""
+ GER_cabal_fund_them:0 "Финансировать сопротивление"
+ GER_cabal_fund_them_desc:0 "Заговор - дорогостоящее предприятие, требующее широкой сети агентов и взяток, чтобы расширить свою базу власти и оставаться скрытым от параноидального взгляда Хюттига. Предоставляя нашим союзникам секретные средства, мы можем укрепить их связи и обеспечить, чтобы они продолжали приносить пользу Рейху."
+ GER_cabal_siphon_funds:0 "Выкачать средства из Рейхсштаата"
+ GER_cabal_siphon_funds_desc:0 "Наши друзья из сопротивления могут быть нам очень полезны. Используя их связи, мы можем красть деньги и выкачивать средства из казны нашей колонии изгоев: хотя это очень выгодно для нашего бюджета, это, несомненно, подвергнет риску разоблачения нескольких членов клики, и мы все знаем, что происходит, когда Хюттиг ловит кого-то с его деньгами..."
+ GER_cabal_implicate_political_enemies:0 "Вовлечь наших полит. врагов"
+ GER_cabal_implicate_political_enemies_desc:0 "В то время как первой и первостепенной задачей сопроивления является защита наших интересов в Африке, у них есть... другие применения, которые могут оказаться весьма полезными для нас. Например, что произойдет, если у кого-то, кто выступает против наших реформ, обнаружатся документы, доказывающие глубокие и чрезвычайно компрометирующие связи не с кем иным, как с Гансом Хюттигом, рейхскомиссаром-предателем, который незаконно оккупирует наши колонии в Африке и связал свою судьбу с такими, как Гиммлер."
+ GER_cabal_hide_funding:0 "Спрятать наши источники"
+ GER_cabal_hide_funding_desc:0 "Хюттиг и его приспешники в последнее время становятся подозрительными из-за нашей деятельности или своей паранойи. Было бы разумно на некоторое время сократить наши усилия и использовать наши секретные службы, чтобы скрыть любые оставшиеся следы нашего секретного финансирования. ЦРУ, Кемпейтай, буквально у каждого в мире есть причина подорвать Рейхсштаат, что позволяет очень легко возложить вину на всех, кроме нас..."
+ GER_cabal_provide_training:0 "Обеспечить обучение"
+ GER_cabal_provide_training_desc:0 "Силы сопротивления малочисленны и слабы по сравнению с эсэсовцами, служащими Хюттигу. Каждый человек на счету, и мы должны быть уверены, что они будут готовы, когда маленькая империя безумца неизбежно рухнет. Через наши секретные службы мы внедримся в специальные команды, которым поручено обучать людей как асимметричной войне, так и контрразведке, повышая их способность защищаться от паранойи Хюттига и сопротивляться, когда мир вокруг них начнет рушиться."
+
+ GER_increase_cabal_strength_5:0 "Сила сопротивления §Gувеличится§! на §Y5.§!\n"
+ GER_decrease_cabal_strength_7_5:0 "Сила сопротивления §Rуменьшится§! на §Y7.5.§!\n"
+ GER_cabal_not_maxed_out:0 "Влияние сопротивления еще не достигло максимума."
+ GER_cabal_require_7_5_influence:0 "Сопротивление должно иметь не меньше §Y7.5§! влияния."
+ GER_cabal_provide_100_milllion:0 "Это будет §Rстоить§! нам §Y100 миллионов.§!\n"
+ GER_cabal_provide_150_milllion:0 "Это будет §Rстоить§! нам §Y150 миллионов.§!\n"
+ GER_cabal_steal_100_milllion:0 "Мы §Gполучим§! §Y100 миллионов.§!\n"
+ GER_decrease_cabal_decay:0 "Ежемесячный §Rспад§! силы сопротивления будет §Gуменьшен§R! на §Y1.§!\n"
 
  #EVENTS
  
