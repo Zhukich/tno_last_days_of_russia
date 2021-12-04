@@ -5,14 +5,21 @@
  GER_SGR_student_protests:0 "Гражданские протесты"
  GER_SGR_student_protests_desc:0 "§DПрирост политической власти: [?SGR_protests_severity_pp|0+%]\nЕженедельная стабильность: [?SGR_protests_severity_stab|1+%]\n--------------\n§!Прошли дни почти единодушной поддержки военных усилий в Рейхе. Общественность, в основном студенты – бывшие сторонники Шпеера в гражданской войне в Германии - с оружием в руках выступают против участия Рейха в войне, которую они считают бессмысленной и чудовищной. Чем дольше их фюрер будет бороться с протестами, тем больше они будут сопротивляться."
 
- GER_BOR_student_protests:0 "Civilian Protests"
- GER_BOR_student_protests_desc:0 "Political Power Gain Factor: [?GER_Bormann_SAF_protests_severity_pp|0+%]\nWeekly Stability: [?GER_Bormann_SAF_protests_severity_stab|1+%]\n--------------\nGone are the days of near-unanimous support for the war effort in the Reich. The public, predominately the students, are up in arms about Germany's involvement in a war they view as senseless and monstrous. The longer their Führer fights it, the more they will resist it."
+ GER_BOR_student_protests:0 "Гражданские протесты"
+ GER_BOR_student_protests_desc:0 "Прирост политической власти: [?GER_Bormann_SAF_protests_severity_pp|0+%]\nЕженедельная стабильность: [?GER_Bormann_SAF_protests_severity_stab|1+%]\n--------------\nGone are the days of near-unanimous support for the war effort in the Reich. The public, predominately the students, are up in arms about Germany's involvement in a war they view as senseless and monstrous. The longer their Führer fights it, the more they will resist it."
+ 
+ GER_GGR_student_protests:0 "Гражданские протесты"
+ GER_GGR_student_protests_desc:0 "Прирост политической власти: [?GER_Bormann_SAF_protests_severity_pp|0+%]\nЕженедельная стабильность: [?GER_Bormann_SAF_protests_severity_stab|1+%]\n--------------\nGone are the days of near-unanimous support for the war effort in the Reich. The public, predominately the students, are up in arms about Germany's involvement in a war they view as senseless and monstrous. The longer their Führer fights it, the more they will resist it."
 
  GER_SGR_student_protests_dynamic_modifier:0 "Гражданские протесты"
  GER_BOR_student_protests_dynamic_modifier:0 "Civilian Protests"
+ GER_GGR_student_protests_dynamic_modifier:0 "Civilian Protests"
 
- GER_SGR_drugs_SAW:0 "Combat Drugs"
- GER_SGR_drugs_SAW_desc:0 "From Speed to Pervitin and beyond, drugs allegedly enhancing combat performance have found their way into the hands of German soldiers."
+ GER_SGR_drugs_SAW:0 "Боевые препараты"
+ GER_SGR_drugs_SAW_desc:0 "От первитина до кое-чего похуже, наркотики, предположительно повышающие боевые характеристики, попали в руки немецких солдат."
+ 
+ GER_GGR_drugs_SAW:0 "Combat Drugs"
+ GER_GGR_drugs_SAW_desc:0 "From Speed to Pervitin and beyond, drugs allegedly enhancing combat performance have found their way into the hands of German soldiers."
 
  #FOCUS WORK
 
@@ -22,7 +29,7 @@
  #DECISION WORK
  #SPEER
  SGR_South_African_War_category:0 "§OВойна на юге§!"
- SGR_South_African_War_category_desc:0 "\n\n\n\n\n\n§YВОВЛЕЧЕННОСТЬ:§! [GetSGRSAWInvolvement] ([?SGR_SAW_involvement|Y1]§Y%§!)  §MПРОТЕСТЫ:§! [GetSGRSAWProtest] ([?SGR_SAW_civilian_protest|Y1]§Y%§!)\n\nНаша стратегия сейчас [getSGRSAWStrategy].\n\n§RЮжноафриканская война§! не была спровоцирована или даже задумана §Yфюрером§!, тем не менее, мы все еще можем извлечь из нее выгоду. Будем ли мы выкидывать §RСоединенные Штаты§! из Африки или займемся §Gвыводом войск§! - все это будет иметь последствия.\n\nПомимо всего этого §Mгражданское население§! уже протестут против нашего участия в этой войне. Мы должны тщательно балансировать между их требованями и нашими планами, а иначе мы будем вынуждены §Rпотерпеть унизительное поражение§!."
+ SGR_South_African_War_category_desc:0 "§YВОВЛЕЧЕННОСТЬ:§! [GetSGRSAWInvolvement] ([?SGR_SAW_involvement|Y1]§Y%§!)  §MПРОТЕСТЫ:§! [GetSGRSAWProtest] ([?SGR_SAW_civilian_protest|Y1]§Y%§!)\n\nНаша стратегия сейчас [getSGRSAWStrategy].\n\n§RЮжноафриканская война§! не была спровоцирована или даже задумана §Yфюрером§!, тем не менее, мы все еще можем извлечь из нее выгоду. Будем ли мы выкидывать §RСоединенные Штаты§! из Африки или займемся §Gвыводом войск§! - все это будет иметь последствия.\n\nПомимо всего этого §Mгражданское население§! уже протестут против нашего участия в этой войне. Мы должны тщательно балансировать между их требованями и нашими планами, а иначе мы будем вынуждены §Rпотерпеть унизительное поражение§!."
 
  SGR_SAW_withdraw_from_the_war:0 "§YВыйти из войны§!"
  SGR_SAW_withdraw_from_the_war_desc:0 ""
@@ -106,7 +113,7 @@
 
  #BORMANN
  GER_Bormann_SAF_War_category:0 "§ODer Krieg im Süden§!"
- GER_Bormann_SAF_War_category_desc:0 "\n\n\n\n\n\n§YINVOLVEMENT:§! [GetBORSAWInvolvement] ([?GER_Bormann_SAW_involvement|Y1]§Y%§!)  §MPROTEST:§! [GetBORSAWProtest] ([?GER_Bormann_SAW_civilian_protest|Y1]§Y%§!)\n\nOur strategy is currently [getBORSAWStrategy].\n\nThe §RSouth African War§! was not instigated or even intended by the §YFührer§!, but we can nonetheless profit from it. Whether we push the §RUnited States§! out of Africa or §Gwithdraw§! will have repercussions.\n\nIn spite of all this, the §Mcivilian population§! is protesting our involvement in this war already. We must carefully balance their demands and our plans, or §Rbe forced to withdraw§!."
+ GER_Bormann_SAF_War_category_desc:0 "§YINVOLVEMENT:§! [GetBORSAWInvolvement] ([?GER_Bormann_SAW_involvement|Y1]§Y%§!)  §MPROTEST:§! [GetBORSAWProtest] ([?GER_Bormann_SAW_civilian_protest|Y1]§Y%§!)\n\nOur strategy is currently [getBORSAWStrategy].\n\nThe §RSouth African War§! was not instigated or even intended by the §YFührer§!, but we can nonetheless profit from it. Whether we push the §RUnited States§! out of Africa or §Gwithdraw§! will have repercussions.\n\nIn spite of all this, the §Mcivilian population§! is protesting our involvement in this war already. We must carefully balance their demands and our plans, or §Rbe forced to withdraw§!."
 
  GER_Bormann_SAF_withdraw_from_the_war:0 "§YWithdraw from the War§!"
  GER_Bormann_SAF_withdraw_from_the_war_desc:0 ""
@@ -182,16 +189,86 @@
  GER_Bormann_SAF_festung_johannesburg:0 "§OFestung Johannesburg§!"
  GER_Bormann_SAF_festung_johannesburg_desc:0 "Johannesburg has been a bastion of Aryan settlement on the Dark Continent for nearly two hundred years. The discovery of gold brought a flood of Boer settlers that rapidly turned it into South Africa's largest cities - now it is the capital of the Boer Republic. Our Afrikaner allies must not be allowed to falter in the defense of their homeland. We must send our engineers to turn the city into a fortress, one that will not fall to the Americans like it did to the British."
  
+ #Göring
+ GER_Goring_SAF_War_category:0 "§ODer Krieg im Süden§!"
+ GER_Goring_SAF_War_category_desc:0 "§YINVOLVEMENT:§! [GetGGRSAWInvolvement] ([?GGR_SAW_involvement|Y1]§Y%§!)  §MPROTEST:§! [GetGGRSAWProtest] ([?GGR_SAW_civilian_protest|Y1]§Y%§!)\n\nOur strategy is currently [getGGRSAWStrategy].\n\nThe §RSouth African War§! was not instigated or even intended by the §YFührer§!, but we can nonetheless profit from it. Whether we push the §RUnited States§! out of Africa or §Gwithdraw§! will have repercussions.\n\nIn spite of all this, the §Mcivilian population§! is protesting our involvement in this war already. We must carefully balance their demands and our plans, or §Rbe forced to withdraw§!."
+
+ GER_Goring_SAF_withdraw_from_the_war:0 "§YWithdraw from the War§!"
+ GER_Goring_SAF_withdraw_from_the_war_desc:0 ""
+
+ GER_Goring_SAF_increase_volunteers:0 "§RReinforce the War Effort§!"
+ GER_Goring_SAF_increase_volunteers_desc:0 "We will send more volunteers into the South African War."
+ GER_Goring_SAF_increase_volunteers_tt:0 "§YWar Involvement§! must be at least [?GER_Bormann_SAW_involvement_check|Y]§Y%§! or higher."
+
+ GER_Goring_SAF_decrease_volunteers:0 "§MReduce the War Effort§!"
+ GER_Goring_SAF_decrease_volunteers_desc:0 "We will draw back volunteers from the South African War."
+ GER_Goring_SAF_decrease_volunteers_tt:0 "§YWar Involvement§! must be at least §Y10%§! or higher."
+
+ GGR_SAW_war_report:0 "War Report"
+ GGR_SAW_war_report_desc:0 "Every month, the nation receives the newest report on the South African War by the Oberkommando der Wehrmacht. Despite best censorship efforts, information will always end up trickling through - and the truth of this senseless war in Africa does not make the German people happy."
+
+ GER_Bormann_SAF_war_effort_failure:0 "§xLooming Failure§!"
+ GER_Bormann_SAF_war_effort_failure_desc:0 "Due to mounting pressure from the §Mpublic§!, the §gReich's§! valiant war effort in South Africa may soon have to grind to a halt. A truly shameful result for such a noble, and profitable, cause..."
+
+ GGR_SAW_Fight_For_The_Reich:0 "§RFight for the Reich§!"
+ 
+ GER_Goring_SAF_propaganda_open:0 "Show §TPropaganda Decisions§!"
+ GER_Goring_SAF_propaganda_open_desc:0 "Click to show §TPropaganda Decisions§!."
+
+ GER_Goring_SAF_propaganda_small:0 "Small Propaganda Effort"
+ GER_Goring_SAF_propaganda_small_desc:0 "We will focus some resources on a small propaganda campaign aimed to calm down the protestors."
+
+ GER_Goring_SAF_propaganda_med:0 "Medium Propaganda Effort"
+ GER_Goring_SAF_propaganda_med_desc:0 "We will focus resources on a propaganda campaign aimed to evoke a feeling of national unity within the protestors."
+
+ GER_Goring_SAF_propaganda_big:0 "Large Propaganda Effort"
+ GER_Goring_SAF_propaganda_big_desc:0 "We will focus our resources on a truly grand propaganda campaign, aimed to recreate the flame of patriotism in our errant youth."
+
+ GER_Goring_SAF_propaganda_close:0 "Hide §TPropaganda Decisions§!"
+ GER_Goring_SAF_propaganda_close_desc:0 "Click to hide §TPropaganda Decisions§!."
+
+ GER_Goring_SAF_equipment_open:0 "Show §OEquipment Decisions§!"
+ GER_Goring_SAF_equipment_open_desc:0 "Click to show §OEquipment Decisions§!."
+
+ GER_Goring_SAF_equipment_guns:0 "Gun Shipments"
+ GER_Goring_SAF_equipment_guns_desc:0 "What equipment we can spare will be sent to the African RKs."
+
+ GER_Goring_SAF_equipment_antitank:0 "Anti-Tank and Artillery Shipments"
+ GER_Goring_SAF_equipment_antitank_desc:0 "What equipment we can spare will be sent to the African RKs."
+
+ GER_Goring_SAF_equipment_helicopters:0 "Attack Helicopter Shipments"
+ GER_Goring_SAF_equipment_helicopters_desc:0 "What equipment we can spare will be sent to the African RKs."
+
+ GER_Goring_SAF_equipment_close:0 "Hide §OEquipment Decisions§!"
+ GER_Goring_SAF_equipment_close_desc:0 "Click to hide §OEquipment Decisions§!."
+
+ GER_Goring_SAF_reinforcements_open:0 "Show §RReinforcements Decisions§!"
+ GER_Goring_SAF_reinforcements_open_desc:0 "Click to show §RReinforcements Decisions§!."
+
+ GER_Goring_SAF_reinforcements:0 "Send Volunteer Reinforcements"
+ GER_Goring_SAF_reinforcements_desc:0 "The brave patriots who have signed up for victory in South Africa will be sent to it."
+
+ GER_Goring_SAF_drugs:0 "Combat Drugs Shipments"
+ GER_Goring_SAF_drugs_desc:0 "Although it is a disgrace, the enemy has forced our hands..."
+
+ GER_Goring_SAF_reinforcements_close:0 "Hide §RReinforcements Decisions§!"
+ GER_Goring_SAF_reinforcements_close_desc:0 "Click to hide §RReinforcements Decisions§!."
+
+ GER_Goring_Deploy_Speidelite_Officers:0 "Dispatch Speidelite Officers to the Front"
+
+ GER_Goring_Deploy_Schornerite_Officers:0 "Dispatch Schörnerite Officers to the Front"
+ GER_Goring_Deploy_Schornerite_Officers_desc:0 "Deploying some members of Schörner's clique to the front line will be an easy way to decrease his influence in the Wehrmacht."
+ 
  ###Anti-Huttig Cabal
 
- MZB_REICHSTAAT_african_cabal:0 "Заговор против Хюттига"
- MZB_REICHSTAAT_african_cabal_desc:0 "Сумасшедший рейхскомиссар Ганс Хюттиг оккупировал другие африканские рейхскомиссариаты, объявив о создании Великоафриканского Рейхсштаата. С помощью своих фанатичных дивизий СС он превращает наши колонии в мерзость: если мы ничего не предпримем, мы потеряем все наши инвестиции на Темном континенте!\n\nОднако небольшая группа офицеров и администраторов, называющих себя "Африканской кликой", по-прежнему лояльна Германии. Хотя они слишком слабы - и слишком напуганы Хюттигом - чтобы действовать самостоятельно, с нашей помощью они смогут противостоять и, возможно, даже спасти наше присутствие в Африке. Мечта безумца неизбежно превратится в кошмар.\n\nТекущая сила заговора: [?MZB.MZB_REICHSTAAT_cabal_power|%]\nКаждые две недели сила заговора падает на: [?MZB.MZB_cabal_decay|%]"
+ GRO_REICHSSTAAT_african_cabal:0 "Заговор против Хюттига"
+ GRO_REICHSSTAAT_african_cabal_desc:0 "Сумасшедший рейхскомиссар Ганс Хюттиг оккупировал другие африканские рейхскомиссариаты, объявив о создании Великоафриканского Рейхсштаата. С помощью своих фанатичных дивизий СС он превращает наши колонии в мерзость: если мы ничего не предпримем, мы потеряем все наши инвестиции на Темном континенте!\n\nОднако небольшая группа офицеров и администраторов, называющих себя "Африканской кликой", по-прежнему лояльна Германии. Хотя они слишком слабы - и слишком напуганы Хюттигом - чтобы действовать самостоятельно, с нашей помощью они смогут противостоять и, возможно, даже спасти наше присутствие в Африке.\n\nИли... мы можем использовать сопротивление в своих политических целях ценой потери Темного континента\n\nТекущая сила заговора: (§G[?GRO.GRO_REICHSSTAAT_cabal_power|%1]§!)\nКаждые две недели сила заговора падает на: (§S[?GRO.GRO_REICHSSTAAT_cabal_decay|%1]§!)\n\n§YСила заговора определяет наши шансы на успех после краха Рейхсштаата...§!"
  GER_cabal_supply_weapons:0 "Вооружить повстанцев"
  GER_cabal_supply_weapons_desc:0 "Есть ирония в том факте, что мы финансируем партизан, чтобы подорвать нашу собственную бывшую колонию. Тем не менее, мы не можем отрицать, что нам нужно прибегнуть к таким методам, чтобы ослабить хватку Хюттига в Африке: вооружив лояльных немцев, которые все еще сражаются за остатки Центральафрики и Зюдвестафрики, мы вынудим безумца увеличить свои и без того скудные силы, ослабив его контроль над мерзостью, которую он называет "государством", укрепив наших союзников."
  GER_cabal_administrative_aid:0 "Укрепить группировки"
  GER_cabal_administrative_aid_desc:0 "Сопротивление борется не только для того, чтобы подорвать власть Хюттига над континентом, но и для того, чтобы сохранить свои головы. Это гораздо больше, чем метафора, поскольку Хюттиг известен своей склонностью прибегать к массовым казням за малейший намек на измену: посылая наши секретные службы им на помощь, мы можем быть уверены, что Хюттиг будет слишком занят другими проблемами, чтобы беспокоиться о том, чтобы обнаружить наших друзей."
  GER_cabal_cover_em:0 "Прикрыть заговорщиков"
- GER_cabal_cover_em_desc:0 ""
+ GER_cabal_cover_em_desc:0 "Поскольку последние верные люди в Келимане работают над тем, чтобы подорвать безумца Хюттига, мы должны сделать так, чтобы их не обнаружили. Сжигая определенные бумажные следы и создавая фальсификации, мы можем отвести подозрения от наших агентов в Африке, по крайней мере, на данный момент."
  GER_cabal_fund_them:0 "Финансировать сопротивление"
  GER_cabal_fund_them_desc:0 "Заговор - дорогостоящее предприятие, требующее широкой сети агентов и взяток, чтобы расширить свою базу власти и оставаться скрытым от параноидального взгляда Хюттига. Предоставляя нашим союзникам секретные средства, мы можем укрепить их связи и обеспечить, чтобы они продолжали приносить пользу Рейху."
  GER_cabal_siphon_funds:0 "Выкачать средства из Рейхсштаата"
@@ -203,14 +280,12 @@
  GER_cabal_provide_training:0 "Обеспечить обучение"
  GER_cabal_provide_training_desc:0 "Силы сопротивления малочисленны и слабы по сравнению с эсэсовцами, служащими Хюттигу. Каждый человек на счету, и мы должны быть уверены, что они будут готовы, когда маленькая империя безумца неизбежно рухнет. Через наши секретные службы мы внедримся в специальные команды, которым поручено обучать людей как асимметричной войне, так и контрразведке, повышая их способность защищаться от паранойи Хюттига и сопротивляться, когда мир вокруг них начнет рушиться."
 
- GER_increase_cabal_strength_5:0 "Сила сопротивления §Gувеличится§! на §Y5.§!\n"
- GER_decrease_cabal_strength_7_5:0 "Сила сопротивления §Rуменьшится§! на §Y7.5.§!\n"
+ GER_increase_cabal_strength_tt:0 "Сила сопротивления §Gувеличится§! на §Y$RIGHT|%$§!.\n"
+ GER_decrease_cabal_strength_tt:0 "Сила сопротивления §Rуменьшится§! на §Y$RIGHT|%$§!.\n"
  GER_cabal_not_maxed_out:0 "Влияние сопротивления еще не достигло максимума."
  GER_cabal_require_7_5_influence:0 "Сопротивление должно иметь не меньше §Y7.5§! влияния."
- GER_cabal_provide_100_milllion:0 "Это будет §Rстоить§! нам §Y100 миллионов.§!\n"
- GER_cabal_provide_150_milllion:0 "Это будет §Rстоить§! нам §Y150 миллионов.§!\n"
- GER_cabal_steal_100_milllion:0 "Мы §Gполучим§! §Y100 миллионов.§!\n"
- GER_decrease_cabal_decay:0 "Ежемесячный §Rспад§! силы сопротивления будет §Gуменьшен§R! на §Y1.§!\n"
+ GER_decrease_cabal_decay:0 "Ежедневный §Rспад§! силы сопротивления §Gуменьшится§! на §Y0.1%§!.\n"
+ GER_cabal_decaying:0 "Ежедневный §Rспад§! силы сопротивления §Gувеличится§! на §Y0.1%§!.\n"
 
  #EVENTS
  
@@ -232,7 +307,7 @@
  SGR_SAW_reinf_decisions:0 "§WРешения, связанные с §Rотправками подкреплений§! станут доступны.§!"
  SGR_SAW_advisors_decisions:0 "§WРешения на §Yотправку советников§! станут доступны.§!"
  SGR_SAW_drugs_decisions:0 "§WРешения на §Rиспользование наркотиков§! станут доступны.§!"
- SGR_SAW_soldier_return:0 "§W[?SGR_SAW_manpower|R0] солдат возвратилось в §gГерманию§!.§!"
+ SGR_SAW_soldier_return:0 "§W[?SGR_SAW_manpower|R0] солдат возвратилось в  §gГерманию§!.\n§RВсе§! добровольцы, отправленные в §YАфрику§! будут отозванны обратно в §gГерманию§!.§!"
 
  SGR_SAW_war_report_predic_tt:0 "§WМы прогнозируем рост §Mгражданских потрясений§! на [?SGR_SAW_civilian_protest_growth_base|Y]§Y%§! в течение следующего месяца.§!"
  SGR_SAW_war_failure_tt:0 "§W§MОбщественное давление§! становится слишком сильным!§!"
