@@ -757,7 +757,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "TNO_SGR_Decisions_RND_GUI_movement_container"
 			size = { width = 0 height = 0 }
-			position = { x = 0 y = 150 }
+			position = { x = 0 y = 100 }
 
 			iconType = {
 				name = "SGR_Orpo_GUI_Logo"
@@ -808,6 +808,16 @@ guiTypes = {
 				name = "Increase_budget_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
 				position = { x = 131 y = -762 }
+		    }
+			buttonType = {
+				name = "Decrease_budget_button_maxed"
+				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button_greyed_out"
+				position = { x = 73 y = -762 }
+			}
+			buttonType = {
+				name = "Increase_budget_button_maxed"
+				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button_greyed_out"
+				position = { x = 111 y = -762 }
 			}
 			# buttonType = {
 			# 	name = "Invest_button"
@@ -829,7 +839,7 @@ guiTypes = {
 			}
 			instantTextboxType = {
 				name = "Budget_change_value"
-				position = { x = 45 y = -760 }
+				position = { x = 45 y = -765 }
 				font = "aldrich_20_outline"
 				text = SGR_RND_Budget_Investment
 				format = center
@@ -1626,7 +1636,7 @@ guiTypes = {
 				name = "Name_Textbox_1"
 				position = { x = 0 y = 240 }
 				font = "aldrich_32_outline"
-				text = SGR_RND_leader
+				text = SGR_Gehlen_RND_leader
 				maxWidth = 300
 				format = center
 			}
@@ -1634,7 +1644,7 @@ guiTypes = {
 				name = "Info_Textbox_1"
 				position = { x = 25 y = 310 }
 				font = "aldrich_18_outline"
-				text = SGR_RND_leader_desc_get
+				text = SGR_Gehlen_RND_leader_desc
 				maxWidth = 250
 				format = center
 			}
@@ -1658,7 +1668,7 @@ guiTypes = {
 				name = "Name_Textbox_2"
 				position = { x = 0 y = 240 }
 				font = "aldrich_32_outline"
-				text = SGR_RND_leader
+				text = SGR_Wessel_RND_leader
 				maxWidth = 300
 				format = center
 			}
@@ -1666,7 +1676,71 @@ guiTypes = {
 				name = "Info_Textbox_2"
 				position = { x = 25 y = 310 }
 				font = "aldrich_18_outline"
-				text = SGR_RND_leader_desc_get
+				text = SGR_Wessel_RND_leader_desc
+				maxWidth = 250
+				format = center
+			}
+		}
+		
+		containerWindowType = {
+			name = "Info_3"
+			position = { x = 0 y = 0 }
+			size = { width = 300 height = 900 }
+			
+			background = {
+				name = "details_bg_3"
+				quadTextureSprite = "GFX_tiled_window_transparent"
+			}
+			iconType = {
+				name = "Portrait_3"
+				spriteType = "GFX_RND_portrait_3"
+				position = { x = 71 y = 25 }
+			}
+			instantTextboxType = {
+				name = "Name_Textbox_3"
+				position = { x = 0 y = 240 }
+				font = "aldrich_32_outline"
+				text = BOR_Mueller_Orpo_leader
+				maxWidth = 300
+				format = center
+			}
+			instantTextboxType = {
+				name = "Info_Textbox_3"
+				position = { x = 25 y = 310 }
+				font = "aldrich_18_outline"
+				text = BOR_Mueller_Orpo_leader_desc
+				maxWidth = 250
+				format = center
+			}
+		}
+
+		containerWindowType = {
+			name = "Info_4"
+			position = { x = 0 y = 0 }
+			size = { width = 300 height = 900 }
+			
+			background = {
+				name = "details_bg_4"
+				quadTextureSprite = "GFX_tiled_window_transparent"
+			}
+			iconType = {
+				name = "Portrait_4"
+				spriteType = "GFX_RND_portrait_1"
+				position = { x = 71 y = 25 }
+			}
+			instantTextboxType = {
+				name = "Name_Textbox_4"
+				position = { x = 0 y = 240 }
+				font = "aldrich_32_outline"
+				text = BOR_Gehlen_Orpo_leader
+				maxWidth = 300
+				format = center
+			}
+			instantTextboxType = {
+				name = "Info_Textbox_4"
+				position = { x = 25 y = 310 }
+				font = "aldrich_18_outline"
+				text = BOR_Gehlen_Orpo_leader_desc
 				maxWidth = 250
 				format = center
 			}
@@ -2095,6 +2169,12 @@ guiTypes = {
 			alwaystransparent = yes
 		}
 
+		iconType = {
+			name = "SGR_state_info_window_button_bg_2"
+			spriteType = "GFX_SGR_state_info_button_bg"
+			position = { x = 15 y = 119 }
+			pdx_tooltip = SGR_tasks_scriploc_tt2
+		}
 		buttonType = {
 			name = "SGR_state_info_window_button_2"
 			quadTextureSprite = "GFX_SGR_state_info_button"
@@ -2118,6 +2198,12 @@ guiTypes = {
 			alwaystransparent = yes
 		}
 
+		iconType = {
+			name = "SGR_state_info_window_button_bg_3"
+			spriteType = "GFX_SGR_state_info_button_bg"
+			position = { x = 15 y = 173 }
+			pdx_tooltip = SGR_tasks_scriploc_tt3
+		}
 		buttonType = {
 			name = "SGR_state_info_window_button_3"
 			quadTextureSprite = "GFX_SGR_state_info_button"
@@ -2143,6 +2229,84 @@ guiTypes = {
 		}
 	}
 
+	containerWindowType = {
+		name = "TNO_SGR_project_info"
+		position = { x = 550 y = 250 }
+		size = { width = 525 height = 290 }
+		moveable = yes
+		
+		background = {
+			name = "Background"
+			quadTextureSprite = "GFX_tiled_bg"
+		}
+
+		instantTextboxType = {
+			name = "SGR_project_title"
+			position = { x = 0 y = 65 }
+			font = "aldrich_24_outline"
+			maxWidth = 525
+			text = SGR_RSFSTP_title
+			format = center
+			pdx_tooltip = SGR_RSFSTP_title_tt
+		}
+
+		iconType = {
+			name = "SGR_project_meter_progbar"
+			spriteType = "GFX_BRA_Map_Development_Megaproject_Bar"
+			position = { x = 125 y = 170 }
+		}
+
+		buttonType = {
+			name = "SGR_project_investment_count_subtract_button"
+			position = { x = 180 y = 110 }
+			quadTextureSprite = "GFX_BRG_DomesticGUI_Minus"
+			pdx_tooltip = SGR_RSFSTP_sub
+		}
+
+		buttonType = {
+			name = "SGR_project_investment_count_add_button"
+			position = { x = 320 y = 110 }
+			quadTextureSprite = "GFX_BRG_DomesticGUI_Plus"
+			pdx_tooltip = SGR_RSFSTP_add
+		}
+
+		instantTextBoxType = {
+			name = "SGR_project_investment_count"
+			position = { x = 210 y = 115 }
+			maxWidth = 120
+			maxHeight = 30
+			format = center
+			font = "aldrich_32_outline"
+			text = SGR_RSFSTP_PU
+			pdx_tooltip = SGR_RSFSTP_investment_count_tt
+		}
+
+		instantTextboxType = {
+			name = "SGR_project_progress"
+			position = { x = 30 y = 225 }
+			font = "aldrich_18_outline"
+			format = center
+			maxWidth = 450
+			maxHeight = 20
+			fixedsize = yes
+			text = SGR_RSFSTP_bottom_text
+		}
+
+		buttonType = {
+			name = "SGR_project_info_close_button"
+			position = { x = -40 y = 21 }
+			quadTextureSprite = "GFX_crt_closebutton"
+			Orientation = "UPPER_RIGHT"
+			shortcut = "ESCAPE"
+		}
+
+		buttonType = {
+			name = "SGR_project_investment_count_add_button_debug"
+			position = { x = 50 y = 110 }
+			quadTextureSprite = "GFX_add_one"
+			pdx_tooltip = SGR_RSFSTP_add_debug
+		}
+	}
 
 	containerWindowType = {
 		name = "TNO_SGR_Economy_GUI"
@@ -2166,6 +2330,13 @@ guiTypes = {
 			name = "SGR_info_button"
 			position = { x = -80 y = 16 }
 			quadTextureSprite = "GFX_Iberia_InfoButton"
+			Orientation = "UPPER_RIGHT"
+		}
+		
+		buttonType = {
+			name = "SGR_project_button"
+			position = { x = -80 y = 76 }
+			quadTextureSprite = "GFX_SGR_project_button"
 			Orientation = "UPPER_RIGHT"
 		}
 
@@ -2572,6 +2743,13 @@ guiTypes = {
 		}
 		
 		iconType = {
+			name = "SGR_railway_map"
+			position = { x = 212 y = 241 }
+			quadTextureSprite = "GFX_SGR_railwaymap"
+			pdx_tooltip = SGR_RSFSTP_bottom_text
+		}
+	
+		iconType = {
 			name = "Notification_window"
 			position = { x = 775 y = 75 }
 			spriteType = "GFX_tiled_window_thin_border2"
@@ -2599,6 +2777,20 @@ guiTypes = {
 			Orientation = "UPPER_RIGHT"
 			clicksound = click_close
 			pdx_tooltip = "CLOSE"
+		}
+	}
+	
+	containerWindowType = {
+		name = "TNO_Speer_Party_Ministry"
+		size = { width = 220 height = 128 }
+		position = { x = 0 y = 289 }
+
+		iconType = {
+			name = "TNO_Speer_party_minister"
+			quadTextureSprite = "GFX_idea_GER_minister_Rudolf_Jordan"
+			position = { x = 136 y = 36 }
+			pdx_tooltip = GER_Rudolf_Jordan_Minister
+			# pdx_tooltip_delayed = BOR_SIG_debug_enable
 		}
 	}
 }
