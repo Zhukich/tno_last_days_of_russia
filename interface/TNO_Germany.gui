@@ -450,7 +450,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "TNO_SGR_Decisions_GUI" #The Speerdometer
-		size = { width = 525 height = 800 }
+		size = { width = 525 height = 1010 }
 		position = { x = 0 y = 0 }
 
 		instantTextboxType = {
@@ -464,7 +464,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "TNO_SGR_Decisions_GUI_desc_text"
-			position = { x = 20 y = 480 }
+			position = { x = 20 y = 500 }
 			font = "aldrich_16_outline"
 			text = "TNO_SGR_Decisions_GUI_desc_text"
 			maxWidth = 470
@@ -566,7 +566,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_status_text"
-				position = { x = 113 y = 300 }
+				position = { x = 113 y = 385 }
 				font = "aldrich_22_outline"
 				text = SGR_campaign_status
 				maxWidth = 300
@@ -576,7 +576,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_pp_var_text"
-				position = { x = 75 y = 380 }
+				position = { x = 75 y = 390 }
 				font = "aldrich_20_outline"
 				text = SGR_ppinvest_text
 				maxWidth = 300
@@ -586,7 +586,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_usd_var_text"
-				position = { x = 300 y = 380 }
+				position = { x = 300 y = 390 }
 				font = "aldrich_20_outline"
 				text = SGR_moneyinvest_text
 				maxWidth = 200
@@ -597,7 +597,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_reformist_button"
 				spriteType = "GFX_speerdometer_reformist_button"
-				position = { x = 350 y = 440 }
+				position = { x = 350 y = 450 }
 				buttonText = "SGR_reformist_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_reformist_button_tt
@@ -606,7 +606,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_reformist_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 350 y = 440 }
+				position = { x = 350 y = 450 }
 				buttonText = "SGR_reformist_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_reformist_button_tt
@@ -615,7 +615,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_conservative_button"
 				spriteType = "GFX_speerdometer_conservative_button"
-				position = { x = 50 y = 440 }
+				position = { x = 50 y = 450 }
 				buttonText = "SGR_conservative_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_conservative_button_tt
@@ -624,7 +624,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_conservative_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 50 y = 440 }
+				position = { x = 50 y = 450 }
 				buttonText = "SGR_conservative_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_conservative_button_tt
@@ -633,7 +633,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_launch_button"
 				spriteType = "GFX_speerdometer_launch_button"
-				position = { x = 200 y = 440 }
+				position = { x = 200 y = 450 }
 				buttonText = "SGR_launch_campaign_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_launch_button_tt
@@ -642,7 +642,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_launch_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 200 y = 440 }
+				position = { x = 200 y = 450 }
 				buttonText = "SGR_launch_campaign_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_launch_underbutton_tt
@@ -651,26 +651,26 @@ guiTypes = {
 			buttonType = {
 				name = "Decrease_pp_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 160 y = 395 }
+				position = { x = 160 y = 415 }
 				pdx_tooltip = SGR_decrease_pp_button_tt
 			}
 			buttonType = {
 				name = "Increase_pp_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 190 y = 395 }
+				position = { x = 190 y = 415 }
 				pdx_tooltip = SGR_increase_pp_button_tt
 			}
 
 			buttonType = {
 				name = "Decrease_usd_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 332 y = 395 }
+				position = { x = 332 y = 415 }
 				pdx_tooltip = SGR_decrease_budget_button_tt
 			}
 			buttonType = {
 				name = "Increase_usd_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 362 y = 395 }
+				position = { x = 362 y = 415 }
 				pdx_tooltip = SGR_increase_budget_button_tt
 			}
 
