@@ -802,22 +802,22 @@ guiTypes = {
 			buttonType = {
 				name = "Decrease_budget_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 53 y = -762 }
+				position = { x = 53 y = -742 }
 			}
 			buttonType = {
 				name = "Increase_budget_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 131 y = -762 }
+				position = { x = 131 y = -742 }
 		    }
 			buttonType = {
 				name = "Decrease_budget_button_maxed"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button_greyed_out"
-				position = { x = 53 y = -762 }
+				position = { x = 53 y = -742 }
 			}
 			buttonType = {
 				name = "Increase_budget_button_maxed"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button_greyed_out"
-				position = { x = 131 y = -762 }
+				position = { x = 131 y = -742 }
 			}
 			# buttonType = {
 			# 	name = "Invest_button"
