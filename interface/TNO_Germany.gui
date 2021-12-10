@@ -450,8 +450,8 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "TNO_SGR_Decisions_GUI" #The Speerdometer
-		size = { width = 525 height = 1010 }
-		position = { x = 0 y = 0 }
+		size = { width = 525 height = 900 }
+		position = { x = 0 y = -2 }
 
 		instantTextboxType = {
 			name = "TNO_SGR_Decisions_GUI_regime_lean_text"
@@ -464,11 +464,11 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "TNO_SGR_Decisions_GUI_desc_text"
-			position = { x = 20 y = 500 }
+			position = { x = 20 y = 480 }
 			font = "aldrich_16_outline"
 			text = "TNO_SGR_Decisions_GUI_desc_text"
 			maxWidth = 470
-			maxHeight = 450
+			maxHeight = 700
 			multiline = yes
 		}
 
@@ -566,7 +566,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_status_text"
-				position = { x = 113 y = 385 }
+				position = { x = 113 y = 340 }
 				font = "aldrich_22_outline"
 				text = SGR_campaign_status
 				maxWidth = 300
@@ -576,7 +576,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_pp_var_text"
-				position = { x = 75 y = 390 }
+				position = { x = 75 y = 370 }
 				font = "aldrich_20_outline"
 				text = SGR_ppinvest_text
 				maxWidth = 300
@@ -586,7 +586,7 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "SGR_speerdometer_usd_var_text"
-				position = { x = 300 y = 390 }
+				position = { x = 300 y = 370 }
 				font = "aldrich_20_outline"
 				text = SGR_moneyinvest_text
 				maxWidth = 200
@@ -597,7 +597,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_reformist_button"
 				spriteType = "GFX_speerdometer_reformist_button"
-				position = { x = 350 y = 450 }
+				position = { x = 350 y = 440 }
 				buttonText = "SGR_reformist_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_reformist_button_tt
@@ -606,7 +606,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_reformist_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 350 y = 450 }
+				position = { x = 350 y = 440 }
 				buttonText = "SGR_reformist_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_reformist_button_tt
@@ -615,7 +615,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_conservative_button"
 				spriteType = "GFX_speerdometer_conservative_button"
-				position = { x = 50 y = 450 }
+				position = { x = 50 y = 440 }
 				buttonText = "SGR_conservative_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_conservative_button_tt
@@ -624,7 +624,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_conservative_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 50 y = 450 }
+				position = { x = 50 y = 440 }
 				buttonText = "SGR_conservative_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_conservative_button_tt
@@ -633,7 +633,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_launch_button"
 				spriteType = "GFX_speerdometer_launch_button"
-				position = { x = 200 y = 450 }
+				position = { x = 200 y = 440 }
 				buttonText = "SGR_launch_campaign_button"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_launch_button_tt
@@ -642,7 +642,7 @@ guiTypes = {
 			buttonType = {
 				name = "SGR_speerdometer_launch_under_button"
 				spriteType = "GFX_speerdometer_gray_button"
-				position = { x = 200 y = 450 }
+				position = { x = 200 y = 440 }
 				buttonText = "SGR_launch_campaign_underbutton"
 				buttonFont = "aldrich_14_outline"
 				pdx_tooltip = SGR_launch_underbutton_tt
@@ -651,26 +651,26 @@ guiTypes = {
 			buttonType = {
 				name = "Decrease_pp_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 160 y = 415 }
+				position = { x = 160 y = 395 }
 				pdx_tooltip = SGR_decrease_pp_button_tt
 			}
 			buttonType = {
 				name = "Increase_pp_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 190 y = 415 }
+				position = { x = 190 y = 395 }
 				pdx_tooltip = SGR_increase_pp_button_tt
 			}
 
 			buttonType = {
 				name = "Decrease_usd_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 332 y = 415 }
+				position = { x = 332 y = 395 }
 				pdx_tooltip = SGR_decrease_budget_button_tt
 			}
 			buttonType = {
 				name = "Increase_usd_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 362 y = 415 }
+				position = { x = 362 y = 395 }
 				pdx_tooltip = SGR_increase_budget_button_tt
 			}
 
@@ -757,7 +757,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "TNO_SGR_Decisions_RND_GUI_movement_container"
 			size = { width = 0 height = 0 }
-			position = { x = 0 y = 100 }
+			position = { x = 0 y = 250 }
 
 			iconType = {
 				name = "SGR_Orpo_GUI_Logo"
@@ -802,22 +802,22 @@ guiTypes = {
 			buttonType = {
 				name = "Decrease_budget_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button"
-				position = { x = 53 y = -742 }
+				position = { x = 73 y = -742 }
 			}
 			buttonType = {
 				name = "Increase_budget_button"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button"
-				position = { x = 131 y = -742 }
-		    }
+				position = { x = 111 y = -742 }
+			}
 			buttonType = {
 				name = "Decrease_budget_button_maxed"
 				quadTextureSprite = "GFX_SGR_RND_GUI_decrease_budget_button_greyed_out"
-				position = { x = 53 y = -742 }
+				position = { x = 73 y = -742 }
 			}
 			buttonType = {
 				name = "Increase_budget_button_maxed"
 				quadTextureSprite = "GFX_SGR_RND_GUI_increase_budget_button_greyed_out"
-				position = { x = 131 y = -742 }
+				position = { x = 111 y = -742 }
 			}
 			# buttonType = {
 			# 	name = "Invest_button"
@@ -1085,9 +1085,9 @@ guiTypes = {
 				
 				instantTextboxType = {
 					name = "SGR_RND_Decisions_GUI_Selected_Region"
-					position = { x = -15 y = 225 }
+					position = { x = -15 y = 230 }
 					font = "aldrich_30_outline"
-					text = "Выбранный регион: [GetSGRRNDRegionScriptedLoc]"
+					text = "Highlighted Region: [GetSGRRNDRegionScriptedLoc]"
 					maxWidth = 525
 					maxHeight = 20
 					format = center
@@ -1681,7 +1681,7 @@ guiTypes = {
 				format = center
 			}
 		}
-		
+
 		containerWindowType = {
 			name = "Info_3"
 			position = { x = 0 y = 0 }
@@ -2140,10 +2140,10 @@ guiTypes = {
 		}
 
 		iconType = {
-			name = "SGR_state_info_window_buttons_bg"
-			spriteType = "GFX_SGR_state_info_buttons_bg"
+			name = "SGR_state_info_window_button_bg_1"
+			spriteType = "GFX_SGR_state_info_button_bg"   
 			position = { x = 15 y = 65 }
-			pdx_tooltip = SGR_tasks_scriploc_tt
+			pdx_tooltip = SGR_tasks_scriploc_tt1
 		}
 
 		buttonType = {
@@ -2204,7 +2204,7 @@ guiTypes = {
 			position = { x = 15 y = 173 }
 			pdx_tooltip = SGR_tasks_scriploc_tt3
 		}
-		buttonType = {
+		buttonType = { 
 			name = "SGR_state_info_window_button_3"
 			quadTextureSprite = "GFX_SGR_state_info_button"
 			position = { x = 15 y = 173 }
@@ -2332,7 +2332,7 @@ guiTypes = {
 			quadTextureSprite = "GFX_Iberia_InfoButton"
 			Orientation = "UPPER_RIGHT"
 		}
-		
+
 		buttonType = {
 			name = "SGR_project_button"
 			position = { x = -80 y = 76 }
@@ -2560,6 +2560,7 @@ guiTypes = {
 			position = { x = 675 y = 630 }
 			spriteType = "GFX_SGR_dismantled_overlay_siemens"
 		}
+
 		
 		###Map Icons###
 
@@ -2741,14 +2742,14 @@ guiTypes = {
 				pdx_tooltip = SGR_economic_uppervolga_tt
 			}
 		}
-		
+
 		iconType = {
 			name = "SGR_railway_map"
 			position = { x = 212 y = 241 }
 			quadTextureSprite = "GFX_SGR_railwaymap"
 			pdx_tooltip = SGR_RSFSTP_bottom_text
 		}
-	
+		
 		iconType = {
 			name = "Notification_window"
 			position = { x = 775 y = 75 }
@@ -2758,7 +2759,7 @@ guiTypes = {
 			name = "Notification_text"
 			position = { x = 770 y = 112 }
 			font = "aldrich_30_outline"
-			text = "За этой плашкой новая механика"
+			text = "Click on the states for further interactions"
 			format = center
 		}
 		buttonType = {
@@ -2779,7 +2780,7 @@ guiTypes = {
 			pdx_tooltip = "CLOSE"
 		}
 	}
-	
+
 	containerWindowType = {
 		name = "TNO_Speer_Party_Ministry"
 		size = { width = 220 height = 128 }
