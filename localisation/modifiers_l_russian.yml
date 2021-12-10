@@ -6,7 +6,7 @@
  MOD_DAYS:0 "дн."
  MOD_HOUR:0 "ч."
  MOD_DAILY:0 "ежедневно"
- MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR:0 "Максимум зданпй в регионе"
+ MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR:0 "Максимум зданий в регионе"
  MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR_DESC:1 "Изменяет число ячеек общих сооружений во всех регионах."
  MODIFIER_GLOBAL_BUILDING_SLOTS:0 "Максимум зданий в регионе"
  MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR:0 "Максимум зданий в регионе"
