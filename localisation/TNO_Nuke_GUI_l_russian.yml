@@ -8,7 +8,7 @@
 #                                                                      #
 # |=========================| Localization |=========================| #
  
-l_english:
+l_russian:
  TNO_Nuke_GUI_OpenButton_tt: "Open the Strategic Arsenal GUI"
  TNO_Nuke_GUI_Display_Stockpile_tt: "Nuclear Stockpile:\n§W[?nuclear_stockpile] Warheads§!"
  TNO_Nuke_GUI_Display_StockpileChange_tt: "[GetNuclearProductionStatus]\n[GetNuclearProductionQtd]"

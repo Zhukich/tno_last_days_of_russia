@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  TNO_SG_IntAlignment_Grid_Text_tt:0 "[?TNO_IntAlignment_Infl^TNO_IntAlignment_i]\n([?TNO_IntAlignment_Perc^TNO_IntAlignment_i|1]%)"
  TNO_SG_IntAlignment_Tooltip:0 "[?TNO_IntAlignment_ID^TNO_IntAlignment_i.GetName]\n[?TNO_IntAlignment_Infl^TNO_IntAlignment_i] ([?TNO_IntAlignment_Perc^TNO_IntAlignment_i|1]%)"
 

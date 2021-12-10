@@ -8,7 +8,7 @@
 #                                                                      #
 # |=========================| Localization |=========================| #
  
-l_english:
+l_russian:
 TNO_Cold_War_GUI_Selected_Superpower_tt: "Data - Viewing [Superpower_GetNameColor]"
 TNO_Cold_War_GUI_Selected_Superpower_USA: "§m[?USA.GetName]§!"
 TNO_Cold_War_GUI_Selected_Superpower_GER: "§q[?GER.GetName]§!"

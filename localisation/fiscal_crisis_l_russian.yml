@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
 fiscal_crisis.0.t:0 "Fiscal Crisis!"
 fiscal_crisis.0.desc: "We have mismanaged our finances and our debt-to-GDP has skyrocketed! The government must now significantly cut expenditures or face a major economic crisis.\n\nThe government, led by [THIS.GetLeader], must find a way to balance the budget while also significantly reducing the country's sovereign debt, lest we be forced to default, or worse, face complete insolvency."
