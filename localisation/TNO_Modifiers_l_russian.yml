@@ -1,21 +1,55 @@
-﻿l_russian:
+l_russian:
  # Economic modifiers
  annual_gdp_growth_factor:0 "Годовой коэффициент роста ВВП"
- proportional_gdp_cost:0 "Пропорционально стоимости ВВП"
- personnel_cost_modifier:0 "Модификатор затрат на персонал"
+ proportional_pop_cost:0 "Пропорциональные расходы"
+ personnel_cost_modifier:0 "Модификатор расходов на персонал"
+ research_cost_modifier:0 "Модификатор стоимости исследований"
+ personnel_cost_factor_modifier:0 "Фактор расходов на персонал"
  taxable_population_modifier:0 "Налогооблагаемое население"
- taxable_population_factor:0 "Фактор налогооблагаемого населения"
- income_rate_modifier:0 "Подоходный налог"
- income_rate_factor:0 "Коэффициент подоходного налога"
- construction_costs_modifier:0 "Модификатор стоимсоти строительства"
- income_rate_factor:0 "Коэффициент подоходного налога"
- civilian_expenditures_factor:0 "Фактор гражданских расходов"
+ taxable_population_factor:0 "Коэффициент налогооблагаемого населения"
+ income_rate_modifier:0 "Показатель дохода"
+ income_rate_factor:0 "Фактор ставки дохода"
+ construction_costs_modifier:0 "Модификатор затрат на строительство"
+ construction_costs_modifier_factor:0 "Фактор затрат на строительство"
+ civilian_expenditures_factor:0 "Коэффициент расходов на граждан
  military_expenditures_factor:0 "Фактор военных расходов"
- military_annual_cost:0 "Ежегодные расходы (военные)"
- civilian_annual_cost:0 ""Ежегодные расходы (гражданские)"
- misc_costs_modifier:0 "Прочие расходы"
- misc_income_modifier:0 "Прочие доходы"
+ naval_cost_modifier:0 "Модификатор затрат ВМС"
+ airforce_cost_modifier:0 "Модификатор стоимости самолета"
+ army_cost_modifier:0 "Модификатор стоимости армии"
+ civilian_annual_cost:0 "Гражданские бюджетные расходы (в млрд. $)"
+ military_costs_misc:0 "Военные расходы (в млрд $)"
+ misc_costs_modifier:0 "Прочие расходы (в млрд $)"
+ misc_costs_percent_of_GDP_modifier:0 "Прочие расходы (в % ВВП)"
+ misc_income_modifier:0 "Прочие доходы (в млрд $)"
  gdp_growth_modifier:0 "Рост ВВП"
+ social_program_cost_factor:0 "Коэффициент затрат на социальную программу"
+ consumer_goods_use_modifier:0 "Необходимые потребительские товары"
+ naval_industry_cost_modifier:0 "Стоимость морской промышленности"
+ monthly_credit_rating_progress:0 "Ежемесячное повышение кредитного рейтинга"
+ poverty_taxation_rate_modifier: "Налогообложение на бедных"
+ income_tax_rate_modifier_factor: "Коэффициент ставки подоходного налога"
+
+ production_units_to_GDP_ratio_modifier:0 "£tt_prod_unit Модификатор производственных единиц к ВВП"
+ free_production_units_modifier:0 "Free£tt_prod_unit Производственные единицы"
+ consumer_goods_production_factor:0 "Фактор производства потребительских товаров"
+ inflation_rate_modifier:0 "Модификатор ставки инфляции"
+ interest_rate_modifier:0 "Модификатор процентной ставки"
+ interest_rate_factor_modifier:0 "Фактор процентной ставки"
+ GDP_to_sphere_leader_modifier:0 "ВВП лидеру альянса"
+ debt_to_GDP_ceiling_modifier:0 "Потолок долга"
+ Deficit_political_power_cost_modifier:0 "Влияние дефицита на модификатор усиления политической власти"
+ state_GDP_growth_factor_modifier:0 "Фактор роста регионального ВВП§!"
+
+ income_tax_rate_modifier_factor:0 "Ставка налога на прибыль"
+ business_tax_rate_modifier:0 "Ставка налога на бизнес"
+ sales_tax_rate_modifier:0 "Ставка налога с продаж"
+ tariff_tax_rate_modifier:0 "Ставка с тарифного налога"
+
+ military_industry_cost_modifier:0 "Фактор стоимости военной промышленности"
+ military_industry_equipment_cost_factor:0 "Фактор стоимости оборудования для военной промышленности"
+ admin_program_cost_factor:0 "Коэффициент затрат на административную программу"
+ tno_other_program_proportional_pop_cost:0 "Социальные расходы на душу населения"
+ tno_admin_proportional_pop_cost:0 "Административные расходы на душу населения"
 
  # Social Development modifiers
  academic_base_monthly_rate:0 "Ежемесячное измение Образованности"
@@ -26,5 +60,27 @@
  industrial_expertise_monthly_rate:0 "Ежемесячное измение Промышленного опыта"
  army_professionalism_monthly_rate:0 "Ежемесячное измение Профессионализма армии"
  nuclear_stockpile_monthly_rate:0 "Ежемесячное измение Ядерного арсенала"
+ admin_efficiency_monthly_rate:0 "Ежемесячное измение Административной эффективности"
+ 
+ # Building modifiers
+ schools_coverage_modifier: "Эффект охвата школами"
+ hospitals_coverage_modifier: "Эффект охвата больницами"
+ prisons_coverage_modifier: "Эффект охвата тюрем"
+ barracks_coverage_modifier: "Эффект охвата военными базами"
+ offices_coverage_modifier: "Эффект охвата административными зданиями"
+ 
+ schools_PE_modifier: "Эффекты от школ"
+ hospitals_PE_modifier: "Эффекты от больниц"
+ prisons_PE_modifier: "Эффекты от тюрем"
+ barracks_PE_modifier: "Эффекты от военных баз"
+ offices_PE_modifier: "Эффекты от административных зданий"
+ 
+ # Resource modifiers
+steel_cost_civilian_factories: " Потребление стали гражданскими заводами"
 
- #space_test_decisions_desc:0 "Annual GDP Growth Factor: [?modifier@annual_gdp_growth_factor]\nProportional GDP Cost: [?modifier@proportional_gdp_cost]\nPersonnel Cost Modifier: [?modifier@personnel_cost_modifier]\nTaxable Population: [?modifier@taxable_population_modifier]\nTaxable Population Factor: [?modifier@taxable_population_factor]\nIncome Rate: [?modifier@income_rate_modifier]\nIncome Rate Factor: [?modifier@income_rate_factor]\nConstruction Costs Modifier: [?modifier@construction_costs_modifier]\nCivilian Spending Modifier: [?modifier@civilian_expenditures_factor]\nMilitary Spending Modifier: [?modifier@military_expenditures_factor]\nAnnual Cost (military): [?modifier@military_annual_cost]"
+ #Japan Modifiers
+ other_factions_approval_modifier:0 "Модификатор одобрения других фракций"
+ #State Modifiers
+ state_GDP_growth_modifier:0 "§YМодификатор роста регионального ВВП§!"
+ #Used for dummy ideas only
+ proportional_pop_cost_factor:0 "Стоимость политической власти на душу населения" 
